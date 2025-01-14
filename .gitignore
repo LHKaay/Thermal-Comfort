@@ -1,4 +1,5 @@
-.conda/
-_pycache/
+tc/
+__pycache__/
 runs/
 wandb/
+node_modules/

@@ -1,0 +1,5090 @@
+,Target,Y_hat,Target_Sensation,Y_hat_Sensation
+0,1.0,0,Slighty warm,Neutral
+1,2.0,0,Warm,Neutral
+2,3.0,0,Hot,Neutral
+3,1.0,0,Slighty warm,Neutral
+4,-1.0,0,Slighty cool,Neutral
+5,1.0,0,Slighty warm,Neutral
+6,3.0,0,Hot,Neutral
+7,2.0,0,Warm,Neutral
+8,0.0,0,Neutral,Neutral
+9,1.0,0,Slighty warm,Neutral
+10,1.0,0,Slighty warm,Neutral
+11,3.0,0,Hot,Neutral
+12,0.0,0,Neutral,Neutral
+13,1.0,0,Slighty warm,Neutral
+14,-1.0,0,Slighty cool,Neutral
+15,2.0,0,Warm,Neutral
+16,-1.0,0,Slighty cool,Neutral
+17,2.0,0,Warm,Neutral
+18,-1.0,0,Slighty cool,Neutral
+19,0.0,0,Neutral,Neutral
+20,0.0,0,Neutral,Neutral
+21,3.0,0,Hot,Neutral
+22,0.0,0,Neutral,Neutral
+23,0.0,0,Neutral,Neutral
+24,-2.0,0,Cool,Neutral
+25,0.0,0,Neutral,Neutral
+26,1.0,0,Slighty warm,Neutral
+27,2.0,0,Warm,Neutral
+28,3.0,0,Hot,Neutral
+29,0.0,0,Neutral,Neutral
+30,-1.0,0,Slighty cool,Neutral
+31,-2.0,0,Cool,Neutral
+32,2.0,0,Warm,Neutral
+33,2.0,0,Warm,Neutral
+34,1.0,0,Slighty warm,Neutral
+35,1.0,0,Slighty warm,Neutral
+36,3.0,0,Hot,Neutral
+37,-1.0,0,Slighty cool,Neutral
+38,1.0,0,Slighty warm,Neutral
+39,3.0,0,Hot,Neutral
+40,-1.0,0,Slighty cool,Neutral
+41,0.0,0,Neutral,Neutral
+42,0.0,0,Neutral,Neutral
+43,0.0,0,Neutral,Neutral
+44,-1.0,0,Slighty cool,Neutral
+45,0.0,0,Neutral,Neutral
+46,3.0,0,Hot,Neutral
+47,-1.0,0,Slighty cool,Neutral
+48,0.0,0,Neutral,Neutral
+49,1.0,0,Slighty warm,Neutral
+50,3.0,0,Hot,Neutral
+51,1.0,0,Slighty warm,Neutral
+52,1.0,0,Slighty warm,Neutral
+53,-1.0,0,Slighty cool,Neutral
+54,0.0,0,Neutral,Neutral
+55,1.0,0,Slighty warm,Neutral
+56,0.0,0,Neutral,Neutral
+57,-0.0,0,Neutral,Neutral
+58,-1.0,0,Slighty cool,Neutral
+59,1.0,0,Slighty warm,Neutral
+60,-1.0,0,Slighty cool,Neutral
+61,-1.0,0,Slighty cool,Neutral
+62,0.0,0,Neutral,Neutral
+63,0.0,0,Neutral,Neutral
+64,1.0,0,Slighty warm,Neutral
+65,0.0,0,Neutral,Neutral
+66,0.0,0,Neutral,Neutral
+67,0.0,0,Neutral,Neutral
+68,0.0,0,Neutral,Neutral
+69,-1.0,0,Slighty cool,Neutral
+70,1.0,0,Slighty warm,Neutral
+71,0.0,0,Neutral,Neutral
+72,0.0,0,Neutral,Neutral
+73,0.0,0,Neutral,Neutral
+74,-1.0,0,Slighty cool,Neutral
+75,0.0,0,Neutral,Neutral
+76,-1.0,0,Slighty cool,Neutral
+77,-1.0,0,Slighty cool,Neutral
+78,-1.0,0,Slighty cool,Neutral
+79,1.0,0,Slighty warm,Neutral
+80,0.0,0,Neutral,Neutral
+81,0.0,0,Neutral,Neutral
+82,0.0,0,Neutral,Neutral
+83,0.0,0,Neutral,Neutral
+84,2.0,0,Warm,Neutral
+85,-1.0,0,Slighty cool,Neutral
+86,0.0,0,Neutral,Neutral
+87,0.0,0,Neutral,Neutral
+88,3.0,0,Hot,Neutral
+89,2.0,0,Warm,Neutral
+90,1.0,0,Slighty warm,Neutral
+91,3.0,0,Hot,Neutral
+92,3.0,0,Hot,Neutral
+93,1.0,0,Slighty warm,Neutral
+94,1.0,0,Slighty warm,Neutral
+95,0.0,0,Neutral,Neutral
+96,1.0,0,Slighty warm,Neutral
+97,1.0,0,Slighty warm,Neutral
+98,1.0,0,Slighty warm,Neutral
+99,0.0,0,Neutral,Neutral
+100,0.0,0,Neutral,Neutral
+101,2.0,0,Warm,Neutral
+102,-2.0,0,Cool,Neutral
+103,-1.0,0,Slighty cool,Neutral
+104,0.0,0,Neutral,Neutral
+105,0.0,0,Neutral,Neutral
+106,0.0,0,Neutral,Neutral
+107,2.0,0,Warm,Neutral
+108,0.0,0,Neutral,Neutral
+109,1.0,0,Slighty warm,Neutral
+110,1.0,0,Slighty warm,Neutral
+111,0.0,0,Neutral,Neutral
+112,1.0,0,Slighty warm,Neutral
+113,0.0,0,Neutral,Neutral
+114,-0.0,0,Neutral,Neutral
+115,0.0,0,Neutral,Neutral
+116,1.0,0,Slighty warm,Neutral
+117,0.0,0,Neutral,Neutral
+118,3.0,0,Hot,Neutral
+119,-1.0,0,Slighty cool,Neutral
+120,1.0,0,Slighty warm,Neutral
+121,-2.0,0,Cool,Neutral
+122,-1.0,0,Slighty cool,Neutral
+123,-1.0,0,Slighty cool,Neutral
+124,0.0,0,Neutral,Neutral
+125,-1.0,0,Slighty cool,Neutral
+126,0.0,0,Neutral,Neutral
+127,2.0,0,Warm,Neutral
+128,1.0,0,Slighty warm,Neutral
+129,-2.0,0,Cool,Neutral
+130,-1.0,0,Slighty cool,Neutral
+131,-1.0,0,Slighty cool,Neutral
+132,-1.0,0,Slighty cool,Neutral
+133,2.0,0,Warm,Neutral
+134,-3.0,0,Cold,Neutral
+135,0.0,0,Neutral,Neutral
+136,1.0,0,Slighty warm,Neutral
+137,-1.0,0,Slighty cool,Neutral
+138,-1.0,0,Slighty cool,Neutral
+139,0.0,0,Neutral,Neutral
+140,-1.0,0,Slighty cool,Neutral
+141,0.0,0,Neutral,Neutral
+142,2.0,0,Warm,Neutral
+143,0.0,0,Neutral,Neutral
+144,0.0,0,Neutral,Neutral
+145,-1.0,0,Slighty cool,Neutral
+146,0.0,0,Neutral,Neutral
+147,0.0,0,Neutral,Neutral
+148,0.0,0,Neutral,Neutral
+149,1.0,0,Slighty warm,Neutral
+150,1.0,0,Slighty warm,Neutral
+151,0.0,0,Neutral,Neutral
+152,0.0,0,Neutral,Neutral
+153,0.0,0,Neutral,Neutral
+154,1.0,0,Slighty warm,Neutral
+155,-1.0,0,Slighty cool,Neutral
+156,1.0,0,Slighty warm,Neutral
+157,0.0,0,Neutral,Neutral
+158,0.0,0,Neutral,Neutral
+159,1.0,0,Slighty warm,Neutral
+160,0.0,0,Neutral,Neutral
+161,0.0,0,Neutral,Neutral
+162,1.0,0,Slighty warm,Neutral
+163,1.0,0,Slighty warm,Neutral
+164,0.0,0,Neutral,Neutral
+165,0.0,0,Neutral,Neutral
+166,0.0,0,Neutral,Neutral
+167,0.0,0,Neutral,Neutral
+168,-1.0,0,Slighty cool,Neutral
+169,0.0,0,Neutral,Neutral
+170,-1.0,0,Slighty cool,Neutral
+171,0.0,0,Neutral,Neutral
+172,-1.0,0,Slighty cool,Neutral
+173,1.0,0,Slighty warm,Neutral
+174,-2.0,0,Cool,Neutral
+175,-1.0,0,Slighty cool,Neutral
+176,-1.0,0,Slighty cool,Neutral
+177,0.0,0,Neutral,Neutral
+178,0.0,0,Neutral,Neutral
+179,0.0,0,Neutral,Neutral
+180,0.0,0,Neutral,Neutral
+181,-0.0,0,Neutral,Neutral
+182,1.0,0,Slighty warm,Neutral
+183,-2.0,0,Cool,Neutral
+184,1.0,0,Slighty warm,Neutral
+185,0.0,0,Neutral,Neutral
+186,0.0,0,Neutral,Neutral
+187,0.0,0,Neutral,Neutral
+188,0.0,0,Neutral,Neutral
+189,1.0,0,Slighty warm,Neutral
+190,2.0,0,Warm,Neutral
+191,1.0,0,Slighty warm,Neutral
+192,0.0,0,Neutral,Neutral
+193,1.0,0,Slighty warm,Neutral
+194,0.0,0,Neutral,Neutral
+195,0.0,0,Neutral,Neutral
+196,0.0,0,Neutral,Neutral
+197,1.0,0,Slighty warm,Neutral
+198,1.0,0,Slighty warm,Neutral
+199,-3.0,0,Cold,Neutral
+200,0.0,0,Neutral,Neutral
+201,0.0,0,Neutral,Neutral
+202,1.0,0,Slighty warm,Neutral
+203,0.0,0,Neutral,Neutral
+204,0.0,0,Neutral,Neutral
+205,1.0,0,Slighty warm,Neutral
+206,-1.0,0,Slighty cool,Neutral
+207,0.0,0,Neutral,Neutral
+208,-1.0,0,Slighty cool,Neutral
+209,-1.0,0,Slighty cool,Neutral
+210,2.0,0,Warm,Neutral
+211,0.0,0,Neutral,Neutral
+212,-1.0,0,Slighty cool,Neutral
+213,1.0,0,Slighty warm,Neutral
+214,0.0,0,Neutral,Neutral
+215,1.0,0,Slighty warm,Neutral
+216,-2.0,0,Cool,Neutral
+217,0.0,0,Neutral,Neutral
+218,-0.0,0,Neutral,Neutral
+219,0.0,0,Neutral,Neutral
+220,-1.0,0,Slighty cool,Neutral
+221,0.0,0,Neutral,Neutral
+222,-1.0,0,Slighty cool,Neutral
+223,0.0,0,Neutral,Neutral
+224,-3.0,0,Cold,Neutral
+225,0.0,0,Neutral,Neutral
+226,0.0,0,Neutral,Neutral
+227,-3.0,0,Cold,Neutral
+228,2.0,0,Warm,Neutral
+229,0.0,0,Neutral,Neutral
+230,-1.0,0,Slighty cool,Neutral
+231,0.0,0,Neutral,Neutral
+232,-1.0,0,Slighty cool,Neutral
+233,0.0,0,Neutral,Neutral
+234,-1.0,0,Slighty cool,Neutral
+235,0.0,0,Neutral,Neutral
+236,2.0,0,Warm,Neutral
+237,0.0,0,Neutral,Neutral
+238,1.0,0,Slighty warm,Neutral
+239,1.0,0,Slighty warm,Neutral
+240,0.0,0,Neutral,Neutral
+241,0.0,0,Neutral,Neutral
+242,-1.0,0,Slighty cool,Neutral
+243,-3.0,0,Cold,Neutral
+244,-1.0,0,Slighty cool,Neutral
+245,-1.0,0,Slighty cool,Neutral
+246,0.0,0,Neutral,Neutral
+247,0.0,0,Neutral,Neutral
+248,0.0,0,Neutral,Neutral
+249,0.0,0,Neutral,Neutral
+250,0.0,0,Neutral,Neutral
+251,0.0,0,Neutral,Neutral
+252,0.0,0,Neutral,Neutral
+253,1.0,0,Slighty warm,Neutral
+254,1.0,0,Slighty warm,Neutral
+255,0.0,0,Neutral,Neutral
+256,-1.0,0,Slighty cool,Neutral
+257,-1.0,0,Slighty cool,Neutral
+258,0.0,0,Neutral,Neutral
+259,-1.0,0,Slighty cool,Neutral
+260,2.0,0,Warm,Neutral
+261,0.0,0,Neutral,Neutral
+262,0.0,0,Neutral,Neutral
+263,-1.0,0,Slighty cool,Neutral
+264,1.0,0,Slighty warm,Neutral
+265,0.0,0,Neutral,Neutral
+266,1.0,0,Slighty warm,Neutral
+267,0.0,0,Neutral,Neutral
+268,1.0,0,Slighty warm,Neutral
+269,1.0,0,Slighty warm,Neutral
+270,0.0,0,Neutral,Neutral
+271,1.0,0,Slighty warm,Neutral
+272,0.0,0,Neutral,Neutral
+273,1.0,0,Slighty warm,Neutral
+274,3.0,0,Hot,Neutral
+275,0.0,0,Neutral,Neutral
+276,2.0,0,Warm,Neutral
+277,-2.0,0,Cool,Neutral
+278,0.0,0,Neutral,Neutral
+279,0.0,0,Neutral,Neutral
+280,1.0,0,Slighty warm,Neutral
+281,3.0,0,Hot,Neutral
+282,0.0,0,Neutral,Neutral
+283,0.0,0,Neutral,Neutral
+284,-1.0,0,Slighty cool,Neutral
+285,1.0,0,Slighty warm,Neutral
+286,0.0,0,Neutral,Neutral
+287,-3.0,0,Cold,Neutral
+288,1.0,0,Slighty warm,Neutral
+289,0.0,0,Neutral,Neutral
+290,-1.0,0,Slighty cool,Neutral
+291,3.0,0,Hot,Neutral
+292,1.0,0,Slighty warm,Neutral
+293,1.0,0,Slighty warm,Neutral
+294,0.0,0,Neutral,Neutral
+295,0.0,0,Neutral,Neutral
+296,-1.0,0,Slighty cool,Neutral
+297,-2.0,0,Cool,Neutral
+298,-1.0,0,Slighty cool,Neutral
+299,1.0,0,Slighty warm,Neutral
+300,0.0,0,Neutral,Neutral
+301,0.0,0,Neutral,Neutral
+302,3.0,0,Hot,Neutral
+303,2.0,0,Warm,Neutral
+304,0.0,0,Neutral,Neutral
+305,-3.0,0,Cold,Neutral
+306,-1.0,0,Slighty cool,Neutral
+307,1.0,0,Slighty warm,Neutral
+308,3.0,0,Hot,Neutral
+309,0.0,0,Neutral,Neutral
+310,0.0,0,Neutral,Neutral
+311,-3.0,0,Cold,Neutral
+312,3.0,0,Hot,Neutral
+313,0.0,0,Neutral,Neutral
+314,0.0,0,Neutral,Neutral
+315,0.0,0,Neutral,Neutral
+316,-0.0,0,Neutral,Neutral
+317,1.0,0,Slighty warm,Neutral
+318,0.0,0,Neutral,Neutral
+319,-1.0,0,Slighty cool,Neutral
+320,1.0,0,Slighty warm,Neutral
+321,0.0,0,Neutral,Neutral
+322,0.0,0,Neutral,Neutral
+323,0.0,0,Neutral,Neutral
+324,-2.0,0,Cool,Neutral
+325,0.0,0,Neutral,Neutral
+326,0.0,0,Neutral,Neutral
+327,0.0,0,Neutral,Neutral
+328,0.0,0,Neutral,Neutral
+329,-1.0,0,Slighty cool,Neutral
+330,1.0,0,Slighty warm,Neutral
+331,-1.0,0,Slighty cool,Neutral
+332,1.0,0,Slighty warm,Neutral
+333,-1.0,0,Slighty cool,Neutral
+334,0.0,0,Neutral,Neutral
+335,3.0,0,Hot,Neutral
+336,-0.0,0,Neutral,Neutral
+337,1.0,0,Slighty warm,Neutral
+338,2.0,0,Warm,Neutral
+339,0.0,0,Neutral,Neutral
+340,0.0,0,Neutral,Neutral
+341,-1.0,0,Slighty cool,Neutral
+342,-1.0,0,Slighty cool,Neutral
+343,0.0,0,Neutral,Neutral
+344,-2.0,0,Cool,Neutral
+345,0.0,0,Neutral,Neutral
+346,0.0,0,Neutral,Neutral
+347,-3.0,0,Cold,Neutral
+348,0.0,0,Neutral,Neutral
+349,0.0,0,Neutral,Neutral
+350,1.0,0,Slighty warm,Neutral
+351,0.0,0,Neutral,Neutral
+352,0.0,0,Neutral,Neutral
+353,1.0,0,Slighty warm,Neutral
+354,0.0,0,Neutral,Neutral
+355,0.0,0,Neutral,Neutral
+356,0.0,0,Neutral,Neutral
+357,-1.0,0,Slighty cool,Neutral
+358,0.0,0,Neutral,Neutral
+359,0.0,0,Neutral,Neutral
+360,-1.0,0,Slighty cool,Neutral
+361,0.0,0,Neutral,Neutral
+362,0.0,1,Neutral,Slighty warm
+363,2.0,0,Warm,Neutral
+364,1.0,0,Slighty warm,Neutral
+365,0.0,0,Neutral,Neutral
+366,-2.0,0,Cool,Neutral
+367,0.0,0,Neutral,Neutral
+368,1.0,0,Slighty warm,Neutral
+369,-1.0,0,Slighty cool,Neutral
+370,-1.0,0,Slighty cool,Neutral
+371,0.0,0,Neutral,Neutral
+372,1.0,0,Slighty warm,Neutral
+373,0.0,0,Neutral,Neutral
+374,-0.0,0,Neutral,Neutral
+375,-1.0,0,Slighty cool,Neutral
+376,1.0,0,Slighty warm,Neutral
+377,-1.0,0,Slighty cool,Neutral
+378,1.0,0,Slighty warm,Neutral
+379,-2.0,0,Cool,Neutral
+380,0.0,0,Neutral,Neutral
+381,0.0,0,Neutral,Neutral
+382,0.0,0,Neutral,Neutral
+383,0.0,0,Neutral,Neutral
+384,0.0,0,Neutral,Neutral
+385,0.0,0,Neutral,Neutral
+386,-1.0,0,Slighty cool,Neutral
+387,0.0,0,Neutral,Neutral
+388,1.0,0,Slighty warm,Neutral
+389,0.0,0,Neutral,Neutral
+390,-0.0,0,Neutral,Neutral
+391,1.0,0,Slighty warm,Neutral
+392,0.0,0,Neutral,Neutral
+393,0.0,0,Neutral,Neutral
+394,-1.0,0,Slighty cool,Neutral
+395,-1.0,0,Slighty cool,Neutral
+396,-2.0,0,Cool,Neutral
+397,1.0,0,Slighty warm,Neutral
+398,1.0,0,Slighty warm,Neutral
+399,0.0,0,Neutral,Neutral
+400,0.0,0,Neutral,Neutral
+401,0.0,0,Neutral,Neutral
+402,1.0,0,Slighty warm,Neutral
+403,0.0,0,Neutral,Neutral
+404,0.0,0,Neutral,Neutral
+405,-1.0,0,Slighty cool,Neutral
+406,1.0,0,Slighty warm,Neutral
+407,-1.0,0,Slighty cool,Neutral
+408,0.0,0,Neutral,Neutral
+409,-1.0,0,Slighty cool,Neutral
+410,0.0,0,Neutral,Neutral
+411,0.0,0,Neutral,Neutral
+412,0.0,0,Neutral,Neutral
+413,0.0,0,Neutral,Neutral
+414,0.0,0,Neutral,Neutral
+415,0.0,0,Neutral,Neutral
+416,-2.0,0,Cool,Neutral
+417,0.0,0,Neutral,Neutral
+418,-2.0,0,Cool,Neutral
+419,2.0,0,Warm,Neutral
+420,2.0,0,Warm,Neutral
+421,0.0,0,Neutral,Neutral
+422,2.0,0,Warm,Neutral
+423,-1.0,0,Slighty cool,Neutral
+424,0.0,0,Neutral,Neutral
+425,0.0,0,Neutral,Neutral
+426,-0.0,0,Neutral,Neutral
+427,0.0,0,Neutral,Neutral
+428,0.0,0,Neutral,Neutral
+429,1.0,0,Slighty warm,Neutral
+430,0.0,0,Neutral,Neutral
+431,1.0,0,Slighty warm,Neutral
+432,0.0,0,Neutral,Neutral
+433,1.0,0,Slighty warm,Neutral
+434,0.0,0,Neutral,Neutral
+435,-1.0,0,Slighty cool,Neutral
+436,0.0,0,Neutral,Neutral
+437,1.0,0,Slighty warm,Neutral
+438,-1.0,0,Slighty cool,Neutral
+439,2.0,0,Warm,Neutral
+440,0.0,0,Neutral,Neutral
+441,1.0,0,Slighty warm,Neutral
+442,-1.0,0,Slighty cool,Neutral
+443,-1.0,0,Slighty cool,Neutral
+444,2.0,0,Warm,Neutral
+445,0.0,0,Neutral,Neutral
+446,1.0,0,Slighty warm,Neutral
+447,-1.0,0,Slighty cool,Neutral
+448,1.0,0,Slighty warm,Neutral
+449,0.0,0,Neutral,Neutral
+450,0.0,0,Neutral,Neutral
+451,3.0,0,Hot,Neutral
+452,-1.0,0,Slighty cool,Neutral
+453,0.0,0,Neutral,Neutral
+454,0.0,0,Neutral,Neutral
+455,-1.0,0,Slighty cool,Neutral
+456,-1.0,0,Slighty cool,Neutral
+457,0.0,0,Neutral,Neutral
+458,1.0,0,Slighty warm,Neutral
+459,-1.0,0,Slighty cool,Neutral
+460,-0.0,0,Neutral,Neutral
+461,0.0,0,Neutral,Neutral
+462,-1.0,0,Slighty cool,Neutral
+463,0.0,0,Neutral,Neutral
+464,-0.0,0,Neutral,Neutral
+465,1.0,0,Slighty warm,Neutral
+466,-2.0,0,Cool,Neutral
+467,-3.0,0,Cold,Neutral
+468,1.0,0,Slighty warm,Neutral
+469,0.0,0,Neutral,Neutral
+470,0.0,0,Neutral,Neutral
+471,0.0,0,Neutral,Neutral
+472,3.0,0,Hot,Neutral
+473,0.0,0,Neutral,Neutral
+474,0.0,0,Neutral,Neutral
+475,0.0,0,Neutral,Neutral
+476,-1.0,0,Slighty cool,Neutral
+477,1.0,0,Slighty warm,Neutral
+478,1.0,0,Slighty warm,Neutral
+479,0.0,0,Neutral,Neutral
+480,0.0,0,Neutral,Neutral
+481,0.0,0,Neutral,Neutral
+482,0.0,0,Neutral,Neutral
+483,-1.0,0,Slighty cool,Neutral
+484,1.0,0,Slighty warm,Neutral
+485,1.0,0,Slighty warm,Neutral
+486,-1.0,0,Slighty cool,Neutral
+487,0.0,0,Neutral,Neutral
+488,-3.0,0,Cold,Neutral
+489,0.0,0,Neutral,Neutral
+490,-1.0,0,Slighty cool,Neutral
+491,-1.0,0,Slighty cool,Neutral
+492,0.0,0,Neutral,Neutral
+493,0.0,0,Neutral,Neutral
+494,1.0,0,Slighty warm,Neutral
+495,0.0,0,Neutral,Neutral
+496,-1.0,0,Slighty cool,Neutral
+497,0.0,0,Neutral,Neutral
+498,1.0,0,Slighty warm,Neutral
+499,-1.0,0,Slighty cool,Neutral
+500,0.0,0,Neutral,Neutral
+501,2.0,0,Warm,Neutral
+502,0.0,0,Neutral,Neutral
+503,0.0,0,Neutral,Neutral
+504,-2.0,0,Cool,Neutral
+505,1.0,0,Slighty warm,Neutral
+506,-1.0,0,Slighty cool,Neutral
+507,0.0,0,Neutral,Neutral
+508,0.0,0,Neutral,Neutral
+509,0.0,0,Neutral,Neutral
+510,-1.0,0,Slighty cool,Neutral
+511,0.0,0,Neutral,Neutral
+512,0.0,0,Neutral,Neutral
+513,-2.0,0,Cool,Neutral
+514,-2.0,0,Cool,Neutral
+515,-1.0,0,Slighty cool,Neutral
+516,0.0,0,Neutral,Neutral
+517,0.0,0,Neutral,Neutral
+518,0.0,0,Neutral,Neutral
+519,0.0,0,Neutral,Neutral
+520,0.0,0,Neutral,Neutral
+521,-1.0,0,Slighty cool,Neutral
+522,0.0,0,Neutral,Neutral
+523,2.0,0,Warm,Neutral
+524,1.0,0,Slighty warm,Neutral
+525,0.0,0,Neutral,Neutral
+526,2.0,0,Warm,Neutral
+527,0.0,0,Neutral,Neutral
+528,0.0,0,Neutral,Neutral
+529,2.0,0,Warm,Neutral
+530,-3.0,0,Cold,Neutral
+531,0.0,0,Neutral,Neutral
+532,1.0,0,Slighty warm,Neutral
+533,2.0,0,Warm,Neutral
+534,0.0,0,Neutral,Neutral
+535,0.0,0,Neutral,Neutral
+536,0.0,0,Neutral,Neutral
+537,2.0,0,Warm,Neutral
+538,0.0,0,Neutral,Neutral
+539,1.0,0,Slighty warm,Neutral
+540,-1.0,0,Slighty cool,Neutral
+541,1.0,0,Slighty warm,Neutral
+542,0.0,0,Neutral,Neutral
+543,-1.0,0,Slighty cool,Neutral
+544,0.0,0,Neutral,Neutral
+545,-0.0,0,Neutral,Neutral
+546,-1.0,0,Slighty cool,Neutral
+547,-1.0,0,Slighty cool,Neutral
+548,0.0,0,Neutral,Neutral
+549,-1.0,0,Slighty cool,Neutral
+550,1.0,0,Slighty warm,Neutral
+551,-1.0,0,Slighty cool,Neutral
+552,-2.0,0,Cool,Neutral
+553,0.0,0,Neutral,Neutral
+554,-1.0,0,Slighty cool,Neutral
+555,1.0,0,Slighty warm,Neutral
+556,0.0,0,Neutral,Neutral
+557,0.0,0,Neutral,Neutral
+558,1.0,0,Slighty warm,Neutral
+559,-0.0,0,Neutral,Neutral
+560,-3.0,0,Cold,Neutral
+561,3.0,0,Hot,Neutral
+562,-1.0,0,Slighty cool,Neutral
+563,-0.0,0,Neutral,Neutral
+564,1.0,0,Slighty warm,Neutral
+565,-1.0,0,Slighty cool,Neutral
+566,2.0,0,Warm,Neutral
+567,0.0,0,Neutral,Neutral
+568,0.0,0,Neutral,Neutral
+569,0.0,0,Neutral,Neutral
+570,3.0,0,Hot,Neutral
+571,-0.0,0,Neutral,Neutral
+572,2.0,0,Warm,Neutral
+573,1.0,0,Slighty warm,Neutral
+574,0.0,0,Neutral,Neutral
+575,-1.0,0,Slighty cool,Neutral
+576,3.0,0,Hot,Neutral
+577,0.0,0,Neutral,Neutral
+578,-1.0,0,Slighty cool,Neutral
+579,1.0,0,Slighty warm,Neutral
+580,0.0,0,Neutral,Neutral
+581,-1.0,0,Slighty cool,Neutral
+582,-2.0,0,Cool,Neutral
+583,1.0,0,Slighty warm,Neutral
+584,0.0,0,Neutral,Neutral
+585,-1.0,0,Slighty cool,Neutral
+586,1.0,0,Slighty warm,Neutral
+587,1.0,0,Slighty warm,Neutral
+588,0.0,0,Neutral,Neutral
+589,0.0,0,Neutral,Neutral
+590,1.0,0,Slighty warm,Neutral
+591,2.0,0,Warm,Neutral
+592,0.0,0,Neutral,Neutral
+593,0.0,0,Neutral,Neutral
+594,0.0,0,Neutral,Neutral
+595,-2.0,0,Cool,Neutral
+596,0.0,0,Neutral,Neutral
+597,0.0,0,Neutral,Neutral
+598,0.0,0,Neutral,Neutral
+599,0.0,0,Neutral,Neutral
+600,-1.0,0,Slighty cool,Neutral
+601,1.0,0,Slighty warm,Neutral
+602,1.0,0,Slighty warm,Neutral
+603,0.0,0,Neutral,Neutral
+604,-1.0,0,Slighty cool,Neutral
+605,-1.0,0,Slighty cool,Neutral
+606,0.0,0,Neutral,Neutral
+607,0.0,0,Neutral,Neutral
+608,0.0,0,Neutral,Neutral
+609,3.0,0,Hot,Neutral
+610,0.0,1,Neutral,Slighty warm
+611,0.0,0,Neutral,Neutral
+612,-2.0,0,Cool,Neutral
+613,0.0,0,Neutral,Neutral
+614,0.0,0,Neutral,Neutral
+615,1.0,0,Slighty warm,Neutral
+616,0.0,0,Neutral,Neutral
+617,-1.0,0,Slighty cool,Neutral
+618,2.0,0,Warm,Neutral
+619,-1.0,0,Slighty cool,Neutral
+620,1.0,0,Slighty warm,Neutral
+621,-1.0,0,Slighty cool,Neutral
+622,1.0,0,Slighty warm,Neutral
+623,0.0,0,Neutral,Neutral
+624,0.0,0,Neutral,Neutral
+625,0.0,0,Neutral,Neutral
+626,-1.0,0,Slighty cool,Neutral
+627,-2.0,0,Cool,Neutral
+628,-1.0,0,Slighty cool,Neutral
+629,-0.0,0,Neutral,Neutral
+630,0.0,0,Neutral,Neutral
+631,0.0,0,Neutral,Neutral
+632,0.0,0,Neutral,Neutral
+633,3.0,0,Hot,Neutral
+634,0.0,0,Neutral,Neutral
+635,2.0,0,Warm,Neutral
+636,1.0,0,Slighty warm,Neutral
+637,0.0,0,Neutral,Neutral
+638,2.0,0,Warm,Neutral
+639,-1.0,0,Slighty cool,Neutral
+640,0.0,0,Neutral,Neutral
+641,0.0,0,Neutral,Neutral
+642,-0.0,0,Neutral,Neutral
+643,3.0,0,Hot,Neutral
+644,-1.0,0,Slighty cool,Neutral
+645,0.0,0,Neutral,Neutral
+646,2.0,0,Warm,Neutral
+647,0.0,0,Neutral,Neutral
+648,0.0,0,Neutral,Neutral
+649,2.0,0,Warm,Neutral
+650,0.0,0,Neutral,Neutral
+651,0.0,0,Neutral,Neutral
+652,1.0,0,Slighty warm,Neutral
+653,0.0,0,Neutral,Neutral
+654,3.0,0,Hot,Neutral
+655,1.0,0,Slighty warm,Neutral
+656,0.0,0,Neutral,Neutral
+657,-1.0,0,Slighty cool,Neutral
+658,1.0,0,Slighty warm,Neutral
+659,1.0,0,Slighty warm,Neutral
+660,0.0,0,Neutral,Neutral
+661,-1.0,0,Slighty cool,Neutral
+662,3.0,0,Hot,Neutral
+663,1.0,0,Slighty warm,Neutral
+664,0.0,0,Neutral,Neutral
+665,0.0,0,Neutral,Neutral
+666,-1.0,0,Slighty cool,Neutral
+667,0.0,0,Neutral,Neutral
+668,-1.0,0,Slighty cool,Neutral
+669,0.0,0,Neutral,Neutral
+670,3.0,0,Hot,Neutral
+671,0.0,0,Neutral,Neutral
+672,-3.0,0,Cold,Neutral
+673,0.0,0,Neutral,Neutral
+674,-1.0,0,Slighty cool,Neutral
+675,-1.0,0,Slighty cool,Neutral
+676,1.0,0,Slighty warm,Neutral
+677,0.0,0,Neutral,Neutral
+678,0.0,0,Neutral,Neutral
+679,0.0,0,Neutral,Neutral
+680,-1.0,0,Slighty cool,Neutral
+681,3.0,0,Hot,Neutral
+682,-1.0,0,Slighty cool,Neutral
+683,0.0,0,Neutral,Neutral
+684,0.0,0,Neutral,Neutral
+685,0.0,0,Neutral,Neutral
+686,1.0,0,Slighty warm,Neutral
+687,0.0,0,Neutral,Neutral
+688,1.0,0,Slighty warm,Neutral
+689,3.0,0,Hot,Neutral
+690,-1.0,0,Slighty cool,Neutral
+691,0.0,0,Neutral,Neutral
+692,-0.0,0,Neutral,Neutral
+693,0.0,0,Neutral,Neutral
+694,0.0,0,Neutral,Neutral
+695,-1.0,0,Slighty cool,Neutral
+696,0.0,0,Neutral,Neutral
+697,1.0,0,Slighty warm,Neutral
+698,2.0,0,Warm,Neutral
+699,-1.0,0,Slighty cool,Neutral
+700,0.0,0,Neutral,Neutral
+701,-2.0,0,Cool,Neutral
+702,0.0,0,Neutral,Neutral
+703,0.0,0,Neutral,Neutral
+704,0.0,0,Neutral,Neutral
+705,0.0,0,Neutral,Neutral
+706,1.0,0,Slighty warm,Neutral
+707,0.0,0,Neutral,Neutral
+708,3.0,0,Hot,Neutral
+709,0.0,0,Neutral,Neutral
+710,0.0,0,Neutral,Neutral
+711,-1.0,0,Slighty cool,Neutral
+712,1.0,0,Slighty warm,Neutral
+713,0.0,0,Neutral,Neutral
+714,0.0,0,Neutral,Neutral
+715,0.0,0,Neutral,Neutral
+716,3.0,0,Hot,Neutral
+717,-1.0,0,Slighty cool,Neutral
+718,3.0,0,Hot,Neutral
+719,-1.0,0,Slighty cool,Neutral
+720,1.0,0,Slighty warm,Neutral
+721,0.0,0,Neutral,Neutral
+722,0.0,0,Neutral,Neutral
+723,0.0,0,Neutral,Neutral
+724,0.0,0,Neutral,Neutral
+725,0.0,0,Neutral,Neutral
+726,-1.0,0,Slighty cool,Neutral
+727,-1.0,0,Slighty cool,Neutral
+728,0.0,0,Neutral,Neutral
+729,0.0,0,Neutral,Neutral
+730,-1.0,0,Slighty cool,Neutral
+731,0.0,0,Neutral,Neutral
+732,-3.0,0,Cold,Neutral
+733,0.0,0,Neutral,Neutral
+734,1.0,0,Slighty warm,Neutral
+735,1.0,0,Slighty warm,Neutral
+736,0.0,0,Neutral,Neutral
+737,0.0,0,Neutral,Neutral
+738,-1.0,0,Slighty cool,Neutral
+739,0.0,0,Neutral,Neutral
+740,0.0,0,Neutral,Neutral
+741,0.0,0,Neutral,Neutral
+742,-1.0,0,Slighty cool,Neutral
+743,0.0,0,Neutral,Neutral
+744,0.0,0,Neutral,Neutral
+745,-1.0,0,Slighty cool,Neutral
+746,-1.0,0,Slighty cool,Neutral
+747,-1.0,0,Slighty cool,Neutral
+748,1.0,0,Slighty warm,Neutral
+749,0.0,0,Neutral,Neutral
+750,0.0,0,Neutral,Neutral
+751,0.0,0,Neutral,Neutral
+752,0.0,0,Neutral,Neutral
+753,1.0,0,Slighty warm,Neutral
+754,0.0,0,Neutral,Neutral
+755,3.0,0,Hot,Neutral
+756,1.0,0,Slighty warm,Neutral
+757,1.0,0,Slighty warm,Neutral
+758,0.0,0,Neutral,Neutral
+759,-1.0,0,Slighty cool,Neutral
+760,-1.0,0,Slighty cool,Neutral
+761,1.0,0,Slighty warm,Neutral
+762,0.0,0,Neutral,Neutral
+763,-1.0,0,Slighty cool,Neutral
+764,1.0,0,Slighty warm,Neutral
+765,-1.0,0,Slighty cool,Neutral
+766,0.0,0,Neutral,Neutral
+767,0.0,0,Neutral,Neutral
+768,0.0,0,Neutral,Neutral
+769,1.0,0,Slighty warm,Neutral
+770,2.0,0,Warm,Neutral
+771,0.0,0,Neutral,Neutral
+772,0.0,0,Neutral,Neutral
+773,-1.0,0,Slighty cool,Neutral
+774,0.0,0,Neutral,Neutral
+775,0.0,0,Neutral,Neutral
+776,1.0,0,Slighty warm,Neutral
+777,0.0,0,Neutral,Neutral
+778,2.0,0,Warm,Neutral
+779,0.0,0,Neutral,Neutral
+780,-1.0,0,Slighty cool,Neutral
+781,-1.0,0,Slighty cool,Neutral
+782,0.0,0,Neutral,Neutral
+783,-2.0,0,Cool,Neutral
+784,0.0,0,Neutral,Neutral
+785,3.0,0,Hot,Neutral
+786,1.0,0,Slighty warm,Neutral
+787,0.0,0,Neutral,Neutral
+788,1.0,0,Slighty warm,Neutral
+789,1.0,0,Slighty warm,Neutral
+790,1.0,0,Slighty warm,Neutral
+791,0.0,0,Neutral,Neutral
+792,0.0,0,Neutral,Neutral
+793,0.0,0,Neutral,Neutral
+794,1.0,0,Slighty warm,Neutral
+795,0.0,0,Neutral,Neutral
+796,0.0,0,Neutral,Neutral
+797,0.0,0,Neutral,Neutral
+798,0.0,0,Neutral,Neutral
+799,0.0,0,Neutral,Neutral
+800,-1.0,0,Slighty cool,Neutral
+801,0.0,0,Neutral,Neutral
+802,1.0,0,Slighty warm,Neutral
+803,0.0,0,Neutral,Neutral
+804,0.0,0,Neutral,Neutral
+805,0.0,0,Neutral,Neutral
+806,2.0,0,Warm,Neutral
+807,1.0,0,Slighty warm,Neutral
+808,1.0,0,Slighty warm,Neutral
+809,3.0,0,Hot,Neutral
+810,0.0,0,Neutral,Neutral
+811,1.0,0,Slighty warm,Neutral
+812,0.0,0,Neutral,Neutral
+813,0.0,0,Neutral,Neutral
+814,0.0,0,Neutral,Neutral
+815,-3.0,0,Cold,Neutral
+816,0.0,0,Neutral,Neutral
+817,-1.0,0,Slighty cool,Neutral
+818,1.0,0,Slighty warm,Neutral
+819,-1.0,0,Slighty cool,Neutral
+820,-1.0,0,Slighty cool,Neutral
+821,0.0,0,Neutral,Neutral
+822,0.0,0,Neutral,Neutral
+823,0.0,0,Neutral,Neutral
+824,0.0,0,Neutral,Neutral
+825,0.0,0,Neutral,Neutral
+826,-1.0,0,Slighty cool,Neutral
+827,0.0,0,Neutral,Neutral
+828,-1.0,0,Slighty cool,Neutral
+829,0.0,0,Neutral,Neutral
+830,2.0,0,Warm,Neutral
+831,0.0,0,Neutral,Neutral
+832,0.0,0,Neutral,Neutral
+833,-1.0,0,Slighty cool,Neutral
+834,0.0,0,Neutral,Neutral
+835,0.0,0,Neutral,Neutral
+836,2.0,0,Warm,Neutral
+837,0.0,0,Neutral,Neutral
+838,-2.0,0,Cool,Neutral
+839,1.0,0,Slighty warm,Neutral
+840,-1.0,0,Slighty cool,Neutral
+841,0.0,0,Neutral,Neutral
+842,0.0,0,Neutral,Neutral
+843,1.0,0,Slighty warm,Neutral
+844,1.0,0,Slighty warm,Neutral
+845,1.0,0,Slighty warm,Neutral
+846,-1.0,0,Slighty cool,Neutral
+847,-1.0,0,Slighty cool,Neutral
+848,2.0,0,Warm,Neutral
+849,0.0,0,Neutral,Neutral
+850,-2.0,0,Cool,Neutral
+851,-3.0,0,Cold,Neutral
+852,-1.0,0,Slighty cool,Neutral
+853,1.0,0,Slighty warm,Neutral
+854,0.0,0,Neutral,Neutral
+855,-1.0,0,Slighty cool,Neutral
+856,0.0,0,Neutral,Neutral
+857,1.0,0,Slighty warm,Neutral
+858,1.0,0,Slighty warm,Neutral
+859,-2.0,0,Cool,Neutral
+860,0.0,0,Neutral,Neutral
+861,1.0,0,Slighty warm,Neutral
+862,-1.0,0,Slighty cool,Neutral
+863,1.0,0,Slighty warm,Neutral
+864,0.0,0,Neutral,Neutral
+865,-3.0,0,Cold,Neutral
+866,0.0,0,Neutral,Neutral
+867,0.0,0,Neutral,Neutral
+868,0.0,0,Neutral,Neutral
+869,0.0,0,Neutral,Neutral
+870,-2.0,0,Cool,Neutral
+871,-1.0,0,Slighty cool,Neutral
+872,1.0,0,Slighty warm,Neutral
+873,-0.0,0,Neutral,Neutral
+874,-2.0,0,Cool,Neutral
+875,-1.0,0,Slighty cool,Neutral
+876,3.0,0,Hot,Neutral
+877,0.0,0,Neutral,Neutral
+878,1.0,0,Slighty warm,Neutral
+879,1.0,0,Slighty warm,Neutral
+880,0.0,0,Neutral,Neutral
+881,0.0,0,Neutral,Neutral
+882,0.0,0,Neutral,Neutral
+883,3.0,0,Hot,Neutral
+884,0.0,0,Neutral,Neutral
+885,-1.0,0,Slighty cool,Neutral
+886,0.0,0,Neutral,Neutral
+887,2.0,0,Warm,Neutral
+888,3.0,0,Hot,Neutral
+889,0.0,0,Neutral,Neutral
+890,1.0,0,Slighty warm,Neutral
+891,0.0,0,Neutral,Neutral
+892,1.0,0,Slighty warm,Neutral
+893,-1.0,0,Slighty cool,Neutral
+894,0.0,0,Neutral,Neutral
+895,-1.0,0,Slighty cool,Neutral
+896,0.0,0,Neutral,Neutral
+897,2.0,0,Warm,Neutral
+898,1.0,0,Slighty warm,Neutral
+899,0.0,0,Neutral,Neutral
+900,0.0,0,Neutral,Neutral
+901,0.0,0,Neutral,Neutral
+902,0.0,0,Neutral,Neutral
+903,3.0,0,Hot,Neutral
+904,0.0,0,Neutral,Neutral
+905,-2.0,0,Cool,Neutral
+906,0.0,0,Neutral,Neutral
+907,1.0,0,Slighty warm,Neutral
+908,0.0,0,Neutral,Neutral
+909,1.0,0,Slighty warm,Neutral
+910,0.0,0,Neutral,Neutral
+911,0.0,0,Neutral,Neutral
+912,0.0,0,Neutral,Neutral
+913,0.0,0,Neutral,Neutral
+914,3.0,0,Hot,Neutral
+915,0.0,0,Neutral,Neutral
+916,-1.0,0,Slighty cool,Neutral
+917,2.0,0,Warm,Neutral
+918,2.0,0,Warm,Neutral
+919,-1.0,0,Slighty cool,Neutral
+920,-1.0,0,Slighty cool,Neutral
+921,0.0,0,Neutral,Neutral
+922,0.0,0,Neutral,Neutral
+923,-2.0,0,Cool,Neutral
+924,0.0,0,Neutral,Neutral
+925,0.0,0,Neutral,Neutral
+926,0.0,0,Neutral,Neutral
+927,0.0,0,Neutral,Neutral
+928,0.0,0,Neutral,Neutral
+929,0.0,0,Neutral,Neutral
+930,0.0,0,Neutral,Neutral
+931,0.0,0,Neutral,Neutral
+932,0.0,0,Neutral,Neutral
+933,0.0,0,Neutral,Neutral
+934,1.0,0,Slighty warm,Neutral
+935,-2.0,0,Cool,Neutral
+936,-1.0,0,Slighty cool,Neutral
+937,-1.0,0,Slighty cool,Neutral
+938,1.0,0,Slighty warm,Neutral
+939,-1.0,0,Slighty cool,Neutral
+940,1.0,0,Slighty warm,Neutral
+941,1.0,0,Slighty warm,Neutral
+942,-1.0,0,Slighty cool,Neutral
+943,2.0,0,Warm,Neutral
+944,-2.0,0,Cool,Neutral
+945,-1.0,0,Slighty cool,Neutral
+946,1.0,0,Slighty warm,Neutral
+947,0.0,0,Neutral,Neutral
+948,-2.0,0,Cool,Neutral
+949,-1.0,0,Slighty cool,Neutral
+950,2.0,0,Warm,Neutral
+951,0.0,0,Neutral,Neutral
+952,0.0,0,Neutral,Neutral
+953,0.0,0,Neutral,Neutral
+954,1.0,0,Slighty warm,Neutral
+955,-1.0,0,Slighty cool,Neutral
+956,0.0,0,Neutral,Neutral
+957,-2.0,0,Cool,Neutral
+958,0.0,0,Neutral,Neutral
+959,-1.0,0,Slighty cool,Neutral
+960,0.0,0,Neutral,Neutral
+961,2.0,0,Warm,Neutral
+962,2.0,0,Warm,Neutral
+963,0.0,0,Neutral,Neutral
+964,-1.0,0,Slighty cool,Neutral
+965,0.0,0,Neutral,Neutral
+966,1.0,0,Slighty warm,Neutral
+967,0.0,0,Neutral,Neutral
+968,-3.0,0,Cold,Neutral
+969,1.0,0,Slighty warm,Neutral
+970,0.0,0,Neutral,Neutral
+971,0.0,0,Neutral,Neutral
+972,0.0,0,Neutral,Neutral
+973,-2.0,0,Cool,Neutral
+974,-1.0,0,Slighty cool,Neutral
+975,0.0,0,Neutral,Neutral
+976,-1.0,0,Slighty cool,Neutral
+977,-1.0,0,Slighty cool,Neutral
+978,1.0,0,Slighty warm,Neutral
+979,1.0,0,Slighty warm,Neutral
+980,0.0,0,Neutral,Neutral
+981,2.0,0,Warm,Neutral
+982,0.0,0,Neutral,Neutral
+983,-0.0,0,Neutral,Neutral
+984,0.0,0,Neutral,Neutral
+985,-1.0,0,Slighty cool,Neutral
+986,1.0,0,Slighty warm,Neutral
+987,0.0,0,Neutral,Neutral
+988,0.0,0,Neutral,Neutral
+989,1.0,0,Slighty warm,Neutral
+990,3.0,0,Hot,Neutral
+991,-3.0,0,Cold,Neutral
+992,2.0,0,Warm,Neutral
+993,2.0,0,Warm,Neutral
+994,0.0,0,Neutral,Neutral
+995,-1.0,0,Slighty cool,Neutral
+996,-1.0,0,Slighty cool,Neutral
+997,0.0,0,Neutral,Neutral
+998,-2.0,0,Cool,Neutral
+999,0.0,0,Neutral,Neutral
+1000,0.0,0,Neutral,Neutral
+1001,1.0,0,Slighty warm,Neutral
+1002,0.0,0,Neutral,Neutral
+1003,1.0,0,Slighty warm,Neutral
+1004,1.0,0,Slighty warm,Neutral
+1005,0.0,0,Neutral,Neutral
+1006,1.0,0,Slighty warm,Neutral
+1007,0.0,0,Neutral,Neutral
+1008,0.0,0,Neutral,Neutral
+1009,0.0,0,Neutral,Neutral
+1010,3.0,0,Hot,Neutral
+1011,0.0,0,Neutral,Neutral
+1012,-1.0,0,Slighty cool,Neutral
+1013,-0.0,0,Neutral,Neutral
+1014,0.0,0,Neutral,Neutral
+1015,0.0,0,Neutral,Neutral
+1016,0.0,0,Neutral,Neutral
+1017,0.0,0,Neutral,Neutral
+1018,-1.0,0,Slighty cool,Neutral
+1019,1.0,0,Slighty warm,Neutral
+1020,0.0,0,Neutral,Neutral
+1021,-2.0,0,Cool,Neutral
+1022,0.0,0,Neutral,Neutral
+1023,0.0,0,Neutral,Neutral
+1024,1.0,0,Slighty warm,Neutral
+1025,2.0,0,Warm,Neutral
+1026,0.0,0,Neutral,Neutral
+1027,-2.0,0,Cool,Neutral
+1028,0.0,0,Neutral,Neutral
+1029,3.0,0,Hot,Neutral
+1030,3.0,0,Hot,Neutral
+1031,0.0,0,Neutral,Neutral
+1032,-1.0,0,Slighty cool,Neutral
+1033,2.0,0,Warm,Neutral
+1034,0.0,0,Neutral,Neutral
+1035,2.0,0,Warm,Neutral
+1036,0.0,0,Neutral,Neutral
+1037,-1.0,0,Slighty cool,Neutral
+1038,1.0,0,Slighty warm,Neutral
+1039,1.0,0,Slighty warm,Neutral
+1040,0.0,0,Neutral,Neutral
+1041,-1.0,0,Slighty cool,Neutral
+1042,0.0,0,Neutral,Neutral
+1043,2.0,0,Warm,Neutral
+1044,0.0,0,Neutral,Neutral
+1045,2.0,0,Warm,Neutral
+1046,0.0,0,Neutral,Neutral
+1047,0.0,0,Neutral,Neutral
+1048,1.0,0,Slighty warm,Neutral
+1049,0.0,0,Neutral,Neutral
+1050,2.0,0,Warm,Neutral
+1051,0.0,0,Neutral,Neutral
+1052,2.0,0,Warm,Neutral
+1053,1.0,0,Slighty warm,Neutral
+1054,0.0,0,Neutral,Neutral
+1055,0.0,0,Neutral,Neutral
+1056,-1.0,0,Slighty cool,Neutral
+1057,-1.0,0,Slighty cool,Neutral
+1058,-0.0,0,Neutral,Neutral
+1059,0.0,0,Neutral,Neutral
+1060,0.0,0,Neutral,Neutral
+1061,0.0,0,Neutral,Neutral
+1062,0.0,0,Neutral,Neutral
+1063,0.0,0,Neutral,Neutral
+1064,-1.0,0,Slighty cool,Neutral
+1065,-1.0,0,Slighty cool,Neutral
+1066,3.0,0,Hot,Neutral
+1067,0.0,0,Neutral,Neutral
+1068,1.0,0,Slighty warm,Neutral
+1069,-1.0,0,Slighty cool,Neutral
+1070,-1.0,0,Slighty cool,Neutral
+1071,-1.0,0,Slighty cool,Neutral
+1072,0.0,0,Neutral,Neutral
+1073,1.0,0,Slighty warm,Neutral
+1074,0.0,0,Neutral,Neutral
+1075,1.0,0,Slighty warm,Neutral
+1076,2.0,0,Warm,Neutral
+1077,0.0,0,Neutral,Neutral
+1078,2.0,0,Warm,Neutral
+1079,0.0,0,Neutral,Neutral
+1080,0.0,0,Neutral,Neutral
+1081,1.0,0,Slighty warm,Neutral
+1082,0.0,0,Neutral,Neutral
+1083,0.0,0,Neutral,Neutral
+1084,-1.0,0,Slighty cool,Neutral
+1085,0.0,0,Neutral,Neutral
+1086,2.0,0,Warm,Neutral
+1087,0.0,0,Neutral,Neutral
+1088,1.0,0,Slighty warm,Neutral
+1089,0.0,0,Neutral,Neutral
+1090,0.0,0,Neutral,Neutral
+1091,0.0,0,Neutral,Neutral
+1092,0.0,0,Neutral,Neutral
+1093,3.0,0,Hot,Neutral
+1094,0.0,0,Neutral,Neutral
+1095,-2.0,0,Cool,Neutral
+1096,2.0,0,Warm,Neutral
+1097,-2.0,0,Cool,Neutral
+1098,1.0,0,Slighty warm,Neutral
+1099,0.0,0,Neutral,Neutral
+1100,0.0,0,Neutral,Neutral
+1101,-1.0,0,Slighty cool,Neutral
+1102,1.0,0,Slighty warm,Neutral
+1103,0.0,0,Neutral,Neutral
+1104,3.0,0,Hot,Neutral
+1105,0.0,0,Neutral,Neutral
+1106,-1.0,0,Slighty cool,Neutral
+1107,1.0,0,Slighty warm,Neutral
+1108,2.0,0,Warm,Neutral
+1109,-1.0,0,Slighty cool,Neutral
+1110,0.0,0,Neutral,Neutral
+1111,2.0,0,Warm,Neutral
+1112,-1.0,0,Slighty cool,Neutral
+1113,0.0,0,Neutral,Neutral
+1114,-1.0,0,Slighty cool,Neutral
+1115,1.0,0,Slighty warm,Neutral
+1116,0.0,0,Neutral,Neutral
+1117,-1.0,0,Slighty cool,Neutral
+1118,1.0,0,Slighty warm,Neutral
+1119,0.0,0,Neutral,Neutral
+1120,0.0,0,Neutral,Neutral
+1121,1.0,0,Slighty warm,Neutral
+1122,-0.0,0,Neutral,Neutral
+1123,1.0,0,Slighty warm,Neutral
+1124,-2.0,0,Cool,Neutral
+1125,1.0,0,Slighty warm,Neutral
+1126,2.0,0,Warm,Neutral
+1127,3.0,0,Hot,Neutral
+1128,0.0,0,Neutral,Neutral
+1129,1.0,0,Slighty warm,Neutral
+1130,0.0,0,Neutral,Neutral
+1131,0.0,0,Neutral,Neutral
+1132,-1.0,0,Slighty cool,Neutral
+1133,0.0,0,Neutral,Neutral
+1134,-1.0,0,Slighty cool,Neutral
+1135,0.0,0,Neutral,Neutral
+1136,-1.0,0,Slighty cool,Neutral
+1137,-1.0,0,Slighty cool,Neutral
+1138,0.0,0,Neutral,Neutral
+1139,0.0,0,Neutral,Neutral
+1140,1.0,0,Slighty warm,Neutral
+1141,-1.0,0,Slighty cool,Neutral
+1142,-1.0,0,Slighty cool,Neutral
+1143,0.0,0,Neutral,Neutral
+1144,1.0,0,Slighty warm,Neutral
+1145,-0.0,0,Neutral,Neutral
+1146,0.0,0,Neutral,Neutral
+1147,3.0,0,Hot,Neutral
+1148,1.0,0,Slighty warm,Neutral
+1149,0.0,0,Neutral,Neutral
+1150,0.0,0,Neutral,Neutral
+1151,0.0,0,Neutral,Neutral
+1152,-0.0,0,Neutral,Neutral
+1153,0.0,0,Neutral,Neutral
+1154,3.0,0,Hot,Neutral
+1155,1.0,0,Slighty warm,Neutral
+1156,0.0,0,Neutral,Neutral
+1157,1.0,0,Slighty warm,Neutral
+1158,0.0,0,Neutral,Neutral
+1159,1.0,0,Slighty warm,Neutral
+1160,-1.0,0,Slighty cool,Neutral
+1161,0.0,0,Neutral,Neutral
+1162,2.0,0,Warm,Neutral
+1163,0.0,0,Neutral,Neutral
+1164,3.0,0,Hot,Neutral
+1165,0.0,0,Neutral,Neutral
+1166,1.0,0,Slighty warm,Neutral
+1167,0.0,0,Neutral,Neutral
+1168,-1.0,0,Slighty cool,Neutral
+1169,0.0,0,Neutral,Neutral
+1170,-2.0,0,Cool,Neutral
+1171,-0.0,0,Neutral,Neutral
+1172,-0.0,0,Neutral,Neutral
+1173,0.0,0,Neutral,Neutral
+1174,-1.0,0,Slighty cool,Neutral
+1175,0.0,0,Neutral,Neutral
+1176,0.0,0,Neutral,Neutral
+1177,3.0,0,Hot,Neutral
+1178,1.0,0,Slighty warm,Neutral
+1179,0.0,0,Neutral,Neutral
+1180,0.0,0,Neutral,Neutral
+1181,0.0,0,Neutral,Neutral
+1182,-1.0,0,Slighty cool,Neutral
+1183,1.0,0,Slighty warm,Neutral
+1184,2.0,0,Warm,Neutral
+1185,1.0,0,Slighty warm,Neutral
+1186,1.0,0,Slighty warm,Neutral
+1187,0.0,0,Neutral,Neutral
+1188,0.0,0,Neutral,Neutral
+1189,-1.0,0,Slighty cool,Neutral
+1190,0.0,0,Neutral,Neutral
+1191,2.0,0,Warm,Neutral
+1192,1.0,0,Slighty warm,Neutral
+1193,-0.0,0,Neutral,Neutral
+1194,0.0,0,Neutral,Neutral
+1195,2.0,0,Warm,Neutral
+1196,1.0,0,Slighty warm,Neutral
+1197,1.0,0,Slighty warm,Neutral
+1198,-2.0,0,Cool,Neutral
+1199,0.0,0,Neutral,Neutral
+1200,1.0,0,Slighty warm,Neutral
+1201,-1.0,0,Slighty cool,Neutral
+1202,0.0,0,Neutral,Neutral
+1203,-1.0,0,Slighty cool,Neutral
+1204,3.0,0,Hot,Neutral
+1205,0.0,0,Neutral,Neutral
+1206,-1.0,0,Slighty cool,Neutral
+1207,0.0,0,Neutral,Neutral
+1208,0.0,0,Neutral,Neutral
+1209,3.0,0,Hot,Neutral
+1210,-2.0,0,Cool,Neutral
+1211,0.0,0,Neutral,Neutral
+1212,-1.0,0,Slighty cool,Neutral
+1213,2.0,0,Warm,Neutral
+1214,1.0,0,Slighty warm,Neutral
+1215,1.0,0,Slighty warm,Neutral
+1216,-2.0,0,Cool,Neutral
+1217,-2.0,0,Cool,Neutral
+1218,-1.0,0,Slighty cool,Neutral
+1219,0.0,0,Neutral,Neutral
+1220,0.0,0,Neutral,Neutral
+1221,-2.0,0,Cool,Neutral
+1222,0.0,0,Neutral,Neutral
+1223,1.0,0,Slighty warm,Neutral
+1224,-1.0,0,Slighty cool,Neutral
+1225,0.0,0,Neutral,Neutral
+1226,0.0,0,Neutral,Neutral
+1227,0.0,0,Neutral,Neutral
+1228,-1.0,0,Slighty cool,Neutral
+1229,2.0,1,Warm,Slighty warm
+1230,-3.0,0,Cold,Neutral
+1231,1.0,0,Slighty warm,Neutral
+1232,0.0,0,Neutral,Neutral
+1233,0.0,0,Neutral,Neutral
+1234,0.0,0,Neutral,Neutral
+1235,1.0,0,Slighty warm,Neutral
+1236,-1.0,0,Slighty cool,Neutral
+1237,2.0,0,Warm,Neutral
+1238,2.0,0,Warm,Neutral
+1239,1.0,0,Slighty warm,Neutral
+1240,0.0,0,Neutral,Neutral
+1241,3.0,0,Hot,Neutral
+1242,0.0,0,Neutral,Neutral
+1243,0.0,0,Neutral,Neutral
+1244,0.0,0,Neutral,Neutral
+1245,0.0,0,Neutral,Neutral
+1246,1.0,0,Slighty warm,Neutral
+1247,-1.0,0,Slighty cool,Neutral
+1248,-1.0,0,Slighty cool,Neutral
+1249,0.0,0,Neutral,Neutral
+1250,-2.0,0,Cool,Neutral
+1251,0.0,0,Neutral,Neutral
+1252,-1.0,0,Slighty cool,Neutral
+1253,0.0,0,Neutral,Neutral
+1254,0.0,0,Neutral,Neutral
+1255,-1.0,0,Slighty cool,Neutral
+1256,0.0,0,Neutral,Neutral
+1257,-2.0,0,Cool,Neutral
+1258,0.0,0,Neutral,Neutral
+1259,2.0,0,Warm,Neutral
+1260,0.0,0,Neutral,Neutral
+1261,1.0,0,Slighty warm,Neutral
+1262,2.0,0,Warm,Neutral
+1263,0.0,0,Neutral,Neutral
+1264,2.0,0,Warm,Neutral
+1265,0.0,0,Neutral,Neutral
+1266,0.0,0,Neutral,Neutral
+1267,3.0,0,Hot,Neutral
+1268,0.0,0,Neutral,Neutral
+1269,0.0,0,Neutral,Neutral
+1270,1.0,0,Slighty warm,Neutral
+1271,0.0,0,Neutral,Neutral
+1272,2.0,0,Warm,Neutral
+1273,0.0,0,Neutral,Neutral
+1274,0.0,0,Neutral,Neutral
+1275,1.0,0,Slighty warm,Neutral
+1276,1.0,0,Slighty warm,Neutral
+1277,-1.0,0,Slighty cool,Neutral
+1278,0.0,0,Neutral,Neutral
+1279,0.0,0,Neutral,Neutral
+1280,1.0,0,Slighty warm,Neutral
+1281,1.0,0,Slighty warm,Neutral
+1282,2.0,0,Warm,Neutral
+1283,1.0,0,Slighty warm,Neutral
+1284,0.0,0,Neutral,Neutral
+1285,0.0,0,Neutral,Neutral
+1286,0.0,0,Neutral,Neutral
+1287,2.0,0,Warm,Neutral
+1288,-1.0,0,Slighty cool,Neutral
+1289,2.0,0,Warm,Neutral
+1290,-2.0,0,Cool,Neutral
+1291,-3.0,0,Cold,Neutral
+1292,0.0,0,Neutral,Neutral
+1293,0.0,0,Neutral,Neutral
+1294,3.0,0,Hot,Neutral
+1295,0.0,0,Neutral,Neutral
+1296,2.0,0,Warm,Neutral
+1297,3.0,0,Hot,Neutral
+1298,1.0,0,Slighty warm,Neutral
+1299,-1.0,0,Slighty cool,Neutral
+1300,0.0,0,Neutral,Neutral
+1301,3.0,0,Hot,Neutral
+1302,2.0,0,Warm,Neutral
+1303,2.0,0,Warm,Neutral
+1304,0.0,0,Neutral,Neutral
+1305,1.0,0,Slighty warm,Neutral
+1306,0.0,0,Neutral,Neutral
+1307,-0.0,0,Neutral,Neutral
+1308,-1.0,0,Slighty cool,Neutral
+1309,0.0,0,Neutral,Neutral
+1310,1.0,0,Slighty warm,Neutral
+1311,1.0,0,Slighty warm,Neutral
+1312,1.0,0,Slighty warm,Neutral
+1313,2.0,0,Warm,Neutral
+1314,0.0,0,Neutral,Neutral
+1315,0.0,0,Neutral,Neutral
+1316,0.0,0,Neutral,Neutral
+1317,0.0,0,Neutral,Neutral
+1318,-1.0,0,Slighty cool,Neutral
+1319,0.0,0,Neutral,Neutral
+1320,1.0,0,Slighty warm,Neutral
+1321,1.0,0,Slighty warm,Neutral
+1322,3.0,0,Hot,Neutral
+1323,-1.0,0,Slighty cool,Neutral
+1324,-1.0,0,Slighty cool,Neutral
+1325,0.0,0,Neutral,Neutral
+1326,1.0,0,Slighty warm,Neutral
+1327,1.0,0,Slighty warm,Neutral
+1328,3.0,0,Hot,Neutral
+1329,-2.0,0,Cool,Neutral
+1330,0.0,0,Neutral,Neutral
+1331,0.0,0,Neutral,Neutral
+1332,1.0,0,Slighty warm,Neutral
+1333,1.0,0,Slighty warm,Neutral
+1334,0.0,0,Neutral,Neutral
+1335,1.0,0,Slighty warm,Neutral
+1336,-1.0,0,Slighty cool,Neutral
+1337,-1.0,0,Slighty cool,Neutral
+1338,0.0,0,Neutral,Neutral
+1339,-1.0,0,Slighty cool,Neutral
+1340,1.0,0,Slighty warm,Neutral
+1341,0.0,0,Neutral,Neutral
+1342,0.0,0,Neutral,Neutral
+1343,1.0,0,Slighty warm,Neutral
+1344,0.0,0,Neutral,Neutral
+1345,-1.0,0,Slighty cool,Neutral
+1346,0.0,0,Neutral,Neutral
+1347,-1.0,0,Slighty cool,Neutral
+1348,1.0,0,Slighty warm,Neutral
+1349,0.0,0,Neutral,Neutral
+1350,-0.0,0,Neutral,Neutral
+1351,0.0,0,Neutral,Neutral
+1352,-0.0,0,Neutral,Neutral
+1353,0.0,1,Neutral,Slighty warm
+1354,0.0,0,Neutral,Neutral
+1355,1.0,0,Slighty warm,Neutral
+1356,0.0,0,Neutral,Neutral
+1357,1.0,0,Slighty warm,Neutral
+1358,1.0,0,Slighty warm,Neutral
+1359,1.0,0,Slighty warm,Neutral
+1360,0.0,0,Neutral,Neutral
+1361,0.0,0,Neutral,Neutral
+1362,3.0,0,Hot,Neutral
+1363,0.0,0,Neutral,Neutral
+1364,0.0,0,Neutral,Neutral
+1365,0.0,0,Neutral,Neutral
+1366,-0.0,0,Neutral,Neutral
+1367,0.0,0,Neutral,Neutral
+1368,-2.0,0,Cool,Neutral
+1369,0.0,0,Neutral,Neutral
+1370,0.0,0,Neutral,Neutral
+1371,0.0,0,Neutral,Neutral
+1372,-1.0,0,Slighty cool,Neutral
+1373,1.0,0,Slighty warm,Neutral
+1374,-1.0,0,Slighty cool,Neutral
+1375,0.0,0,Neutral,Neutral
+1376,0.0,0,Neutral,Neutral
+1377,0.0,0,Neutral,Neutral
+1378,0.0,0,Neutral,Neutral
+1379,-2.0,0,Cool,Neutral
+1380,-1.0,0,Slighty cool,Neutral
+1381,-1.0,0,Slighty cool,Neutral
+1382,0.0,0,Neutral,Neutral
+1383,1.0,0,Slighty warm,Neutral
+1384,1.0,0,Slighty warm,Neutral
+1385,0.0,0,Neutral,Neutral
+1386,1.0,0,Slighty warm,Neutral
+1387,0.0,0,Neutral,Neutral
+1388,0.0,0,Neutral,Neutral
+1389,0.0,0,Neutral,Neutral
+1390,0.0,0,Neutral,Neutral
+1391,-2.0,0,Cool,Neutral
+1392,3.0,0,Hot,Neutral
+1393,-3.0,0,Cold,Neutral
+1394,-1.0,0,Slighty cool,Neutral
+1395,0.0,0,Neutral,Neutral
+1396,-1.0,0,Slighty cool,Neutral
+1397,-1.0,0,Slighty cool,Neutral
+1398,0.0,0,Neutral,Neutral
+1399,1.0,0,Slighty warm,Neutral
+1400,-0.0,0,Neutral,Neutral
+1401,0.0,0,Neutral,Neutral
+1402,1.0,0,Slighty warm,Neutral
+1403,2.0,0,Warm,Neutral
+1404,-1.0,0,Slighty cool,Neutral
+1405,-2.0,0,Cool,Neutral
+1406,0.0,0,Neutral,Neutral
+1407,-3.0,0,Cold,Neutral
+1408,0.0,0,Neutral,Neutral
+1409,0.0,0,Neutral,Neutral
+1410,1.0,0,Slighty warm,Neutral
+1411,0.0,0,Neutral,Neutral
+1412,1.0,0,Slighty warm,Neutral
+1413,0.0,0,Neutral,Neutral
+1414,0.0,0,Neutral,Neutral
+1415,0.0,0,Neutral,Neutral
+1416,1.0,0,Slighty warm,Neutral
+1417,0.0,0,Neutral,Neutral
+1418,-1.0,0,Slighty cool,Neutral
+1419,0.0,0,Neutral,Neutral
+1420,1.0,0,Slighty warm,Neutral
+1421,1.0,0,Slighty warm,Neutral
+1422,-1.0,0,Slighty cool,Neutral
+1423,0.0,0,Neutral,Neutral
+1424,0.0,0,Neutral,Neutral
+1425,0.0,0,Neutral,Neutral
+1426,0.0,0,Neutral,Neutral
+1427,1.0,0,Slighty warm,Neutral
+1428,0.0,0,Neutral,Neutral
+1429,0.0,0,Neutral,Neutral
+1430,1.0,0,Slighty warm,Neutral
+1431,2.0,0,Warm,Neutral
+1432,0.0,0,Neutral,Neutral
+1433,0.0,0,Neutral,Neutral
+1434,-1.0,0,Slighty cool,Neutral
+1435,0.0,0,Neutral,Neutral
+1436,2.0,0,Warm,Neutral
+1437,0.0,0,Neutral,Neutral
+1438,-1.0,0,Slighty cool,Neutral
+1439,-2.0,0,Cool,Neutral
+1440,0.0,0,Neutral,Neutral
+1441,1.0,0,Slighty warm,Neutral
+1442,1.0,0,Slighty warm,Neutral
+1443,-1.0,0,Slighty cool,Neutral
+1444,2.0,0,Warm,Neutral
+1445,-1.0,0,Slighty cool,Neutral
+1446,3.0,0,Hot,Neutral
+1447,-1.0,0,Slighty cool,Neutral
+1448,-1.0,0,Slighty cool,Neutral
+1449,1.0,0,Slighty warm,Neutral
+1450,-2.0,0,Cool,Neutral
+1451,0.0,0,Neutral,Neutral
+1452,-2.0,0,Cool,Neutral
+1453,0.0,0,Neutral,Neutral
+1454,1.0,0,Slighty warm,Neutral
+1455,0.0,0,Neutral,Neutral
+1456,-1.0,0,Slighty cool,Neutral
+1457,-2.0,0,Cool,Neutral
+1458,2.0,0,Warm,Neutral
+1459,0.0,0,Neutral,Neutral
+1460,3.0,0,Hot,Neutral
+1461,0.0,0,Neutral,Neutral
+1462,2.0,0,Warm,Neutral
+1463,0.0,0,Neutral,Neutral
+1464,0.0,0,Neutral,Neutral
+1465,-1.0,0,Slighty cool,Neutral
+1466,-1.0,0,Slighty cool,Neutral
+1467,0.0,0,Neutral,Neutral
+1468,-1.0,0,Slighty cool,Neutral
+1469,0.0,0,Neutral,Neutral
+1470,0.0,0,Neutral,Neutral
+1471,2.0,0,Warm,Neutral
+1472,-1.0,0,Slighty cool,Neutral
+1473,0.0,0,Neutral,Neutral
+1474,0.0,0,Neutral,Neutral
+1475,2.0,0,Warm,Neutral
+1476,1.0,0,Slighty warm,Neutral
+1477,-0.0,0,Neutral,Neutral
+1478,0.0,0,Neutral,Neutral
+1479,-1.0,0,Slighty cool,Neutral
+1480,0.0,0,Neutral,Neutral
+1481,2.0,0,Warm,Neutral
+1482,1.0,0,Slighty warm,Neutral
+1483,1.0,0,Slighty warm,Neutral
+1484,1.0,0,Slighty warm,Neutral
+1485,0.0,0,Neutral,Neutral
+1486,1.0,0,Slighty warm,Neutral
+1487,0.0,0,Neutral,Neutral
+1488,3.0,0,Hot,Neutral
+1489,0.0,0,Neutral,Neutral
+1490,0.0,0,Neutral,Neutral
+1491,0.0,0,Neutral,Neutral
+1492,1.0,0,Slighty warm,Neutral
+1493,-1.0,0,Slighty cool,Neutral
+1494,3.0,0,Hot,Neutral
+1495,0.0,0,Neutral,Neutral
+1496,-1.0,0,Slighty cool,Neutral
+1497,0.0,0,Neutral,Neutral
+1498,3.0,0,Hot,Neutral
+1499,0.0,0,Neutral,Neutral
+1500,0.0,0,Neutral,Neutral
+1501,0.0,0,Neutral,Neutral
+1502,1.0,0,Slighty warm,Neutral
+1503,-1.0,0,Slighty cool,Neutral
+1504,0.0,0,Neutral,Neutral
+1505,0.0,0,Neutral,Neutral
+1506,2.0,0,Warm,Neutral
+1507,0.0,0,Neutral,Neutral
+1508,1.0,0,Slighty warm,Neutral
+1509,2.0,0,Warm,Neutral
+1510,0.0,0,Neutral,Neutral
+1511,1.0,0,Slighty warm,Neutral
+1512,0.0,0,Neutral,Neutral
+1513,1.0,0,Slighty warm,Neutral
+1514,0.0,0,Neutral,Neutral
+1515,0.0,0,Neutral,Neutral
+1516,0.0,0,Neutral,Neutral
+1517,2.0,0,Warm,Neutral
+1518,0.0,0,Neutral,Neutral
+1519,0.0,0,Neutral,Neutral
+1520,2.0,0,Warm,Neutral
+1521,-1.0,0,Slighty cool,Neutral
+1522,0.0,0,Neutral,Neutral
+1523,1.0,0,Slighty warm,Neutral
+1524,0.0,0,Neutral,Neutral
+1525,0.0,0,Neutral,Neutral
+1526,1.0,0,Slighty warm,Neutral
+1527,-1.0,0,Slighty cool,Neutral
+1528,0.0,0,Neutral,Neutral
+1529,2.0,0,Warm,Neutral
+1530,-1.0,0,Slighty cool,Neutral
+1531,0.0,0,Neutral,Neutral
+1532,-1.0,0,Slighty cool,Neutral
+1533,-1.0,0,Slighty cool,Neutral
+1534,1.0,0,Slighty warm,Neutral
+1535,-0.0,0,Neutral,Neutral
+1536,0.0,0,Neutral,Neutral
+1537,2.0,0,Warm,Neutral
+1538,-0.0,0,Neutral,Neutral
+1539,0.0,0,Neutral,Neutral
+1540,1.0,0,Slighty warm,Neutral
+1541,2.0,0,Warm,Neutral
+1542,0.0,0,Neutral,Neutral
+1543,0.0,0,Neutral,Neutral
+1544,0.0,0,Neutral,Neutral
+1545,1.0,0,Slighty warm,Neutral
+1546,0.0,0,Neutral,Neutral
+1547,-2.0,0,Cool,Neutral
+1548,0.0,0,Neutral,Neutral
+1549,2.0,0,Warm,Neutral
+1550,-3.0,0,Cold,Neutral
+1551,1.0,0,Slighty warm,Neutral
+1552,-1.0,0,Slighty cool,Neutral
+1553,0.0,0,Neutral,Neutral
+1554,0.0,0,Neutral,Neutral
+1555,0.0,0,Neutral,Neutral
+1556,-1.0,0,Slighty cool,Neutral
+1557,0.0,0,Neutral,Neutral
+1558,-1.0,0,Slighty cool,Neutral
+1559,0.0,0,Neutral,Neutral
+1560,-1.0,0,Slighty cool,Neutral
+1561,-1.0,0,Slighty cool,Neutral
+1562,-2.0,0,Cool,Neutral
+1563,-1.0,0,Slighty cool,Neutral
+1564,2.0,0,Warm,Neutral
+1565,2.0,0,Warm,Neutral
+1566,-1.0,0,Slighty cool,Neutral
+1567,-1.0,0,Slighty cool,Neutral
+1568,0.0,0,Neutral,Neutral
+1569,0.0,0,Neutral,Neutral
+1570,-1.0,0,Slighty cool,Neutral
+1571,0.0,0,Neutral,Neutral
+1572,1.0,0,Slighty warm,Neutral
+1573,0.0,0,Neutral,Neutral
+1574,1.0,0,Slighty warm,Neutral
+1575,0.0,0,Neutral,Neutral
+1576,1.0,0,Slighty warm,Neutral
+1577,1.0,0,Slighty warm,Neutral
+1578,1.0,0,Slighty warm,Neutral
+1579,-1.0,0,Slighty cool,Neutral
+1580,0.0,0,Neutral,Neutral
+1581,0.0,0,Neutral,Neutral
+1582,1.0,0,Slighty warm,Neutral
+1583,-2.0,0,Cool,Neutral
+1584,0.0,0,Neutral,Neutral
+1585,0.0,0,Neutral,Neutral
+1586,0.0,0,Neutral,Neutral
+1587,-1.0,0,Slighty cool,Neutral
+1588,0.0,0,Neutral,Neutral
+1589,0.0,0,Neutral,Neutral
+1590,0.0,0,Neutral,Neutral
+1591,0.0,0,Neutral,Neutral
+1592,-3.0,0,Cold,Neutral
+1593,1.0,0,Slighty warm,Neutral
+1594,0.0,0,Neutral,Neutral
+1595,1.0,0,Slighty warm,Neutral
+1596,1.0,0,Slighty warm,Neutral
+1597,-1.0,0,Slighty cool,Neutral
+1598,3.0,0,Hot,Neutral
+1599,-1.0,0,Slighty cool,Neutral
+1600,2.0,0,Warm,Neutral
+1601,0.0,0,Neutral,Neutral
+1602,0.0,0,Neutral,Neutral
+1603,-0.0,0,Neutral,Neutral
+1604,-0.0,0,Neutral,Neutral
+1605,-1.0,0,Slighty cool,Neutral
+1606,0.0,0,Neutral,Neutral
+1607,0.0,0,Neutral,Neutral
+1608,-3.0,0,Cold,Neutral
+1609,-0.0,0,Neutral,Neutral
+1610,1.0,0,Slighty warm,Neutral
+1611,3.0,0,Hot,Neutral
+1612,3.0,0,Hot,Neutral
+1613,0.0,0,Neutral,Neutral
+1614,0.0,0,Neutral,Neutral
+1615,-1.0,0,Slighty cool,Neutral
+1616,1.0,0,Slighty warm,Neutral
+1617,3.0,0,Hot,Neutral
+1618,0.0,0,Neutral,Neutral
+1619,3.0,0,Hot,Neutral
+1620,1.0,0,Slighty warm,Neutral
+1621,-1.0,0,Slighty cool,Neutral
+1622,0.0,0,Neutral,Neutral
+1623,-1.0,0,Slighty cool,Neutral
+1624,-1.0,0,Slighty cool,Neutral
+1625,-2.0,0,Cool,Neutral
+1626,0.0,0,Neutral,Neutral
+1627,0.0,0,Neutral,Neutral
+1628,0.0,0,Neutral,Neutral
+1629,-1.0,0,Slighty cool,Neutral
+1630,0.0,0,Neutral,Neutral
+1631,-1.0,0,Slighty cool,Neutral
+1632,0.0,0,Neutral,Neutral
+1633,0.0,0,Neutral,Neutral
+1634,1.0,0,Slighty warm,Neutral
+1635,0.0,0,Neutral,Neutral
+1636,0.0,0,Neutral,Neutral
+1637,-1.0,0,Slighty cool,Neutral
+1638,3.0,0,Hot,Neutral
+1639,-1.0,0,Slighty cool,Neutral
+1640,1.0,0,Slighty warm,Neutral
+1641,0.0,0,Neutral,Neutral
+1642,0.0,0,Neutral,Neutral
+1643,-1.0,0,Slighty cool,Neutral
+1644,3.0,0,Hot,Neutral
+1645,-1.0,0,Slighty cool,Neutral
+1646,0.0,0,Neutral,Neutral
+1647,0.0,0,Neutral,Neutral
+1648,0.0,0,Neutral,Neutral
+1649,0.0,0,Neutral,Neutral
+1650,2.0,0,Warm,Neutral
+1651,1.0,0,Slighty warm,Neutral
+1652,-1.0,0,Slighty cool,Neutral
+1653,0.0,0,Neutral,Neutral
+1654,-1.0,0,Slighty cool,Neutral
+1655,0.0,0,Neutral,Neutral
+1656,1.0,0,Slighty warm,Neutral
+1657,-0.0,0,Neutral,Neutral
+1658,1.0,0,Slighty warm,Neutral
+1659,-1.0,0,Slighty cool,Neutral
+1660,0.0,0,Neutral,Neutral
+1661,-2.0,0,Cool,Neutral
+1662,2.0,0,Warm,Neutral
+1663,0.0,0,Neutral,Neutral
+1664,2.0,0,Warm,Neutral
+1665,0.0,0,Neutral,Neutral
+1666,2.0,0,Warm,Neutral
+1667,0.0,0,Neutral,Neutral
+1668,0.0,0,Neutral,Neutral
+1669,0.0,0,Neutral,Neutral
+1670,0.0,0,Neutral,Neutral
+1671,1.0,0,Slighty warm,Neutral
+1672,0.0,0,Neutral,Neutral
+1673,1.0,0,Slighty warm,Neutral
+1674,1.0,0,Slighty warm,Neutral
+1675,-0.0,0,Neutral,Neutral
+1676,-2.0,0,Cool,Neutral
+1677,2.0,0,Warm,Neutral
+1678,0.0,0,Neutral,Neutral
+1679,-1.0,0,Slighty cool,Neutral
+1680,1.0,0,Slighty warm,Neutral
+1681,3.0,0,Hot,Neutral
+1682,1.0,0,Slighty warm,Neutral
+1683,0.0,0,Neutral,Neutral
+1684,0.0,0,Neutral,Neutral
+1685,1.0,0,Slighty warm,Neutral
+1686,-1.0,0,Slighty cool,Neutral
+1687,1.0,0,Slighty warm,Neutral
+1688,-1.0,0,Slighty cool,Neutral
+1689,0.0,0,Neutral,Neutral
+1690,2.0,0,Warm,Neutral
+1691,0.0,0,Neutral,Neutral
+1692,2.0,0,Warm,Neutral
+1693,0.0,0,Neutral,Neutral
+1694,0.0,0,Neutral,Neutral
+1695,0.0,0,Neutral,Neutral
+1696,-1.0,0,Slighty cool,Neutral
+1697,2.0,0,Warm,Neutral
+1698,1.0,0,Slighty warm,Neutral
+1699,-0.0,0,Neutral,Neutral
+1700,0.0,0,Neutral,Neutral
+1701,-1.0,0,Slighty cool,Neutral
+1702,1.0,0,Slighty warm,Neutral
+1703,1.0,0,Slighty warm,Neutral
+1704,-1.0,0,Slighty cool,Neutral
+1705,-2.0,0,Cool,Neutral
+1706,0.0,0,Neutral,Neutral
+1707,-2.0,0,Cool,Neutral
+1708,1.0,0,Slighty warm,Neutral
+1709,0.0,0,Neutral,Neutral
+1710,1.0,0,Slighty warm,Neutral
+1711,2.0,0,Warm,Neutral
+1712,-1.0,0,Slighty cool,Neutral
+1713,-1.0,0,Slighty cool,Neutral
+1714,1.0,0,Slighty warm,Neutral
+1715,0.0,0,Neutral,Neutral
+1716,2.0,0,Warm,Neutral
+1717,0.0,0,Neutral,Neutral
+1718,1.0,0,Slighty warm,Neutral
+1719,2.0,0,Warm,Neutral
+1720,-1.0,0,Slighty cool,Neutral
+1721,0.0,0,Neutral,Neutral
+1722,1.0,0,Slighty warm,Neutral
+1723,-1.0,0,Slighty cool,Neutral
+1724,-1.0,0,Slighty cool,Neutral
+1725,-1.0,0,Slighty cool,Neutral
+1726,0.0,0,Neutral,Neutral
+1727,0.0,0,Neutral,Neutral
+1728,0.0,0,Neutral,Neutral
+1729,3.0,0,Hot,Neutral
+1730,-1.0,0,Slighty cool,Neutral
+1731,2.0,0,Warm,Neutral
+1732,-1.0,0,Slighty cool,Neutral
+1733,1.0,0,Slighty warm,Neutral
+1734,-1.0,0,Slighty cool,Neutral
+1735,-2.0,0,Cool,Neutral
+1736,0.0,0,Neutral,Neutral
+1737,-0.0,0,Neutral,Neutral
+1738,-1.0,0,Slighty cool,Neutral
+1739,0.0,0,Neutral,Neutral
+1740,0.0,0,Neutral,Neutral
+1741,0.0,0,Neutral,Neutral
+1742,-1.0,0,Slighty cool,Neutral
+1743,0.0,0,Neutral,Neutral
+1744,0.0,0,Neutral,Neutral
+1745,1.0,0,Slighty warm,Neutral
+1746,1.0,0,Slighty warm,Neutral
+1747,1.0,0,Slighty warm,Neutral
+1748,0.0,0,Neutral,Neutral
+1749,1.0,0,Slighty warm,Neutral
+1750,0.0,0,Neutral,Neutral
+1751,-1.0,0,Slighty cool,Neutral
+1752,-1.0,0,Slighty cool,Neutral
+1753,0.0,0,Neutral,Neutral
+1754,0.0,0,Neutral,Neutral
+1755,1.0,0,Slighty warm,Neutral
+1756,1.0,0,Slighty warm,Neutral
+1757,-1.0,0,Slighty cool,Neutral
+1758,1.0,0,Slighty warm,Neutral
+1759,1.0,0,Slighty warm,Neutral
+1760,1.0,0,Slighty warm,Neutral
+1761,1.0,0,Slighty warm,Neutral
+1762,-1.0,0,Slighty cool,Neutral
+1763,-1.0,0,Slighty cool,Neutral
+1764,0.0,0,Neutral,Neutral
+1765,0.0,0,Neutral,Neutral
+1766,-3.0,0,Cold,Neutral
+1767,0.0,0,Neutral,Neutral
+1768,-1.0,0,Slighty cool,Neutral
+1769,0.0,0,Neutral,Neutral
+1770,0.0,0,Neutral,Neutral
+1771,0.0,0,Neutral,Neutral
+1772,1.0,0,Slighty warm,Neutral
+1773,0.0,0,Neutral,Neutral
+1774,2.0,0,Warm,Neutral
+1775,1.0,0,Slighty warm,Neutral
+1776,0.0,0,Neutral,Neutral
+1777,2.0,0,Warm,Neutral
+1778,-0.0,0,Neutral,Neutral
+1779,-1.0,0,Slighty cool,Neutral
+1780,0.0,0,Neutral,Neutral
+1781,-1.0,0,Slighty cool,Neutral
+1782,0.0,0,Neutral,Neutral
+1783,1.0,0,Slighty warm,Neutral
+1784,-1.0,0,Slighty cool,Neutral
+1785,0.0,0,Neutral,Neutral
+1786,0.0,0,Neutral,Neutral
+1787,1.0,0,Slighty warm,Neutral
+1788,0.0,0,Neutral,Neutral
+1789,1.0,0,Slighty warm,Neutral
+1790,0.0,0,Neutral,Neutral
+1791,0.0,0,Neutral,Neutral
+1792,0.0,0,Neutral,Neutral
+1793,0.0,0,Neutral,Neutral
+1794,1.0,0,Slighty warm,Neutral
+1795,0.0,0,Neutral,Neutral
+1796,1.0,0,Slighty warm,Neutral
+1797,0.0,0,Neutral,Neutral
+1798,1.0,0,Slighty warm,Neutral
+1799,0.0,0,Neutral,Neutral
+1800,0.0,0,Neutral,Neutral
+1801,-0.0,0,Neutral,Neutral
+1802,0.0,0,Neutral,Neutral
+1803,1.0,0,Slighty warm,Neutral
+1804,1.0,0,Slighty warm,Neutral
+1805,-2.0,0,Cool,Neutral
+1806,1.0,0,Slighty warm,Neutral
+1807,0.0,0,Neutral,Neutral
+1808,2.0,0,Warm,Neutral
+1809,-1.0,0,Slighty cool,Neutral
+1810,2.0,0,Warm,Neutral
+1811,1.0,0,Slighty warm,Neutral
+1812,0.0,0,Neutral,Neutral
+1813,0.0,0,Neutral,Neutral
+1814,3.0,0,Hot,Neutral
+1815,-1.0,0,Slighty cool,Neutral
+1816,0.0,0,Neutral,Neutral
+1817,1.0,0,Slighty warm,Neutral
+1818,0.0,0,Neutral,Neutral
+1819,0.0,0,Neutral,Neutral
+1820,0.0,0,Neutral,Neutral
+1821,1.0,0,Slighty warm,Neutral
+1822,0.0,0,Neutral,Neutral
+1823,-1.0,0,Slighty cool,Neutral
+1824,1.0,0,Slighty warm,Neutral
+1825,0.0,0,Neutral,Neutral
+1826,1.0,0,Slighty warm,Neutral
+1827,0.0,0,Neutral,Neutral
+1828,0.0,0,Neutral,Neutral
+1829,1.0,0,Slighty warm,Neutral
+1830,1.0,0,Slighty warm,Neutral
+1831,1.0,0,Slighty warm,Neutral
+1832,0.0,0,Neutral,Neutral
+1833,1.0,0,Slighty warm,Neutral
+1834,1.0,0,Slighty warm,Neutral
+1835,2.0,0,Warm,Neutral
+1836,1.0,0,Slighty warm,Neutral
+1837,0.0,0,Neutral,Neutral
+1838,0.0,0,Neutral,Neutral
+1839,-1.0,0,Slighty cool,Neutral
+1840,1.0,0,Slighty warm,Neutral
+1841,0.0,0,Neutral,Neutral
+1842,-1.0,0,Slighty cool,Neutral
+1843,-1.0,0,Slighty cool,Neutral
+1844,-1.0,0,Slighty cool,Neutral
+1845,1.0,0,Slighty warm,Neutral
+1846,-1.0,0,Slighty cool,Neutral
+1847,-1.0,0,Slighty cool,Neutral
+1848,-1.0,0,Slighty cool,Neutral
+1849,-2.0,0,Cool,Neutral
+1850,3.0,0,Hot,Neutral
+1851,1.0,0,Slighty warm,Neutral
+1852,-1.0,0,Slighty cool,Neutral
+1853,1.0,0,Slighty warm,Neutral
+1854,0.0,0,Neutral,Neutral
+1855,0.0,0,Neutral,Neutral
+1856,0.0,0,Neutral,Neutral
+1857,0.0,0,Neutral,Neutral
+1858,1.0,0,Slighty warm,Neutral
+1859,0.0,0,Neutral,Neutral
+1860,0.0,0,Neutral,Neutral
+1861,-1.0,0,Slighty cool,Neutral
+1862,0.0,0,Neutral,Neutral
+1863,1.0,0,Slighty warm,Neutral
+1864,3.0,0,Hot,Neutral
+1865,0.0,0,Neutral,Neutral
+1866,0.0,0,Neutral,Neutral
+1867,0.0,0,Neutral,Neutral
+1868,-1.0,0,Slighty cool,Neutral
+1869,1.0,0,Slighty warm,Neutral
+1870,1.0,0,Slighty warm,Neutral
+1871,0.0,0,Neutral,Neutral
+1872,0.0,0,Neutral,Neutral
+1873,-2.0,0,Cool,Neutral
+1874,0.0,0,Neutral,Neutral
+1875,1.0,0,Slighty warm,Neutral
+1876,-1.0,0,Slighty cool,Neutral
+1877,-1.0,0,Slighty cool,Neutral
+1878,0.0,0,Neutral,Neutral
+1879,1.0,0,Slighty warm,Neutral
+1880,0.0,0,Neutral,Neutral
+1881,0.0,0,Neutral,Neutral
+1882,0.0,0,Neutral,Neutral
+1883,0.0,0,Neutral,Neutral
+1884,1.0,0,Slighty warm,Neutral
+1885,-0.0,0,Neutral,Neutral
+1886,0.0,0,Neutral,Neutral
+1887,1.0,0,Slighty warm,Neutral
+1888,0.0,0,Neutral,Neutral
+1889,2.0,0,Warm,Neutral
+1890,-2.0,0,Cool,Neutral
+1891,0.0,0,Neutral,Neutral
+1892,2.0,0,Warm,Neutral
+1893,0.0,0,Neutral,Neutral
+1894,3.0,0,Hot,Neutral
+1895,-1.0,0,Slighty cool,Neutral
+1896,1.0,0,Slighty warm,Neutral
+1897,0.0,0,Neutral,Neutral
+1898,2.0,0,Warm,Neutral
+1899,0.0,0,Neutral,Neutral
+1900,0.0,0,Neutral,Neutral
+1901,0.0,0,Neutral,Neutral
+1902,-1.0,0,Slighty cool,Neutral
+1903,1.0,0,Slighty warm,Neutral
+1904,-2.0,0,Cool,Neutral
+1905,0.0,0,Neutral,Neutral
+1906,0.0,0,Neutral,Neutral
+1907,0.0,0,Neutral,Neutral
+1908,0.0,0,Neutral,Neutral
+1909,0.0,0,Neutral,Neutral
+1910,-2.0,0,Cool,Neutral
+1911,-1.0,0,Slighty cool,Neutral
+1912,1.0,0,Slighty warm,Neutral
+1913,-3.0,0,Cold,Neutral
+1914,-2.0,0,Cool,Neutral
+1915,0.0,0,Neutral,Neutral
+1916,1.0,0,Slighty warm,Neutral
+1917,0.0,0,Neutral,Neutral
+1918,0.0,0,Neutral,Neutral
+1919,0.0,0,Neutral,Neutral
+1920,0.0,0,Neutral,Neutral
+1921,-2.0,0,Cool,Neutral
+1922,1.0,0,Slighty warm,Neutral
+1923,1.0,0,Slighty warm,Neutral
+1924,-1.0,0,Slighty cool,Neutral
+1925,1.0,0,Slighty warm,Neutral
+1926,1.0,0,Slighty warm,Neutral
+1927,3.0,0,Hot,Neutral
+1928,2.0,0,Warm,Neutral
+1929,2.0,0,Warm,Neutral
+1930,0.0,0,Neutral,Neutral
+1931,1.0,0,Slighty warm,Neutral
+1932,0.0,0,Neutral,Neutral
+1933,2.0,0,Warm,Neutral
+1934,-1.0,0,Slighty cool,Neutral
+1935,-1.0,0,Slighty cool,Neutral
+1936,0.0,0,Neutral,Neutral
+1937,-0.0,0,Neutral,Neutral
+1938,0.0,0,Neutral,Neutral
+1939,-1.0,0,Slighty cool,Neutral
+1940,0.0,0,Neutral,Neutral
+1941,3.0,0,Hot,Neutral
+1942,1.0,0,Slighty warm,Neutral
+1943,0.0,0,Neutral,Neutral
+1944,2.0,0,Warm,Neutral
+1945,-1.0,0,Slighty cool,Neutral
+1946,3.0,0,Hot,Neutral
+1947,0.0,0,Neutral,Neutral
+1948,-1.0,0,Slighty cool,Neutral
+1949,1.0,0,Slighty warm,Neutral
+1950,-2.0,0,Cool,Neutral
+1951,1.0,0,Slighty warm,Neutral
+1952,0.0,0,Neutral,Neutral
+1953,0.0,0,Neutral,Neutral
+1954,0.0,0,Neutral,Neutral
+1955,0.0,0,Neutral,Neutral
+1956,-1.0,0,Slighty cool,Neutral
+1957,-1.0,0,Slighty cool,Neutral
+1958,-1.0,0,Slighty cool,Neutral
+1959,1.0,0,Slighty warm,Neutral
+1960,2.0,0,Warm,Neutral
+1961,3.0,0,Hot,Neutral
+1962,0.0,0,Neutral,Neutral
+1963,0.0,0,Neutral,Neutral
+1964,2.0,0,Warm,Neutral
+1965,1.0,0,Slighty warm,Neutral
+1966,1.0,0,Slighty warm,Neutral
+1967,3.0,0,Hot,Neutral
+1968,0.0,0,Neutral,Neutral
+1969,-2.0,0,Cool,Neutral
+1970,2.0,0,Warm,Neutral
+1971,3.0,0,Hot,Neutral
+1972,0.0,0,Neutral,Neutral
+1973,0.0,0,Neutral,Neutral
+1974,1.0,0,Slighty warm,Neutral
+1975,0.0,0,Neutral,Neutral
+1976,-1.0,0,Slighty cool,Neutral
+1977,2.0,0,Warm,Neutral
+1978,1.0,0,Slighty warm,Neutral
+1979,-1.0,0,Slighty cool,Neutral
+1980,-1.0,0,Slighty cool,Neutral
+1981,0.0,0,Neutral,Neutral
+1982,0.0,0,Neutral,Neutral
+1983,-2.0,0,Cool,Neutral
+1984,3.0,0,Hot,Neutral
+1985,-1.0,0,Slighty cool,Neutral
+1986,0.0,0,Neutral,Neutral
+1987,0.0,0,Neutral,Neutral
+1988,0.0,0,Neutral,Neutral
+1989,0.0,0,Neutral,Neutral
+1990,-0.0,0,Neutral,Neutral
+1991,1.0,0,Slighty warm,Neutral
+1992,-1.0,0,Slighty cool,Neutral
+1993,3.0,0,Hot,Neutral
+1994,1.0,0,Slighty warm,Neutral
+1995,1.0,0,Slighty warm,Neutral
+1996,-0.0,0,Neutral,Neutral
+1997,0.0,0,Neutral,Neutral
+1998,1.0,0,Slighty warm,Neutral
+1999,-1.0,0,Slighty cool,Neutral
+2000,-1.0,0,Slighty cool,Neutral
+2001,3.0,0,Hot,Neutral
+2002,-1.0,0,Slighty cool,Neutral
+2003,-1.0,0,Slighty cool,Neutral
+2004,2.0,0,Warm,Neutral
+2005,0.0,0,Neutral,Neutral
+2006,0.0,0,Neutral,Neutral
+2007,0.0,0,Neutral,Neutral
+2008,-1.0,0,Slighty cool,Neutral
+2009,1.0,0,Slighty warm,Neutral
+2010,1.0,0,Slighty warm,Neutral
+2011,0.0,0,Neutral,Neutral
+2012,0.0,0,Neutral,Neutral
+2013,1.0,0,Slighty warm,Neutral
+2014,0.0,0,Neutral,Neutral
+2015,1.0,0,Slighty warm,Neutral
+2016,1.0,0,Slighty warm,Neutral
+2017,0.0,1,Neutral,Slighty warm
+2018,-2.0,0,Cool,Neutral
+2019,0.0,0,Neutral,Neutral
+2020,0.0,0,Neutral,Neutral
+2021,1.0,0,Slighty warm,Neutral
+2022,0.0,0,Neutral,Neutral
+2023,-1.0,0,Slighty cool,Neutral
+2024,0.0,0,Neutral,Neutral
+2025,0.0,0,Neutral,Neutral
+2026,1.0,0,Slighty warm,Neutral
+2027,0.0,0,Neutral,Neutral
+2028,-1.0,0,Slighty cool,Neutral
+2029,1.0,0,Slighty warm,Neutral
+2030,-1.0,0,Slighty cool,Neutral
+2031,0.0,0,Neutral,Neutral
+2032,2.0,0,Warm,Neutral
+2033,0.0,0,Neutral,Neutral
+2034,1.0,0,Slighty warm,Neutral
+2035,0.0,0,Neutral,Neutral
+2036,1.0,0,Slighty warm,Neutral
+2037,0.0,0,Neutral,Neutral
+2038,1.0,0,Slighty warm,Neutral
+2039,0.0,0,Neutral,Neutral
+2040,0.0,0,Neutral,Neutral
+2041,-1.0,0,Slighty cool,Neutral
+2042,-1.0,0,Slighty cool,Neutral
+2043,-1.0,0,Slighty cool,Neutral
+2044,0.0,0,Neutral,Neutral
+2045,-1.0,0,Slighty cool,Neutral
+2046,-0.0,0,Neutral,Neutral
+2047,0.0,0,Neutral,Neutral
+2048,1.0,0,Slighty warm,Neutral
+2049,0.0,0,Neutral,Neutral
+2050,-1.0,0,Slighty cool,Neutral
+2051,0.0,0,Neutral,Neutral
+2052,1.0,0,Slighty warm,Neutral
+2053,0.0,0,Neutral,Neutral
+2054,-1.0,0,Slighty cool,Neutral
+2055,1.0,0,Slighty warm,Neutral
+2056,0.0,0,Neutral,Neutral
+2057,0.0,0,Neutral,Neutral
+2058,2.0,0,Warm,Neutral
+2059,-1.0,0,Slighty cool,Neutral
+2060,0.0,0,Neutral,Neutral
+2061,0.0,0,Neutral,Neutral
+2062,0.0,0,Neutral,Neutral
+2063,-1.0,0,Slighty cool,Neutral
+2064,1.0,0,Slighty warm,Neutral
+2065,0.0,0,Neutral,Neutral
+2066,-2.0,0,Cool,Neutral
+2067,0.0,0,Neutral,Neutral
+2068,-1.0,0,Slighty cool,Neutral
+2069,0.0,0,Neutral,Neutral
+2070,1.0,0,Slighty warm,Neutral
+2071,-2.0,0,Cool,Neutral
+2072,0.0,0,Neutral,Neutral
+2073,0.0,0,Neutral,Neutral
+2074,0.0,0,Neutral,Neutral
+2075,3.0,0,Hot,Neutral
+2076,-1.0,0,Slighty cool,Neutral
+2077,0.0,0,Neutral,Neutral
+2078,1.0,0,Slighty warm,Neutral
+2079,-1.0,0,Slighty cool,Neutral
+2080,0.0,0,Neutral,Neutral
+2081,0.0,0,Neutral,Neutral
+2082,-1.0,0,Slighty cool,Neutral
+2083,0.0,0,Neutral,Neutral
+2084,3.0,0,Hot,Neutral
+2085,1.0,0,Slighty warm,Neutral
+2086,2.0,0,Warm,Neutral
+2087,1.0,0,Slighty warm,Neutral
+2088,0.0,0,Neutral,Neutral
+2089,1.0,0,Slighty warm,Neutral
+2090,0.0,0,Neutral,Neutral
+2091,0.0,0,Neutral,Neutral
+2092,0.0,0,Neutral,Neutral
+2093,0.0,0,Neutral,Neutral
+2094,3.0,0,Hot,Neutral
+2095,2.0,0,Warm,Neutral
+2096,0.0,0,Neutral,Neutral
+2097,0.0,0,Neutral,Neutral
+2098,0.0,0,Neutral,Neutral
+2099,1.0,0,Slighty warm,Neutral
+2100,1.0,0,Slighty warm,Neutral
+2101,0.0,0,Neutral,Neutral
+2102,-1.0,0,Slighty cool,Neutral
+2103,0.0,0,Neutral,Neutral
+2104,0.0,0,Neutral,Neutral
+2105,0.0,0,Neutral,Neutral
+2106,1.0,0,Slighty warm,Neutral
+2107,-1.0,0,Slighty cool,Neutral
+2108,-1.0,0,Slighty cool,Neutral
+2109,-3.0,0,Cold,Neutral
+2110,2.0,0,Warm,Neutral
+2111,0.0,0,Neutral,Neutral
+2112,1.0,0,Slighty warm,Neutral
+2113,1.0,0,Slighty warm,Neutral
+2114,-1.0,0,Slighty cool,Neutral
+2115,1.0,0,Slighty warm,Neutral
+2116,1.0,0,Slighty warm,Neutral
+2117,0.0,0,Neutral,Neutral
+2118,3.0,0,Hot,Neutral
+2119,-3.0,0,Cold,Neutral
+2120,-1.0,0,Slighty cool,Neutral
+2121,0.0,0,Neutral,Neutral
+2122,-2.0,0,Cool,Neutral
+2123,-1.0,0,Slighty cool,Neutral
+2124,0.0,0,Neutral,Neutral
+2125,-0.0,0,Neutral,Neutral
+2126,-2.0,0,Cool,Neutral
+2127,1.0,0,Slighty warm,Neutral
+2128,0.0,0,Neutral,Neutral
+2129,-1.0,0,Slighty cool,Neutral
+2130,0.0,0,Neutral,Neutral
+2131,-1.0,0,Slighty cool,Neutral
+2132,0.0,0,Neutral,Neutral
+2133,0.0,0,Neutral,Neutral
+2134,0.0,0,Neutral,Neutral
+2135,0.0,0,Neutral,Neutral
+2136,3.0,0,Hot,Neutral
+2137,0.0,0,Neutral,Neutral
+2138,2.0,0,Warm,Neutral
+2139,-3.0,0,Cold,Neutral
+2140,2.0,0,Warm,Neutral
+2141,1.0,0,Slighty warm,Neutral
+2142,1.0,0,Slighty warm,Neutral
+2143,1.0,0,Slighty warm,Neutral
+2144,0.0,0,Neutral,Neutral
+2145,-2.0,0,Cool,Neutral
+2146,0.0,0,Neutral,Neutral
+2147,-2.0,0,Cool,Neutral
+2148,-1.0,0,Slighty cool,Neutral
+2149,0.0,0,Neutral,Neutral
+2150,0.0,0,Neutral,Neutral
+2151,-1.0,0,Slighty cool,Neutral
+2152,0.0,0,Neutral,Neutral
+2153,0.0,0,Neutral,Neutral
+2154,0.0,0,Neutral,Neutral
+2155,0.0,0,Neutral,Neutral
+2156,0.0,0,Neutral,Neutral
+2157,-0.0,0,Neutral,Neutral
+2158,0.0,0,Neutral,Neutral
+2159,1.0,0,Slighty warm,Neutral
+2160,0.0,0,Neutral,Neutral
+2161,2.0,1,Warm,Slighty warm
+2162,0.0,0,Neutral,Neutral
+2163,-1.0,0,Slighty cool,Neutral
+2164,-1.0,0,Slighty cool,Neutral
+2165,0.0,0,Neutral,Neutral
+2166,-1.0,0,Slighty cool,Neutral
+2167,1.0,0,Slighty warm,Neutral
+2168,3.0,0,Hot,Neutral
+2169,0.0,0,Neutral,Neutral
+2170,0.0,0,Neutral,Neutral
+2171,-1.0,0,Slighty cool,Neutral
+2172,0.0,0,Neutral,Neutral
+2173,0.0,0,Neutral,Neutral
+2174,0.0,0,Neutral,Neutral
+2175,-1.0,0,Slighty cool,Neutral
+2176,3.0,0,Hot,Neutral
+2177,0.0,0,Neutral,Neutral
+2178,1.0,0,Slighty warm,Neutral
+2179,0.0,0,Neutral,Neutral
+2180,1.0,0,Slighty warm,Neutral
+2181,0.0,0,Neutral,Neutral
+2182,-1.0,0,Slighty cool,Neutral
+2183,1.0,0,Slighty warm,Neutral
+2184,0.0,0,Neutral,Neutral
+2185,0.0,0,Neutral,Neutral
+2186,3.0,0,Hot,Neutral
+2187,-2.0,0,Cool,Neutral
+2188,0.0,0,Neutral,Neutral
+2189,0.0,0,Neutral,Neutral
+2190,0.0,0,Neutral,Neutral
+2191,0.0,0,Neutral,Neutral
+2192,-1.0,0,Slighty cool,Neutral
+2193,0.0,0,Neutral,Neutral
+2194,3.0,0,Hot,Neutral
+2195,-1.0,0,Slighty cool,Neutral
+2196,-3.0,0,Cold,Neutral
+2197,0.0,0,Neutral,Neutral
+2198,-1.0,0,Slighty cool,Neutral
+2199,0.0,0,Neutral,Neutral
+2200,0.0,0,Neutral,Neutral
+2201,-1.0,0,Slighty cool,Neutral
+2202,-2.0,0,Cool,Neutral
+2203,0.0,0,Neutral,Neutral
+2204,-1.0,0,Slighty cool,Neutral
+2205,-0.0,0,Neutral,Neutral
+2206,0.0,0,Neutral,Neutral
+2207,0.0,0,Neutral,Neutral
+2208,-1.0,0,Slighty cool,Neutral
+2209,-2.0,0,Cool,Neutral
+2210,0.0,0,Neutral,Neutral
+2211,0.0,0,Neutral,Neutral
+2212,-1.0,0,Slighty cool,Neutral
+2213,1.0,0,Slighty warm,Neutral
+2214,1.0,0,Slighty warm,Neutral
+2215,-0.0,0,Neutral,Neutral
+2216,0.0,0,Neutral,Neutral
+2217,-1.0,0,Slighty cool,Neutral
+2218,-2.0,0,Cool,Neutral
+2219,-2.0,0,Cool,Neutral
+2220,-1.0,0,Slighty cool,Neutral
+2221,2.0,0,Warm,Neutral
+2222,0.0,0,Neutral,Neutral
+2223,0.0,0,Neutral,Neutral
+2224,-1.0,0,Slighty cool,Neutral
+2225,0.0,0,Neutral,Neutral
+2226,1.0,0,Slighty warm,Neutral
+2227,-1.0,0,Slighty cool,Neutral
+2228,-1.0,0,Slighty cool,Neutral
+2229,-1.0,0,Slighty cool,Neutral
+2230,-2.0,0,Cool,Neutral
+2231,1.0,0,Slighty warm,Neutral
+2232,0.0,0,Neutral,Neutral
+2233,0.0,0,Neutral,Neutral
+2234,2.0,0,Warm,Neutral
+2235,-1.0,0,Slighty cool,Neutral
+2236,-1.0,0,Slighty cool,Neutral
+2237,1.0,0,Slighty warm,Neutral
+2238,0.0,0,Neutral,Neutral
+2239,2.0,0,Warm,Neutral
+2240,0.0,0,Neutral,Neutral
+2241,3.0,0,Hot,Neutral
+2242,0.0,0,Neutral,Neutral
+2243,0.0,0,Neutral,Neutral
+2244,0.0,0,Neutral,Neutral
+2245,0.0,0,Neutral,Neutral
+2246,1.0,0,Slighty warm,Neutral
+2247,1.0,0,Slighty warm,Neutral
+2248,2.0,0,Warm,Neutral
+2249,1.0,0,Slighty warm,Neutral
+2250,1.0,0,Slighty warm,Neutral
+2251,1.0,0,Slighty warm,Neutral
+2252,3.0,0,Hot,Neutral
+2253,-1.0,0,Slighty cool,Neutral
+2254,3.0,0,Hot,Neutral
+2255,1.0,0,Slighty warm,Neutral
+2256,0.0,0,Neutral,Neutral
+2257,3.0,0,Hot,Neutral
+2258,0.0,0,Neutral,Neutral
+2259,0.0,0,Neutral,Neutral
+2260,0.0,0,Neutral,Neutral
+2261,0.0,0,Neutral,Neutral
+2262,2.0,0,Warm,Neutral
+2263,-2.0,0,Cool,Neutral
+2264,-1.0,0,Slighty cool,Neutral
+2265,0.0,0,Neutral,Neutral
+2266,0.0,0,Neutral,Neutral
+2267,-1.0,0,Slighty cool,Neutral
+2268,-3.0,0,Cold,Neutral
+2269,1.0,0,Slighty warm,Neutral
+2270,3.0,1,Hot,Slighty warm
+2271,0.0,0,Neutral,Neutral
+2272,0.0,0,Neutral,Neutral
+2273,0.0,0,Neutral,Neutral
+2274,0.0,0,Neutral,Neutral
+2275,1.0,0,Slighty warm,Neutral
+2276,0.0,0,Neutral,Neutral
+2277,1.0,0,Slighty warm,Neutral
+2278,1.0,0,Slighty warm,Neutral
+2279,0.0,0,Neutral,Neutral
+2280,0.0,0,Neutral,Neutral
+2281,1.0,0,Slighty warm,Neutral
+2282,-2.0,0,Cool,Neutral
+2283,1.0,0,Slighty warm,Neutral
+2284,1.0,0,Slighty warm,Neutral
+2285,0.0,0,Neutral,Neutral
+2286,2.0,0,Warm,Neutral
+2287,0.0,0,Neutral,Neutral
+2288,1.0,0,Slighty warm,Neutral
+2289,-1.0,0,Slighty cool,Neutral
+2290,1.0,0,Slighty warm,Neutral
+2291,-2.0,0,Cool,Neutral
+2292,0.0,0,Neutral,Neutral
+2293,0.0,0,Neutral,Neutral
+2294,-1.0,0,Slighty cool,Neutral
+2295,-1.0,0,Slighty cool,Neutral
+2296,0.0,0,Neutral,Neutral
+2297,-1.0,0,Slighty cool,Neutral
+2298,-2.0,0,Cool,Neutral
+2299,-0.0,0,Neutral,Neutral
+2300,-1.0,0,Slighty cool,Neutral
+2301,0.0,0,Neutral,Neutral
+2302,0.0,0,Neutral,Neutral
+2303,0.0,0,Neutral,Neutral
+2304,-1.0,0,Slighty cool,Neutral
+2305,2.0,0,Warm,Neutral
+2306,0.0,1,Neutral,Slighty warm
+2307,-1.0,0,Slighty cool,Neutral
+2308,0.0,0,Neutral,Neutral
+2309,-1.0,0,Slighty cool,Neutral
+2310,3.0,0,Hot,Neutral
+2311,0.0,0,Neutral,Neutral
+2312,-1.0,0,Slighty cool,Neutral
+2313,0.0,0,Neutral,Neutral
+2314,1.0,0,Slighty warm,Neutral
+2315,-0.0,0,Neutral,Neutral
+2316,2.0,0,Warm,Neutral
+2317,0.0,0,Neutral,Neutral
+2318,0.0,0,Neutral,Neutral
+2319,0.0,0,Neutral,Neutral
+2320,2.0,0,Warm,Neutral
+2321,2.0,0,Warm,Neutral
+2322,0.0,0,Neutral,Neutral
+2323,-2.0,0,Cool,Neutral
+2324,0.0,0,Neutral,Neutral
+2325,-3.0,0,Cold,Neutral
+2326,0.0,0,Neutral,Neutral
+2327,1.0,0,Slighty warm,Neutral
+2328,-1.0,0,Slighty cool,Neutral
+2329,0.0,0,Neutral,Neutral
+2330,1.0,0,Slighty warm,Neutral
+2331,0.0,0,Neutral,Neutral
+2332,0.0,0,Neutral,Neutral
+2333,0.0,0,Neutral,Neutral
+2334,2.0,0,Warm,Neutral
+2335,0.0,0,Neutral,Neutral
+2336,3.0,0,Hot,Neutral
+2337,0.0,0,Neutral,Neutral
+2338,0.0,0,Neutral,Neutral
+2339,3.0,0,Hot,Neutral
+2340,2.0,0,Warm,Neutral
+2341,2.0,0,Warm,Neutral
+2342,-1.0,0,Slighty cool,Neutral
+2343,1.0,0,Slighty warm,Neutral
+2344,0.0,0,Neutral,Neutral
+2345,-1.0,0,Slighty cool,Neutral
+2346,0.0,0,Neutral,Neutral
+2347,0.0,0,Neutral,Neutral
+2348,0.0,0,Neutral,Neutral
+2349,0.0,0,Neutral,Neutral
+2350,1.0,0,Slighty warm,Neutral
+2351,0.0,0,Neutral,Neutral
+2352,0.0,0,Neutral,Neutral
+2353,-1.0,0,Slighty cool,Neutral
+2354,-0.0,0,Neutral,Neutral
+2355,-1.0,0,Slighty cool,Neutral
+2356,1.0,0,Slighty warm,Neutral
+2357,2.0,0,Warm,Neutral
+2358,0.0,0,Neutral,Neutral
+2359,1.0,0,Slighty warm,Neutral
+2360,1.0,0,Slighty warm,Neutral
+2361,-1.0,0,Slighty cool,Neutral
+2362,-1.0,0,Slighty cool,Neutral
+2363,-1.0,0,Slighty cool,Neutral
+2364,0.0,0,Neutral,Neutral
+2365,-0.0,0,Neutral,Neutral
+2366,1.0,0,Slighty warm,Neutral
+2367,0.0,0,Neutral,Neutral
+2368,0.0,0,Neutral,Neutral
+2369,0.0,0,Neutral,Neutral
+2370,-1.0,0,Slighty cool,Neutral
+2371,1.0,0,Slighty warm,Neutral
+2372,-1.0,0,Slighty cool,Neutral
+2373,2.0,0,Warm,Neutral
+2374,-3.0,0,Cold,Neutral
+2375,0.0,0,Neutral,Neutral
+2376,-0.0,0,Neutral,Neutral
+2377,0.0,0,Neutral,Neutral
+2378,3.0,0,Hot,Neutral
+2379,0.0,0,Neutral,Neutral
+2380,1.0,0,Slighty warm,Neutral
+2381,2.0,0,Warm,Neutral
+2382,3.0,0,Hot,Neutral
+2383,1.0,0,Slighty warm,Neutral
+2384,1.0,0,Slighty warm,Neutral
+2385,-2.0,0,Cool,Neutral
+2386,1.0,0,Slighty warm,Neutral
+2387,0.0,0,Neutral,Neutral
+2388,0.0,0,Neutral,Neutral
+2389,2.0,0,Warm,Neutral
+2390,0.0,0,Neutral,Neutral
+2391,0.0,0,Neutral,Neutral
+2392,2.0,1,Warm,Slighty warm
+2393,0.0,0,Neutral,Neutral
+2394,0.0,0,Neutral,Neutral
+2395,2.0,0,Warm,Neutral
+2396,0.0,0,Neutral,Neutral
+2397,-2.0,0,Cool,Neutral
+2398,0.0,0,Neutral,Neutral
+2399,1.0,0,Slighty warm,Neutral
+2400,2.0,0,Warm,Neutral
+2401,-1.0,0,Slighty cool,Neutral
+2402,-1.0,0,Slighty cool,Neutral
+2403,-0.0,0,Neutral,Neutral
+2404,1.0,0,Slighty warm,Neutral
+2405,0.0,0,Neutral,Neutral
+2406,1.0,0,Slighty warm,Neutral
+2407,-1.0,0,Slighty cool,Neutral
+2408,0.0,0,Neutral,Neutral
+2409,-1.0,0,Slighty cool,Neutral
+2410,0.0,0,Neutral,Neutral
+2411,1.0,0,Slighty warm,Neutral
+2412,2.0,0,Warm,Neutral
+2413,-3.0,0,Cold,Neutral
+2414,0.0,0,Neutral,Neutral
+2415,-1.0,0,Slighty cool,Neutral
+2416,0.0,0,Neutral,Neutral
+2417,1.0,0,Slighty warm,Neutral
+2418,0.0,0,Neutral,Neutral
+2419,-2.0,0,Cool,Neutral
+2420,0.0,0,Neutral,Neutral
+2421,1.0,0,Slighty warm,Neutral
+2422,0.0,0,Neutral,Neutral
+2423,1.0,0,Slighty warm,Neutral
+2424,1.0,0,Slighty warm,Neutral
+2425,-1.0,0,Slighty cool,Neutral
+2426,-1.0,0,Slighty cool,Neutral
+2427,-0.0,0,Neutral,Neutral
+2428,0.0,0,Neutral,Neutral
+2429,0.0,0,Neutral,Neutral
+2430,-2.0,0,Cool,Neutral
+2431,1.0,0,Slighty warm,Neutral
+2432,1.0,0,Slighty warm,Neutral
+2433,1.0,0,Slighty warm,Neutral
+2434,0.0,0,Neutral,Neutral
+2435,0.0,0,Neutral,Neutral
+2436,0.0,0,Neutral,Neutral
+2437,0.0,0,Neutral,Neutral
+2438,0.0,0,Neutral,Neutral
+2439,0.0,0,Neutral,Neutral
+2440,0.0,0,Neutral,Neutral
+2441,-0.0,0,Neutral,Neutral
+2442,1.0,0,Slighty warm,Neutral
+2443,2.0,0,Warm,Neutral
+2444,-1.0,0,Slighty cool,Neutral
+2445,-3.0,1,Cold,Slighty warm
+2446,0.0,0,Neutral,Neutral
+2447,0.0,0,Neutral,Neutral
+2448,-1.0,0,Slighty cool,Neutral
+2449,2.0,0,Warm,Neutral
+2450,0.0,0,Neutral,Neutral
+2451,0.0,0,Neutral,Neutral
+2452,1.0,0,Slighty warm,Neutral
+2453,0.0,0,Neutral,Neutral
+2454,0.0,0,Neutral,Neutral
+2455,0.0,0,Neutral,Neutral
+2456,0.0,0,Neutral,Neutral
+2457,2.0,0,Warm,Neutral
+2458,0.0,0,Neutral,Neutral
+2459,0.0,0,Neutral,Neutral
+2460,3.0,0,Hot,Neutral
+2461,-0.0,0,Neutral,Neutral
+2462,0.0,0,Neutral,Neutral
+2463,2.0,0,Warm,Neutral
+2464,0.0,0,Neutral,Neutral
+2465,1.0,0,Slighty warm,Neutral
+2466,-1.0,0,Slighty cool,Neutral
+2467,0.0,0,Neutral,Neutral
+2468,0.0,0,Neutral,Neutral
+2469,-1.0,0,Slighty cool,Neutral
+2470,0.0,0,Neutral,Neutral
+2471,0.0,0,Neutral,Neutral
+2472,-2.0,0,Cool,Neutral
+2473,-3.0,0,Cold,Neutral
+2474,0.0,0,Neutral,Neutral
+2475,0.0,0,Neutral,Neutral
+2476,0.0,0,Neutral,Neutral
+2477,0.0,0,Neutral,Neutral
+2478,2.0,0,Warm,Neutral
+2479,0.0,0,Neutral,Neutral
+2480,0.0,0,Neutral,Neutral
+2481,0.0,0,Neutral,Neutral
+2482,0.0,0,Neutral,Neutral
+2483,0.0,0,Neutral,Neutral
+2484,-1.0,0,Slighty cool,Neutral
+2485,0.0,0,Neutral,Neutral
+2486,-1.0,0,Slighty cool,Neutral
+2487,0.0,0,Neutral,Neutral
+2488,0.0,0,Neutral,Neutral
+2489,3.0,0,Hot,Neutral
+2490,-1.0,0,Slighty cool,Neutral
+2491,0.0,0,Neutral,Neutral
+2492,-1.0,0,Slighty cool,Neutral
+2493,1.0,0,Slighty warm,Neutral
+2494,2.0,0,Warm,Neutral
+2495,0.0,0,Neutral,Neutral
+2496,3.0,0,Hot,Neutral
+2497,-0.0,0,Neutral,Neutral
+2498,2.0,0,Warm,Neutral
+2499,-3.0,0,Cold,Neutral
+2500,1.0,0,Slighty warm,Neutral
+2501,3.0,0,Hot,Neutral
+2502,1.0,0,Slighty warm,Neutral
+2503,0.0,0,Neutral,Neutral
+2504,3.0,0,Hot,Neutral
+2505,-1.0,0,Slighty cool,Neutral
+2506,1.0,0,Slighty warm,Neutral
+2507,0.0,0,Neutral,Neutral
+2508,-1.0,0,Slighty cool,Neutral
+2509,1.0,0,Slighty warm,Neutral
+2510,2.0,0,Warm,Neutral
+2511,-1.0,0,Slighty cool,Neutral
+2512,0.0,0,Neutral,Neutral
+2513,0.0,0,Neutral,Neutral
+2514,0.0,0,Neutral,Neutral
+2515,1.0,0,Slighty warm,Neutral
+2516,0.0,0,Neutral,Neutral
+2517,1.0,0,Slighty warm,Neutral
+2518,-2.0,0,Cool,Neutral
+2519,0.0,0,Neutral,Neutral
+2520,0.0,0,Neutral,Neutral
+2521,1.0,0,Slighty warm,Neutral
+2522,0.0,0,Neutral,Neutral
+2523,0.0,0,Neutral,Neutral
+2524,3.0,0,Hot,Neutral
+2525,2.0,0,Warm,Neutral
+2526,-0.0,0,Neutral,Neutral
+2527,0.0,0,Neutral,Neutral
+2528,3.0,0,Hot,Neutral
+2529,0.0,0,Neutral,Neutral
+2530,-0.0,0,Neutral,Neutral
+2531,2.0,0,Warm,Neutral
+2532,0.0,0,Neutral,Neutral
+2533,1.0,0,Slighty warm,Neutral
+2534,-2.0,0,Cool,Neutral
+2535,2.0,0,Warm,Neutral
+2536,-1.0,0,Slighty cool,Neutral
+2537,1.0,0,Slighty warm,Neutral
+2538,-1.0,0,Slighty cool,Neutral
+2539,1.0,0,Slighty warm,Neutral
+2540,0.0,0,Neutral,Neutral
+2541,0.0,0,Neutral,Neutral
+2542,0.0,0,Neutral,Neutral
+2543,-1.0,0,Slighty cool,Neutral
+2544,-0.0,0,Neutral,Neutral
+2545,2.0,0,Warm,Neutral
+2546,1.0,0,Slighty warm,Neutral
+2547,-1.0,0,Slighty cool,Neutral
+2548,0.0,0,Neutral,Neutral
+2549,-1.0,0,Slighty cool,Neutral
+2550,-0.0,0,Neutral,Neutral
+2551,2.0,0,Warm,Neutral
+2552,-1.0,0,Slighty cool,Neutral
+2553,1.0,0,Slighty warm,Neutral
+2554,-1.0,0,Slighty cool,Neutral
+2555,-1.0,0,Slighty cool,Neutral
+2556,1.0,0,Slighty warm,Neutral
+2557,0.0,0,Neutral,Neutral
+2558,-1.0,0,Slighty cool,Neutral
+2559,3.0,0,Hot,Neutral
+2560,-2.0,0,Cool,Neutral
+2561,0.0,0,Neutral,Neutral
+2562,-2.0,0,Cool,Neutral
+2563,0.0,0,Neutral,Neutral
+2564,0.0,0,Neutral,Neutral
+2565,-2.0,0,Cool,Neutral
+2566,2.0,0,Warm,Neutral
+2567,1.0,0,Slighty warm,Neutral
+2568,0.0,0,Neutral,Neutral
+2569,0.0,0,Neutral,Neutral
+2570,0.0,0,Neutral,Neutral
+2571,-2.0,0,Cool,Neutral
+2572,0.0,0,Neutral,Neutral
+2573,2.0,0,Warm,Neutral
+2574,0.0,0,Neutral,Neutral
+2575,0.0,0,Neutral,Neutral
+2576,1.0,0,Slighty warm,Neutral
+2577,1.0,0,Slighty warm,Neutral
+2578,1.0,0,Slighty warm,Neutral
+2579,-1.0,0,Slighty cool,Neutral
+2580,-1.0,0,Slighty cool,Neutral
+2581,-1.0,0,Slighty cool,Neutral
+2582,3.0,0,Hot,Neutral
+2583,0.0,0,Neutral,Neutral
+2584,0.0,0,Neutral,Neutral
+2585,0.0,0,Neutral,Neutral
+2586,1.0,0,Slighty warm,Neutral
+2587,-1.0,0,Slighty cool,Neutral
+2588,0.0,0,Neutral,Neutral
+2589,-2.0,0,Cool,Neutral
+2590,1.0,0,Slighty warm,Neutral
+2591,0.0,0,Neutral,Neutral
+2592,-2.0,0,Cool,Neutral
+2593,0.0,0,Neutral,Neutral
+2594,1.0,0,Slighty warm,Neutral
+2595,0.0,0,Neutral,Neutral
+2596,3.0,0,Hot,Neutral
+2597,0.0,0,Neutral,Neutral
+2598,0.0,0,Neutral,Neutral
+2599,-1.0,0,Slighty cool,Neutral
+2600,1.0,0,Slighty warm,Neutral
+2601,2.0,0,Warm,Neutral
+2602,-0.0,0,Neutral,Neutral
+2603,-1.0,0,Slighty cool,Neutral
+2604,0.0,0,Neutral,Neutral
+2605,0.0,0,Neutral,Neutral
+2606,0.0,0,Neutral,Neutral
+2607,-1.0,0,Slighty cool,Neutral
+2608,1.0,0,Slighty warm,Neutral
+2609,2.0,0,Warm,Neutral
+2610,0.0,0,Neutral,Neutral
+2611,2.0,0,Warm,Neutral
+2612,0.0,0,Neutral,Neutral
+2613,3.0,0,Hot,Neutral
+2614,0.0,0,Neutral,Neutral
+2615,-1.0,0,Slighty cool,Neutral
+2616,0.0,0,Neutral,Neutral
+2617,0.0,0,Neutral,Neutral
+2618,-1.0,0,Slighty cool,Neutral
+2619,-0.0,0,Neutral,Neutral
+2620,3.0,0,Hot,Neutral
+2621,3.0,0,Hot,Neutral
+2622,0.0,0,Neutral,Neutral
+2623,0.0,0,Neutral,Neutral
+2624,0.0,0,Neutral,Neutral
+2625,-1.0,0,Slighty cool,Neutral
+2626,-0.0,0,Neutral,Neutral
+2627,2.0,0,Warm,Neutral
+2628,0.0,0,Neutral,Neutral
+2629,3.0,0,Hot,Neutral
+2630,0.0,0,Neutral,Neutral
+2631,1.0,0,Slighty warm,Neutral
+2632,1.0,0,Slighty warm,Neutral
+2633,3.0,0,Hot,Neutral
+2634,0.0,0,Neutral,Neutral
+2635,0.0,0,Neutral,Neutral
+2636,3.0,0,Hot,Neutral
+2637,0.0,0,Neutral,Neutral
+2638,0.0,0,Neutral,Neutral
+2639,-1.0,0,Slighty cool,Neutral
+2640,3.0,0,Hot,Neutral
+2641,2.0,0,Warm,Neutral
+2642,1.0,0,Slighty warm,Neutral
+2643,0.0,0,Neutral,Neutral
+2644,-1.0,0,Slighty cool,Neutral
+2645,0.0,0,Neutral,Neutral
+2646,-1.0,0,Slighty cool,Neutral
+2647,0.0,0,Neutral,Neutral
+2648,3.0,0,Hot,Neutral
+2649,0.0,0,Neutral,Neutral
+2650,-1.0,0,Slighty cool,Neutral
+2651,0.0,0,Neutral,Neutral
+2652,-1.0,0,Slighty cool,Neutral
+2653,0.0,0,Neutral,Neutral
+2654,-2.0,0,Cool,Neutral
+2655,0.0,0,Neutral,Neutral
+2656,1.0,0,Slighty warm,Neutral
+2657,-1.0,0,Slighty cool,Neutral
+2658,2.0,0,Warm,Neutral
+2659,0.0,0,Neutral,Neutral
+2660,-1.0,0,Slighty cool,Neutral
+2661,0.0,0,Neutral,Neutral
+2662,0.0,0,Neutral,Neutral
+2663,0.0,0,Neutral,Neutral
+2664,0.0,0,Neutral,Neutral
+2665,0.0,0,Neutral,Neutral
+2666,1.0,0,Slighty warm,Neutral
+2667,0.0,0,Neutral,Neutral
+2668,2.0,0,Warm,Neutral
+2669,1.0,0,Slighty warm,Neutral
+2670,-1.0,0,Slighty cool,Neutral
+2671,0.0,0,Neutral,Neutral
+2672,0.0,0,Neutral,Neutral
+2673,3.0,0,Hot,Neutral
+2674,-1.0,0,Slighty cool,Neutral
+2675,0.0,0,Neutral,Neutral
+2676,0.0,0,Neutral,Neutral
+2677,0.0,0,Neutral,Neutral
+2678,1.0,0,Slighty warm,Neutral
+2679,-3.0,0,Cold,Neutral
+2680,-0.0,0,Neutral,Neutral
+2681,-1.0,0,Slighty cool,Neutral
+2682,1.0,0,Slighty warm,Neutral
+2683,0.0,0,Neutral,Neutral
+2684,-0.0,0,Neutral,Neutral
+2685,0.0,0,Neutral,Neutral
+2686,0.0,0,Neutral,Neutral
+2687,0.0,0,Neutral,Neutral
+2688,0.0,0,Neutral,Neutral
+2689,0.0,0,Neutral,Neutral
+2690,1.0,0,Slighty warm,Neutral
+2691,-1.0,0,Slighty cool,Neutral
+2692,0.0,0,Neutral,Neutral
+2693,1.0,0,Slighty warm,Neutral
+2694,0.0,0,Neutral,Neutral
+2695,0.0,0,Neutral,Neutral
+2696,1.0,0,Slighty warm,Neutral
+2697,0.0,0,Neutral,Neutral
+2698,-0.0,0,Neutral,Neutral
+2699,-1.0,0,Slighty cool,Neutral
+2700,-1.0,0,Slighty cool,Neutral
+2701,-2.0,0,Cool,Neutral
+2702,1.0,0,Slighty warm,Neutral
+2703,3.0,0,Hot,Neutral
+2704,0.0,0,Neutral,Neutral
+2705,1.0,0,Slighty warm,Neutral
+2706,-1.0,0,Slighty cool,Neutral
+2707,-1.0,0,Slighty cool,Neutral
+2708,0.0,0,Neutral,Neutral
+2709,-1.0,0,Slighty cool,Neutral
+2710,1.0,0,Slighty warm,Neutral
+2711,1.0,0,Slighty warm,Neutral
+2712,-1.0,0,Slighty cool,Neutral
+2713,0.0,0,Neutral,Neutral
+2714,2.0,0,Warm,Neutral
+2715,0.0,0,Neutral,Neutral
+2716,2.0,0,Warm,Neutral
+2717,-0.0,0,Neutral,Neutral
+2718,0.0,0,Neutral,Neutral
+2719,0.0,0,Neutral,Neutral
+2720,0.0,0,Neutral,Neutral
+2721,-1.0,0,Slighty cool,Neutral
+2722,0.0,0,Neutral,Neutral
+2723,1.0,0,Slighty warm,Neutral
+2724,0.0,0,Neutral,Neutral
+2725,0.0,0,Neutral,Neutral
+2726,0.0,0,Neutral,Neutral
+2727,1.0,0,Slighty warm,Neutral
+2728,-1.0,0,Slighty cool,Neutral
+2729,1.0,0,Slighty warm,Neutral
+2730,0.0,0,Neutral,Neutral
+2731,0.0,0,Neutral,Neutral
+2732,3.0,0,Hot,Neutral
+2733,-1.0,0,Slighty cool,Neutral
+2734,-1.0,0,Slighty cool,Neutral
+2735,-1.0,0,Slighty cool,Neutral
+2736,-1.0,0,Slighty cool,Neutral
+2737,0.0,0,Neutral,Neutral
+2738,0.0,0,Neutral,Neutral
+2739,-1.0,0,Slighty cool,Neutral
+2740,0.0,0,Neutral,Neutral
+2741,-1.0,0,Slighty cool,Neutral
+2742,0.0,0,Neutral,Neutral
+2743,-1.0,0,Slighty cool,Neutral
+2744,1.0,0,Slighty warm,Neutral
+2745,0.0,0,Neutral,Neutral
+2746,0.0,0,Neutral,Neutral
+2747,0.0,0,Neutral,Neutral
+2748,0.0,0,Neutral,Neutral
+2749,1.0,0,Slighty warm,Neutral
+2750,0.0,0,Neutral,Neutral
+2751,-1.0,0,Slighty cool,Neutral
+2752,0.0,0,Neutral,Neutral
+2753,0.0,0,Neutral,Neutral
+2754,0.0,0,Neutral,Neutral
+2755,3.0,0,Hot,Neutral
+2756,0.0,0,Neutral,Neutral
+2757,0.0,0,Neutral,Neutral
+2758,1.0,0,Slighty warm,Neutral
+2759,-1.0,0,Slighty cool,Neutral
+2760,0.0,0,Neutral,Neutral
+2761,3.0,0,Hot,Neutral
+2762,-1.0,0,Slighty cool,Neutral
+2763,-3.0,0,Cold,Neutral
+2764,-1.0,0,Slighty cool,Neutral
+2765,0.0,0,Neutral,Neutral
+2766,1.0,0,Slighty warm,Neutral
+2767,1.0,0,Slighty warm,Neutral
+2768,3.0,0,Hot,Neutral
+2769,0.0,0,Neutral,Neutral
+2770,1.0,0,Slighty warm,Neutral
+2771,0.0,0,Neutral,Neutral
+2772,1.0,0,Slighty warm,Neutral
+2773,-1.0,0,Slighty cool,Neutral
+2774,1.0,0,Slighty warm,Neutral
+2775,1.0,0,Slighty warm,Neutral
+2776,0.0,0,Neutral,Neutral
+2777,0.0,0,Neutral,Neutral
+2778,-1.0,0,Slighty cool,Neutral
+2779,1.0,0,Slighty warm,Neutral
+2780,1.0,0,Slighty warm,Neutral
+2781,2.0,0,Warm,Neutral
+2782,0.0,0,Neutral,Neutral
+2783,-1.0,0,Slighty cool,Neutral
+2784,1.0,0,Slighty warm,Neutral
+2785,-1.0,0,Slighty cool,Neutral
+2786,0.0,0,Neutral,Neutral
+2787,-1.0,0,Slighty cool,Neutral
+2788,0.0,1,Neutral,Slighty warm
+2789,0.0,0,Neutral,Neutral
+2790,1.0,0,Slighty warm,Neutral
+2791,0.0,0,Neutral,Neutral
+2792,0.0,0,Neutral,Neutral
+2793,0.0,0,Neutral,Neutral
+2794,-1.0,0,Slighty cool,Neutral
+2795,2.0,0,Warm,Neutral
+2796,0.0,0,Neutral,Neutral
+2797,0.0,0,Neutral,Neutral
+2798,-0.0,0,Neutral,Neutral
+2799,-2.0,0,Cool,Neutral
+2800,0.0,0,Neutral,Neutral
+2801,0.0,0,Neutral,Neutral
+2802,0.0,0,Neutral,Neutral
+2803,0.0,0,Neutral,Neutral
+2804,1.0,0,Slighty warm,Neutral
+2805,2.0,0,Warm,Neutral
+2806,2.0,0,Warm,Neutral
+2807,3.0,0,Hot,Neutral
+2808,0.0,0,Neutral,Neutral
+2809,2.0,0,Warm,Neutral
+2810,0.0,0,Neutral,Neutral
+2811,1.0,0,Slighty warm,Neutral
+2812,-2.0,0,Cool,Neutral
+2813,-2.0,0,Cool,Neutral
+2814,0.0,0,Neutral,Neutral
+2815,-1.0,0,Slighty cool,Neutral
+2816,0.0,0,Neutral,Neutral
+2817,0.0,0,Neutral,Neutral
+2818,1.0,0,Slighty warm,Neutral
+2819,0.0,0,Neutral,Neutral
+2820,0.0,0,Neutral,Neutral
+2821,0.0,0,Neutral,Neutral
+2822,0.0,0,Neutral,Neutral
+2823,1.0,0,Slighty warm,Neutral
+2824,2.0,0,Warm,Neutral
+2825,0.0,0,Neutral,Neutral
+2826,-1.0,0,Slighty cool,Neutral
+2827,2.0,0,Warm,Neutral
+2828,0.0,0,Neutral,Neutral
+2829,1.0,0,Slighty warm,Neutral
+2830,0.0,0,Neutral,Neutral
+2831,-1.0,0,Slighty cool,Neutral
+2832,0.0,0,Neutral,Neutral
+2833,0.0,0,Neutral,Neutral
+2834,1.0,0,Slighty warm,Neutral
+2835,-1.0,0,Slighty cool,Neutral
+2836,-1.0,0,Slighty cool,Neutral
+2837,-1.0,0,Slighty cool,Neutral
+2838,-2.0,0,Cool,Neutral
+2839,2.0,0,Warm,Neutral
+2840,0.0,0,Neutral,Neutral
+2841,0.0,0,Neutral,Neutral
+2842,0.0,0,Neutral,Neutral
+2843,-1.0,0,Slighty cool,Neutral
+2844,-2.0,0,Cool,Neutral
+2845,0.0,0,Neutral,Neutral
+2846,0.0,0,Neutral,Neutral
+2847,0.0,0,Neutral,Neutral
+2848,0.0,0,Neutral,Neutral
+2849,-1.0,0,Slighty cool,Neutral
+2850,0.0,0,Neutral,Neutral
+2851,3.0,0,Hot,Neutral
+2852,0.0,0,Neutral,Neutral
+2853,0.0,0,Neutral,Neutral
+2854,0.0,0,Neutral,Neutral
+2855,0.0,0,Neutral,Neutral
+2856,1.0,0,Slighty warm,Neutral
+2857,0.0,0,Neutral,Neutral
+2858,-1.0,0,Slighty cool,Neutral
+2859,0.0,0,Neutral,Neutral
+2860,0.0,0,Neutral,Neutral
+2861,0.0,0,Neutral,Neutral
+2862,0.0,0,Neutral,Neutral
+2863,1.0,0,Slighty warm,Neutral
+2864,0.0,0,Neutral,Neutral
+2865,-2.0,0,Cool,Neutral
+2866,3.0,0,Hot,Neutral
+2867,-1.0,0,Slighty cool,Neutral
+2868,-2.0,0,Cool,Neutral
+2869,-1.0,0,Slighty cool,Neutral
+2870,0.0,0,Neutral,Neutral
+2871,0.0,0,Neutral,Neutral
+2872,3.0,0,Hot,Neutral
+2873,-3.0,0,Cold,Neutral
+2874,0.0,0,Neutral,Neutral
+2875,-1.0,0,Slighty cool,Neutral
+2876,0.0,0,Neutral,Neutral
+2877,1.0,0,Slighty warm,Neutral
+2878,-1.0,0,Slighty cool,Neutral
+2879,0.0,0,Neutral,Neutral
+2880,3.0,0,Hot,Neutral
+2881,2.0,0,Warm,Neutral
+2882,0.0,0,Neutral,Neutral
+2883,0.0,0,Neutral,Neutral
+2884,-2.0,0,Cool,Neutral
+2885,1.0,0,Slighty warm,Neutral
+2886,3.0,0,Hot,Neutral
+2887,3.0,0,Hot,Neutral
+2888,1.0,0,Slighty warm,Neutral
+2889,1.0,0,Slighty warm,Neutral
+2890,0.0,0,Neutral,Neutral
+2891,0.0,0,Neutral,Neutral
+2892,-1.0,0,Slighty cool,Neutral
+2893,0.0,0,Neutral,Neutral
+2894,0.0,0,Neutral,Neutral
+2895,2.0,0,Warm,Neutral
+2896,0.0,0,Neutral,Neutral
+2897,2.0,0,Warm,Neutral
+2898,-1.0,0,Slighty cool,Neutral
+2899,0.0,0,Neutral,Neutral
+2900,-2.0,0,Cool,Neutral
+2901,0.0,0,Neutral,Neutral
+2902,0.0,0,Neutral,Neutral
+2903,-1.0,0,Slighty cool,Neutral
+2904,0.0,0,Neutral,Neutral
+2905,1.0,0,Slighty warm,Neutral
+2906,1.0,0,Slighty warm,Neutral
+2907,0.0,0,Neutral,Neutral
+2908,0.0,0,Neutral,Neutral
+2909,2.0,0,Warm,Neutral
+2910,3.0,0,Hot,Neutral
+2911,-1.0,0,Slighty cool,Neutral
+2912,-1.0,0,Slighty cool,Neutral
+2913,-2.0,0,Cool,Neutral
+2914,0.0,0,Neutral,Neutral
+2915,3.0,0,Hot,Neutral
+2916,0.0,0,Neutral,Neutral
+2917,0.0,0,Neutral,Neutral
+2918,2.0,0,Warm,Neutral
+2919,-1.0,0,Slighty cool,Neutral
+2920,-2.0,0,Cool,Neutral
+2921,-1.0,0,Slighty cool,Neutral
+2922,0.0,0,Neutral,Neutral
+2923,-1.0,0,Slighty cool,Neutral
+2924,0.0,0,Neutral,Neutral
+2925,-1.0,0,Slighty cool,Neutral
+2926,-1.0,0,Slighty cool,Neutral
+2927,2.0,0,Warm,Neutral
+2928,-1.0,0,Slighty cool,Neutral
+2929,-1.0,0,Slighty cool,Neutral
+2930,1.0,0,Slighty warm,Neutral
+2931,1.0,0,Slighty warm,Neutral
+2932,-2.0,0,Cool,Neutral
+2933,-1.0,0,Slighty cool,Neutral
+2934,0.0,0,Neutral,Neutral
+2935,0.0,0,Neutral,Neutral
+2936,0.0,0,Neutral,Neutral
+2937,0.0,0,Neutral,Neutral
+2938,0.0,0,Neutral,Neutral
+2939,-2.0,0,Cool,Neutral
+2940,1.0,0,Slighty warm,Neutral
+2941,-1.0,0,Slighty cool,Neutral
+2942,0.0,0,Neutral,Neutral
+2943,0.0,0,Neutral,Neutral
+2944,0.0,0,Neutral,Neutral
+2945,3.0,0,Hot,Neutral
+2946,-1.0,0,Slighty cool,Neutral
+2947,-1.0,0,Slighty cool,Neutral
+2948,0.0,0,Neutral,Neutral
+2949,-1.0,0,Slighty cool,Neutral
+2950,-1.0,0,Slighty cool,Neutral
+2951,1.0,0,Slighty warm,Neutral
+2952,0.0,0,Neutral,Neutral
+2953,-0.0,0,Neutral,Neutral
+2954,0.0,0,Neutral,Neutral
+2955,0.0,0,Neutral,Neutral
+2956,-1.0,0,Slighty cool,Neutral
+2957,2.0,0,Warm,Neutral
+2958,0.0,0,Neutral,Neutral
+2959,2.0,0,Warm,Neutral
+2960,1.0,0,Slighty warm,Neutral
+2961,-1.0,0,Slighty cool,Neutral
+2962,-1.0,0,Slighty cool,Neutral
+2963,-1.0,0,Slighty cool,Neutral
+2964,2.0,0,Warm,Neutral
+2965,-1.0,0,Slighty cool,Neutral
+2966,1.0,0,Slighty warm,Neutral
+2967,-1.0,0,Slighty cool,Neutral
+2968,-0.0,0,Neutral,Neutral
+2969,0.0,0,Neutral,Neutral
+2970,1.0,0,Slighty warm,Neutral
+2971,0.0,0,Neutral,Neutral
+2972,0.0,0,Neutral,Neutral
+2973,1.0,0,Slighty warm,Neutral
+2974,0.0,0,Neutral,Neutral
+2975,3.0,1,Hot,Slighty warm
+2976,0.0,0,Neutral,Neutral
+2977,0.0,0,Neutral,Neutral
+2978,-1.0,0,Slighty cool,Neutral
+2979,3.0,0,Hot,Neutral
+2980,0.0,0,Neutral,Neutral
+2981,0.0,0,Neutral,Neutral
+2982,-0.0,0,Neutral,Neutral
+2983,0.0,0,Neutral,Neutral
+2984,-3.0,0,Cold,Neutral
+2985,-2.0,0,Cool,Neutral
+2986,1.0,0,Slighty warm,Neutral
+2987,0.0,0,Neutral,Neutral
+2988,0.0,0,Neutral,Neutral
+2989,-1.0,0,Slighty cool,Neutral
+2990,1.0,0,Slighty warm,Neutral
+2991,-1.0,0,Slighty cool,Neutral
+2992,-1.0,0,Slighty cool,Neutral
+2993,2.0,0,Warm,Neutral
+2994,0.0,0,Neutral,Neutral
+2995,0.0,0,Neutral,Neutral
+2996,3.0,0,Hot,Neutral
+2997,0.0,0,Neutral,Neutral
+2998,0.0,0,Neutral,Neutral
+2999,-1.0,0,Slighty cool,Neutral
+3000,0.0,0,Neutral,Neutral
+3001,-1.0,0,Slighty cool,Neutral
+3002,-2.0,0,Cool,Neutral
+3003,0.0,0,Neutral,Neutral
+3004,0.0,0,Neutral,Neutral
+3005,2.0,0,Warm,Neutral
+3006,0.0,0,Neutral,Neutral
+3007,-3.0,0,Cold,Neutral
+3008,0.0,0,Neutral,Neutral
+3009,0.0,0,Neutral,Neutral
+3010,-0.0,0,Neutral,Neutral
+3011,1.0,0,Slighty warm,Neutral
+3012,1.0,0,Slighty warm,Neutral
+3013,1.0,0,Slighty warm,Neutral
+3014,-2.0,0,Cool,Neutral
+3015,0.0,0,Neutral,Neutral
+3016,0.0,0,Neutral,Neutral
+3017,-1.0,0,Slighty cool,Neutral
+3018,-1.0,0,Slighty cool,Neutral
+3019,0.0,0,Neutral,Neutral
+3020,0.0,0,Neutral,Neutral
+3021,1.0,0,Slighty warm,Neutral
+3022,1.0,0,Slighty warm,Neutral
+3023,0.0,0,Neutral,Neutral
+3024,2.0,0,Warm,Neutral
+3025,0.0,0,Neutral,Neutral
+3026,2.0,0,Warm,Neutral
+3027,1.0,0,Slighty warm,Neutral
+3028,0.0,0,Neutral,Neutral
+3029,1.0,0,Slighty warm,Neutral
+3030,1.0,0,Slighty warm,Neutral
+3031,-1.0,0,Slighty cool,Neutral
+3032,0.0,0,Neutral,Neutral
+3033,2.0,0,Warm,Neutral
+3034,0.0,0,Neutral,Neutral
+3035,1.0,0,Slighty warm,Neutral
+3036,0.0,0,Neutral,Neutral
+3037,0.0,0,Neutral,Neutral
+3038,3.0,0,Hot,Neutral
+3039,3.0,0,Hot,Neutral
+3040,-0.0,0,Neutral,Neutral
+3041,2.0,0,Warm,Neutral
+3042,0.0,0,Neutral,Neutral
+3043,0.0,0,Neutral,Neutral
+3044,1.0,0,Slighty warm,Neutral
+3045,-2.0,0,Cool,Neutral
+3046,-1.0,0,Slighty cool,Neutral
+3047,0.0,0,Neutral,Neutral
+3048,-2.0,0,Cool,Neutral
+3049,0.0,0,Neutral,Neutral
+3050,-1.0,0,Slighty cool,Neutral
+3051,-1.0,0,Slighty cool,Neutral
+3052,0.0,0,Neutral,Neutral
+3053,3.0,0,Hot,Neutral
+3054,-1.0,0,Slighty cool,Neutral
+3055,-1.0,0,Slighty cool,Neutral
+3056,1.0,0,Slighty warm,Neutral
+3057,-1.0,0,Slighty cool,Neutral
+3058,0.0,0,Neutral,Neutral
+3059,0.0,0,Neutral,Neutral
+3060,0.0,0,Neutral,Neutral
+3061,0.0,0,Neutral,Neutral
+3062,0.0,0,Neutral,Neutral
+3063,1.0,0,Slighty warm,Neutral
+3064,-1.0,0,Slighty cool,Neutral
+3065,1.0,0,Slighty warm,Neutral
+3066,-1.0,0,Slighty cool,Neutral
+3067,0.0,0,Neutral,Neutral
+3068,-1.0,0,Slighty cool,Neutral
+3069,0.0,0,Neutral,Neutral
+3070,0.0,0,Neutral,Neutral
+3071,-1.0,0,Slighty cool,Neutral
+3072,0.0,0,Neutral,Neutral
+3073,-2.0,0,Cool,Neutral
+3074,0.0,0,Neutral,Neutral
+3075,-0.0,0,Neutral,Neutral
+3076,0.0,0,Neutral,Neutral
+3077,-0.0,0,Neutral,Neutral
+3078,-1.0,0,Slighty cool,Neutral
+3079,-1.0,0,Slighty cool,Neutral
+3080,0.0,0,Neutral,Neutral
+3081,0.0,0,Neutral,Neutral
+3082,0.0,0,Neutral,Neutral
+3083,-3.0,0,Cold,Neutral
+3084,3.0,0,Hot,Neutral
+3085,-1.0,0,Slighty cool,Neutral
+3086,-1.0,0,Slighty cool,Neutral
+3087,1.0,0,Slighty warm,Neutral
+3088,0.0,0,Neutral,Neutral
+3089,2.0,0,Warm,Neutral
+3090,-1.0,0,Slighty cool,Neutral
+3091,0.0,0,Neutral,Neutral
+3092,-1.0,0,Slighty cool,Neutral
+3093,0.0,0,Neutral,Neutral
+3094,0.0,0,Neutral,Neutral
+3095,-1.0,0,Slighty cool,Neutral
+3096,-1.0,0,Slighty cool,Neutral
+3097,-2.0,0,Cool,Neutral
+3098,-1.0,0,Slighty cool,Neutral
+3099,-1.0,0,Slighty cool,Neutral
+3100,0.0,0,Neutral,Neutral
+3101,-1.0,0,Slighty cool,Neutral
+3102,-0.0,0,Neutral,Neutral
+3103,0.0,0,Neutral,Neutral
+3104,0.0,0,Neutral,Neutral
+3105,2.0,0,Warm,Neutral
+3106,-1.0,0,Slighty cool,Neutral
+3107,1.0,0,Slighty warm,Neutral
+3108,-1.0,0,Slighty cool,Neutral
+3109,0.0,0,Neutral,Neutral
+3110,-2.0,0,Cool,Neutral
+3111,-1.0,0,Slighty cool,Neutral
+3112,0.0,0,Neutral,Neutral
+3113,0.0,0,Neutral,Neutral
+3114,1.0,0,Slighty warm,Neutral
+3115,0.0,0,Neutral,Neutral
+3116,1.0,0,Slighty warm,Neutral
+3117,-2.0,0,Cool,Neutral
+3118,0.0,0,Neutral,Neutral
+3119,-2.0,0,Cool,Neutral
+3120,0.0,0,Neutral,Neutral
+3121,-1.0,0,Slighty cool,Neutral
+3122,1.0,0,Slighty warm,Neutral
+3123,0.0,0,Neutral,Neutral
+3124,0.0,0,Neutral,Neutral
+3125,2.0,0,Warm,Neutral
+3126,0.0,0,Neutral,Neutral
+3127,3.0,0,Hot,Neutral
+3128,3.0,0,Hot,Neutral
+3129,-1.0,0,Slighty cool,Neutral
+3130,0.0,0,Neutral,Neutral
+3131,0.0,0,Neutral,Neutral
+3132,1.0,0,Slighty warm,Neutral
+3133,0.0,0,Neutral,Neutral
+3134,0.0,0,Neutral,Neutral
+3135,1.0,0,Slighty warm,Neutral
+3136,0.0,0,Neutral,Neutral
+3137,0.0,0,Neutral,Neutral
+3138,-1.0,0,Slighty cool,Neutral
+3139,-1.0,0,Slighty cool,Neutral
+3140,0.0,0,Neutral,Neutral
+3141,1.0,0,Slighty warm,Neutral
+3142,0.0,0,Neutral,Neutral
+3143,0.0,0,Neutral,Neutral
+3144,1.0,0,Slighty warm,Neutral
+3145,-2.0,0,Cool,Neutral
+3146,1.0,0,Slighty warm,Neutral
+3147,0.0,0,Neutral,Neutral
+3148,-1.0,0,Slighty cool,Neutral
+3149,2.0,0,Warm,Neutral
+3150,2.0,0,Warm,Neutral
+3151,0.0,0,Neutral,Neutral
+3152,2.0,0,Warm,Neutral
+3153,0.0,0,Neutral,Neutral
+3154,-1.0,0,Slighty cool,Neutral
+3155,0.0,0,Neutral,Neutral
+3156,0.0,0,Neutral,Neutral
+3157,-1.0,0,Slighty cool,Neutral
+3158,-1.0,0,Slighty cool,Neutral
+3159,1.0,0,Slighty warm,Neutral
+3160,-1.0,0,Slighty cool,Neutral
+3161,3.0,0,Hot,Neutral
+3162,0.0,0,Neutral,Neutral
+3163,0.0,0,Neutral,Neutral
+3164,0.0,0,Neutral,Neutral
+3165,0.0,0,Neutral,Neutral
+3166,0.0,0,Neutral,Neutral
+3167,2.0,0,Warm,Neutral
+3168,1.0,0,Slighty warm,Neutral
+3169,0.0,0,Neutral,Neutral
+3170,0.0,0,Neutral,Neutral
+3171,0.0,0,Neutral,Neutral
+3172,1.0,0,Slighty warm,Neutral
+3173,0.0,0,Neutral,Neutral
+3174,-1.0,0,Slighty cool,Neutral
+3175,-2.0,0,Cool,Neutral
+3176,-1.0,1,Slighty cool,Slighty warm
+3177,0.0,0,Neutral,Neutral
+3178,2.0,0,Warm,Neutral
+3179,0.0,0,Neutral,Neutral
+3180,2.0,0,Warm,Neutral
+3181,0.0,0,Neutral,Neutral
+3182,0.0,0,Neutral,Neutral
+3183,0.0,0,Neutral,Neutral
+3184,1.0,0,Slighty warm,Neutral
+3185,-1.0,0,Slighty cool,Neutral
+3186,2.0,0,Warm,Neutral
+3187,-1.0,0,Slighty cool,Neutral
+3188,0.0,0,Neutral,Neutral
+3189,0.0,0,Neutral,Neutral
+3190,0.0,0,Neutral,Neutral
+3191,3.0,0,Hot,Neutral
+3192,0.0,0,Neutral,Neutral
+3193,1.0,0,Slighty warm,Neutral
+3194,0.0,0,Neutral,Neutral
+3195,-2.0,0,Cool,Neutral
+3196,-3.0,1,Cold,Slighty warm
+3197,0.0,0,Neutral,Neutral
+3198,-1.0,0,Slighty cool,Neutral
+3199,-1.0,0,Slighty cool,Neutral
+3200,-1.0,0,Slighty cool,Neutral
+3201,-1.0,0,Slighty cool,Neutral
+3202,-1.0,0,Slighty cool,Neutral
+3203,0.0,0,Neutral,Neutral
+3204,3.0,0,Hot,Neutral
+3205,2.0,0,Warm,Neutral
+3206,0.0,0,Neutral,Neutral
+3207,0.0,0,Neutral,Neutral
+3208,0.0,0,Neutral,Neutral
+3209,-2.0,0,Cool,Neutral
+3210,0.0,0,Neutral,Neutral
+3211,0.0,0,Neutral,Neutral
+3212,-0.0,0,Neutral,Neutral
+3213,1.0,0,Slighty warm,Neutral
+3214,3.0,0,Hot,Neutral
+3215,0.0,0,Neutral,Neutral
+3216,0.0,0,Neutral,Neutral
+3217,2.0,0,Warm,Neutral
+3218,-0.0,0,Neutral,Neutral
+3219,1.0,0,Slighty warm,Neutral
+3220,1.0,0,Slighty warm,Neutral
+3221,0.0,0,Neutral,Neutral
+3222,3.0,0,Hot,Neutral
+3223,3.0,0,Hot,Neutral
+3224,0.0,0,Neutral,Neutral
+3225,3.0,0,Hot,Neutral
+3226,1.0,0,Slighty warm,Neutral
+3227,0.0,0,Neutral,Neutral
+3228,1.0,0,Slighty warm,Neutral
+3229,0.0,0,Neutral,Neutral
+3230,-1.0,0,Slighty cool,Neutral
+3231,1.0,0,Slighty warm,Neutral
+3232,0.0,0,Neutral,Neutral
+3233,0.0,0,Neutral,Neutral
+3234,1.0,0,Slighty warm,Neutral
+3235,0.0,0,Neutral,Neutral
+3236,-1.0,0,Slighty cool,Neutral
+3237,0.0,0,Neutral,Neutral
+3238,1.0,0,Slighty warm,Neutral
+3239,3.0,0,Hot,Neutral
+3240,1.0,0,Slighty warm,Neutral
+3241,1.0,0,Slighty warm,Neutral
+3242,2.0,0,Warm,Neutral
+3243,2.0,0,Warm,Neutral
+3244,1.0,0,Slighty warm,Neutral
+3245,0.0,0,Neutral,Neutral
+3246,0.0,0,Neutral,Neutral
+3247,-2.0,0,Cool,Neutral
+3248,0.0,0,Neutral,Neutral
+3249,-0.0,0,Neutral,Neutral
+3250,1.0,0,Slighty warm,Neutral
+3251,0.0,0,Neutral,Neutral
+3252,1.0,0,Slighty warm,Neutral
+3253,-1.0,0,Slighty cool,Neutral
+3254,1.0,0,Slighty warm,Neutral
+3255,2.0,0,Warm,Neutral
+3256,-1.0,0,Slighty cool,Neutral
+3257,2.0,0,Warm,Neutral
+3258,-1.0,0,Slighty cool,Neutral
+3259,0.0,0,Neutral,Neutral
+3260,0.0,0,Neutral,Neutral
+3261,0.0,0,Neutral,Neutral
+3262,-1.0,0,Slighty cool,Neutral
+3263,3.0,0,Hot,Neutral
+3264,-1.0,0,Slighty cool,Neutral
+3265,0.0,0,Neutral,Neutral
+3266,-0.0,0,Neutral,Neutral
+3267,0.0,0,Neutral,Neutral
+3268,-1.0,0,Slighty cool,Neutral
+3269,1.0,0,Slighty warm,Neutral
+3270,0.0,0,Neutral,Neutral
+3271,0.0,0,Neutral,Neutral
+3272,0.0,0,Neutral,Neutral
+3273,3.0,0,Hot,Neutral
+3274,0.0,0,Neutral,Neutral
+3275,0.0,0,Neutral,Neutral
+3276,-0.0,0,Neutral,Neutral
+3277,0.0,0,Neutral,Neutral
+3278,0.0,0,Neutral,Neutral
+3279,0.0,0,Neutral,Neutral
+3280,0.0,0,Neutral,Neutral
+3281,0.0,0,Neutral,Neutral
+3282,0.0,0,Neutral,Neutral
+3283,-1.0,0,Slighty cool,Neutral
+3284,2.0,0,Warm,Neutral
+3285,2.0,0,Warm,Neutral
+3286,0.0,0,Neutral,Neutral
+3287,-1.0,0,Slighty cool,Neutral
+3288,0.0,0,Neutral,Neutral
+3289,0.0,0,Neutral,Neutral
+3290,0.0,0,Neutral,Neutral
+3291,0.0,0,Neutral,Neutral
+3292,0.0,0,Neutral,Neutral
+3293,0.0,0,Neutral,Neutral
+3294,0.0,0,Neutral,Neutral
+3295,-1.0,0,Slighty cool,Neutral
+3296,2.0,0,Warm,Neutral
+3297,0.0,0,Neutral,Neutral
+3298,0.0,0,Neutral,Neutral
+3299,3.0,0,Hot,Neutral
+3300,-2.0,0,Cool,Neutral
+3301,3.0,0,Hot,Neutral
+3302,-2.0,0,Cool,Neutral
+3303,0.0,0,Neutral,Neutral
+3304,2.0,0,Warm,Neutral
+3305,0.0,0,Neutral,Neutral
+3306,1.0,0,Slighty warm,Neutral
+3307,2.0,0,Warm,Neutral
+3308,0.0,0,Neutral,Neutral
+3309,0.0,0,Neutral,Neutral
+3310,-1.0,0,Slighty cool,Neutral
+3311,1.0,0,Slighty warm,Neutral
+3312,0.0,0,Neutral,Neutral
+3313,1.0,0,Slighty warm,Neutral
+3314,0.0,0,Neutral,Neutral
+3315,-1.0,0,Slighty cool,Neutral
+3316,-1.0,0,Slighty cool,Neutral
+3317,-1.0,0,Slighty cool,Neutral
+3318,-0.0,0,Neutral,Neutral
+3319,-2.0,0,Cool,Neutral
+3320,0.0,0,Neutral,Neutral
+3321,0.0,0,Neutral,Neutral
+3322,-1.0,0,Slighty cool,Neutral
+3323,0.0,0,Neutral,Neutral
+3324,0.0,0,Neutral,Neutral
+3325,2.0,0,Warm,Neutral
+3326,0.0,0,Neutral,Neutral
+3327,-1.0,0,Slighty cool,Neutral
+3328,-1.0,0,Slighty cool,Neutral
+3329,1.0,0,Slighty warm,Neutral
+3330,1.0,0,Slighty warm,Neutral
+3331,-0.0,0,Neutral,Neutral
+3332,0.0,0,Neutral,Neutral
+3333,0.0,0,Neutral,Neutral
+3334,1.0,0,Slighty warm,Neutral
+3335,0.0,0,Neutral,Neutral
+3336,0.0,0,Neutral,Neutral
+3337,2.0,0,Warm,Neutral
+3338,-1.0,0,Slighty cool,Neutral
+3339,2.0,0,Warm,Neutral
+3340,0.0,0,Neutral,Neutral
+3341,-3.0,0,Cold,Neutral
+3342,1.0,0,Slighty warm,Neutral
+3343,1.0,0,Slighty warm,Neutral
+3344,0.0,0,Neutral,Neutral
+3345,3.0,0,Hot,Neutral
+3346,0.0,0,Neutral,Neutral
+3347,1.0,1,Slighty warm,Slighty warm
+3348,-2.0,0,Cool,Neutral
+3349,2.0,0,Warm,Neutral
+3350,-2.0,0,Cool,Neutral
+3351,0.0,0,Neutral,Neutral
+3352,0.0,0,Neutral,Neutral
+3353,0.0,0,Neutral,Neutral
+3354,-1.0,0,Slighty cool,Neutral
+3355,0.0,0,Neutral,Neutral
+3356,-1.0,0,Slighty cool,Neutral
+3357,0.0,0,Neutral,Neutral
+3358,-1.0,0,Slighty cool,Neutral
+3359,-1.0,0,Slighty cool,Neutral
+3360,1.0,0,Slighty warm,Neutral
+3361,0.0,0,Neutral,Neutral
+3362,3.0,0,Hot,Neutral
+3363,1.0,0,Slighty warm,Neutral
+3364,2.0,0,Warm,Neutral
+3365,0.0,0,Neutral,Neutral
+3366,0.0,0,Neutral,Neutral
+3367,0.0,0,Neutral,Neutral
+3368,0.0,0,Neutral,Neutral
+3369,0.0,0,Neutral,Neutral
+3370,-1.0,0,Slighty cool,Neutral
+3371,-1.0,0,Slighty cool,Neutral
+3372,1.0,0,Slighty warm,Neutral
+3373,1.0,0,Slighty warm,Neutral
+3374,0.0,0,Neutral,Neutral
+3375,0.0,0,Neutral,Neutral
+3376,1.0,0,Slighty warm,Neutral
+3377,1.0,0,Slighty warm,Neutral
+3378,1.0,0,Slighty warm,Neutral
+3379,3.0,0,Hot,Neutral
+3380,-1.0,0,Slighty cool,Neutral
+3381,0.0,0,Neutral,Neutral
+3382,3.0,0,Hot,Neutral
+3383,3.0,0,Hot,Neutral
+3384,0.0,0,Neutral,Neutral
+3385,0.0,0,Neutral,Neutral
+3386,0.0,0,Neutral,Neutral
+3387,-1.0,0,Slighty cool,Neutral
+3388,-1.0,0,Slighty cool,Neutral
+3389,0.0,0,Neutral,Neutral
+3390,-1.0,0,Slighty cool,Neutral
+3391,1.0,0,Slighty warm,Neutral
+3392,0.0,0,Neutral,Neutral
+3393,0.0,0,Neutral,Neutral
+3394,0.0,0,Neutral,Neutral
+3395,-1.0,0,Slighty cool,Neutral
+3396,-1.0,0,Slighty cool,Neutral
+3397,0.0,0,Neutral,Neutral
+3398,0.0,0,Neutral,Neutral
+3399,-1.0,0,Slighty cool,Neutral
+3400,-1.0,0,Slighty cool,Neutral
+3401,1.0,0,Slighty warm,Neutral
+3402,1.0,0,Slighty warm,Neutral
+3403,0.0,0,Neutral,Neutral
+3404,0.0,0,Neutral,Neutral
+3405,2.0,0,Warm,Neutral
+3406,0.0,0,Neutral,Neutral
+3407,0.0,0,Neutral,Neutral
+3408,0.0,0,Neutral,Neutral
+3409,0.0,0,Neutral,Neutral
+3410,2.0,0,Warm,Neutral
+3411,0.0,0,Neutral,Neutral
+3412,-1.0,0,Slighty cool,Neutral
+3413,1.0,0,Slighty warm,Neutral
+3414,0.0,0,Neutral,Neutral
+3415,2.0,0,Warm,Neutral
+3416,1.0,0,Slighty warm,Neutral
+3417,-1.0,0,Slighty cool,Neutral
+3418,-1.0,0,Slighty cool,Neutral
+3419,-1.0,0,Slighty cool,Neutral
+3420,-1.0,0,Slighty cool,Neutral
+3421,0.0,0,Neutral,Neutral
+3422,0.0,0,Neutral,Neutral
+3423,3.0,0,Hot,Neutral
+3424,0.0,0,Neutral,Neutral
+3425,0.0,0,Neutral,Neutral
+3426,-1.0,0,Slighty cool,Neutral
+3427,2.0,0,Warm,Neutral
+3428,0.0,0,Neutral,Neutral
+3429,0.0,0,Neutral,Neutral
+3430,0.0,0,Neutral,Neutral
+3431,1.0,0,Slighty warm,Neutral
+3432,0.0,0,Neutral,Neutral
+3433,2.0,0,Warm,Neutral
+3434,0.0,0,Neutral,Neutral
+3435,1.0,0,Slighty warm,Neutral
+3436,0.0,0,Neutral,Neutral
+3437,0.0,0,Neutral,Neutral
+3438,0.0,0,Neutral,Neutral
+3439,-1.0,0,Slighty cool,Neutral
+3440,3.0,0,Hot,Neutral
+3441,1.0,0,Slighty warm,Neutral
+3442,-3.0,0,Cold,Neutral
+3443,3.0,0,Hot,Neutral
+3444,1.0,0,Slighty warm,Neutral
+3445,2.0,0,Warm,Neutral
+3446,1.0,0,Slighty warm,Neutral
+3447,1.0,0,Slighty warm,Neutral
+3448,0.0,0,Neutral,Neutral
+3449,0.0,0,Neutral,Neutral
+3450,1.0,0,Slighty warm,Neutral
+3451,1.0,0,Slighty warm,Neutral
+3452,2.0,0,Warm,Neutral
+3453,-1.0,0,Slighty cool,Neutral
+3454,3.0,0,Hot,Neutral
+3455,-1.0,0,Slighty cool,Neutral
+3456,0.0,0,Neutral,Neutral
+3457,0.0,0,Neutral,Neutral
+3458,0.0,0,Neutral,Neutral
+3459,1.0,0,Slighty warm,Neutral
+3460,1.0,0,Slighty warm,Neutral
+3461,3.0,0,Hot,Neutral
+3462,2.0,0,Warm,Neutral
+3463,0.0,0,Neutral,Neutral
+3464,-1.0,0,Slighty cool,Neutral
+3465,0.0,0,Neutral,Neutral
+3466,-1.0,0,Slighty cool,Neutral
+3467,1.0,0,Slighty warm,Neutral
+3468,0.0,0,Neutral,Neutral
+3469,0.0,0,Neutral,Neutral
+3470,1.0,0,Slighty warm,Neutral
+3471,1.0,0,Slighty warm,Neutral
+3472,-1.0,0,Slighty cool,Neutral
+3473,1.0,0,Slighty warm,Neutral
+3474,1.0,0,Slighty warm,Neutral
+3475,-1.0,0,Slighty cool,Neutral
+3476,0.0,0,Neutral,Neutral
+3477,3.0,0,Hot,Neutral
+3478,1.0,0,Slighty warm,Neutral
+3479,0.0,0,Neutral,Neutral
+3480,1.0,0,Slighty warm,Neutral
+3481,1.0,0,Slighty warm,Neutral
+3482,1.0,0,Slighty warm,Neutral
+3483,-1.0,0,Slighty cool,Neutral
+3484,0.0,0,Neutral,Neutral
+3485,2.0,0,Warm,Neutral
+3486,-1.0,0,Slighty cool,Neutral
+3487,-1.0,0,Slighty cool,Neutral
+3488,-3.0,0,Cold,Neutral
+3489,-2.0,0,Cool,Neutral
+3490,0.0,0,Neutral,Neutral
+3491,2.0,0,Warm,Neutral
+3492,0.0,0,Neutral,Neutral
+3493,1.0,0,Slighty warm,Neutral
+3494,-1.0,0,Slighty cool,Neutral
+3495,3.0,0,Hot,Neutral
+3496,-0.0,0,Neutral,Neutral
+3497,-1.0,0,Slighty cool,Neutral
+3498,-1.0,0,Slighty cool,Neutral
+3499,1.0,0,Slighty warm,Neutral
+3500,-1.0,0,Slighty cool,Neutral
+3501,-1.0,0,Slighty cool,Neutral
+3502,1.0,0,Slighty warm,Neutral
+3503,0.0,0,Neutral,Neutral
+3504,0.0,0,Neutral,Neutral
+3505,1.0,0,Slighty warm,Neutral
+3506,3.0,0,Hot,Neutral
+3507,1.0,0,Slighty warm,Neutral
+3508,-1.0,0,Slighty cool,Neutral
+3509,0.0,0,Neutral,Neutral
+3510,0.0,0,Neutral,Neutral
+3511,0.0,0,Neutral,Neutral
+3512,0.0,0,Neutral,Neutral
+3513,-1.0,0,Slighty cool,Neutral
+3514,0.0,0,Neutral,Neutral
+3515,0.0,0,Neutral,Neutral
+3516,1.0,0,Slighty warm,Neutral
+3517,-1.0,0,Slighty cool,Neutral
+3518,0.0,0,Neutral,Neutral
+3519,0.0,0,Neutral,Neutral
+3520,0.0,0,Neutral,Neutral
+3521,0.0,0,Neutral,Neutral
+3522,0.0,0,Neutral,Neutral
+3523,0.0,0,Neutral,Neutral
+3524,1.0,0,Slighty warm,Neutral
+3525,3.0,0,Hot,Neutral
+3526,2.0,0,Warm,Neutral
+3527,0.0,0,Neutral,Neutral
+3528,3.0,0,Hot,Neutral
+3529,0.0,0,Neutral,Neutral
+3530,0.0,0,Neutral,Neutral
+3531,2.0,0,Warm,Neutral
+3532,0.0,0,Neutral,Neutral
+3533,0.0,0,Neutral,Neutral
+3534,3.0,0,Hot,Neutral
+3535,0.0,0,Neutral,Neutral
+3536,0.0,0,Neutral,Neutral
+3537,1.0,0,Slighty warm,Neutral
+3538,-1.0,0,Slighty cool,Neutral
+3539,1.0,0,Slighty warm,Neutral
+3540,-1.0,0,Slighty cool,Neutral
+3541,-2.0,0,Cool,Neutral
+3542,3.0,0,Hot,Neutral
+3543,0.0,0,Neutral,Neutral
+3544,1.0,0,Slighty warm,Neutral
+3545,1.0,0,Slighty warm,Neutral
+3546,1.0,0,Slighty warm,Neutral
+3547,-1.0,0,Slighty cool,Neutral
+3548,-2.0,0,Cool,Neutral
+3549,-1.0,0,Slighty cool,Neutral
+3550,-0.0,0,Neutral,Neutral
+3551,0.0,0,Neutral,Neutral
+3552,2.0,0,Warm,Neutral
+3553,1.0,0,Slighty warm,Neutral
+3554,1.0,0,Slighty warm,Neutral
+3555,2.0,0,Warm,Neutral
+3556,0.0,0,Neutral,Neutral
+3557,-1.0,0,Slighty cool,Neutral
+3558,0.0,0,Neutral,Neutral
+3559,-2.0,0,Cool,Neutral
+3560,0.0,0,Neutral,Neutral
+3561,0.0,0,Neutral,Neutral
+3562,0.0,0,Neutral,Neutral
+3563,0.0,0,Neutral,Neutral
+3564,1.0,0,Slighty warm,Neutral
+3565,0.0,0,Neutral,Neutral
+3566,0.0,0,Neutral,Neutral
+3567,-2.0,0,Cool,Neutral
+3568,0.0,0,Neutral,Neutral
+3569,1.0,0,Slighty warm,Neutral
+3570,0.0,0,Neutral,Neutral
+3571,3.0,0,Hot,Neutral
+3572,0.0,0,Neutral,Neutral
+3573,1.0,0,Slighty warm,Neutral
+3574,3.0,0,Hot,Neutral
+3575,-1.0,0,Slighty cool,Neutral
+3576,-1.0,0,Slighty cool,Neutral
+3577,1.0,0,Slighty warm,Neutral
+3578,3.0,0,Hot,Neutral
+3579,0.0,0,Neutral,Neutral
+3580,0.0,0,Neutral,Neutral
+3581,0.0,0,Neutral,Neutral
+3582,0.0,0,Neutral,Neutral
+3583,1.0,0,Slighty warm,Neutral
+3584,1.0,0,Slighty warm,Neutral
+3585,3.0,0,Hot,Neutral
+3586,1.0,0,Slighty warm,Neutral
+3587,-1.0,0,Slighty cool,Neutral
+3588,1.0,0,Slighty warm,Neutral
+3589,0.0,0,Neutral,Neutral
+3590,2.0,0,Warm,Neutral
+3591,-1.0,0,Slighty cool,Neutral
+3592,2.0,0,Warm,Neutral
+3593,2.0,0,Warm,Neutral
+3594,-1.0,0,Slighty cool,Neutral
+3595,2.0,0,Warm,Neutral
+3596,-0.0,0,Neutral,Neutral
+3597,-2.0,0,Cool,Neutral
+3598,-0.0,0,Neutral,Neutral
+3599,0.0,0,Neutral,Neutral
+3600,0.0,0,Neutral,Neutral
+3601,0.0,0,Neutral,Neutral
+3602,-2.0,0,Cool,Neutral
+3603,2.0,0,Warm,Neutral
+3604,-1.0,0,Slighty cool,Neutral
+3605,3.0,0,Hot,Neutral
+3606,-1.0,0,Slighty cool,Neutral
+3607,1.0,0,Slighty warm,Neutral
+3608,-1.0,0,Slighty cool,Neutral
+3609,0.0,0,Neutral,Neutral
+3610,0.0,0,Neutral,Neutral
+3611,0.0,0,Neutral,Neutral
+3612,-1.0,0,Slighty cool,Neutral
+3613,0.0,0,Neutral,Neutral
+3614,0.0,0,Neutral,Neutral
+3615,1.0,0,Slighty warm,Neutral
+3616,0.0,0,Neutral,Neutral
+3617,1.0,0,Slighty warm,Neutral
+3618,1.0,0,Slighty warm,Neutral
+3619,-1.0,0,Slighty cool,Neutral
+3620,0.0,0,Neutral,Neutral
+3621,0.0,0,Neutral,Neutral
+3622,2.0,0,Warm,Neutral
+3623,0.0,0,Neutral,Neutral
+3624,-1.0,0,Slighty cool,Neutral
+3625,0.0,0,Neutral,Neutral
+3626,0.0,0,Neutral,Neutral
+3627,-0.0,0,Neutral,Neutral
+3628,3.0,0,Hot,Neutral
+3629,0.0,0,Neutral,Neutral
+3630,1.0,0,Slighty warm,Neutral
+3631,1.0,0,Slighty warm,Neutral
+3632,1.0,0,Slighty warm,Neutral
+3633,0.0,0,Neutral,Neutral
+3634,0.0,0,Neutral,Neutral
+3635,2.0,0,Warm,Neutral
+3636,-1.0,0,Slighty cool,Neutral
+3637,-2.0,0,Cool,Neutral
+3638,0.0,0,Neutral,Neutral
+3639,0.0,0,Neutral,Neutral
+3640,-2.0,0,Cool,Neutral
+3641,-1.0,0,Slighty cool,Neutral
+3642,2.0,0,Warm,Neutral
+3643,0.0,0,Neutral,Neutral
+3644,2.0,0,Warm,Neutral
+3645,3.0,0,Hot,Neutral
+3646,-0.0,0,Neutral,Neutral
+3647,-1.0,0,Slighty cool,Neutral
+3648,0.0,0,Neutral,Neutral
+3649,0.0,0,Neutral,Neutral
+3650,1.0,0,Slighty warm,Neutral
+3651,1.0,0,Slighty warm,Neutral
+3652,0.0,0,Neutral,Neutral
+3653,0.0,0,Neutral,Neutral
+3654,0.0,0,Neutral,Neutral
+3655,3.0,0,Hot,Neutral
+3656,-1.0,0,Slighty cool,Neutral
+3657,3.0,0,Hot,Neutral
+3658,0.0,0,Neutral,Neutral
+3659,0.0,0,Neutral,Neutral
+3660,-1.0,0,Slighty cool,Neutral
+3661,1.0,0,Slighty warm,Neutral
+3662,0.0,0,Neutral,Neutral
+3663,0.0,0,Neutral,Neutral
+3664,0.0,0,Neutral,Neutral
+3665,1.0,0,Slighty warm,Neutral
+3666,-1.0,0,Slighty cool,Neutral
+3667,0.0,0,Neutral,Neutral
+3668,-2.0,0,Cool,Neutral
+3669,-1.0,0,Slighty cool,Neutral
+3670,0.0,0,Neutral,Neutral
+3671,-1.0,0,Slighty cool,Neutral
+3672,0.0,0,Neutral,Neutral
+3673,3.0,0,Hot,Neutral
+3674,-1.0,0,Slighty cool,Neutral
+3675,1.0,0,Slighty warm,Neutral
+3676,0.0,0,Neutral,Neutral
+3677,3.0,0,Hot,Neutral
+3678,0.0,0,Neutral,Neutral
+3679,0.0,0,Neutral,Neutral
+3680,0.0,0,Neutral,Neutral
+3681,0.0,0,Neutral,Neutral
+3682,0.0,0,Neutral,Neutral
+3683,0.0,0,Neutral,Neutral
+3684,0.0,0,Neutral,Neutral
+3685,0.0,0,Neutral,Neutral
+3686,-1.0,0,Slighty cool,Neutral
+3687,0.0,0,Neutral,Neutral
+3688,2.0,0,Warm,Neutral
+3689,0.0,0,Neutral,Neutral
+3690,0.0,0,Neutral,Neutral
+3691,-1.0,0,Slighty cool,Neutral
+3692,0.0,0,Neutral,Neutral
+3693,-1.0,0,Slighty cool,Neutral
+3694,-1.0,0,Slighty cool,Neutral
+3695,-1.0,0,Slighty cool,Neutral
+3696,0.0,0,Neutral,Neutral
+3697,-1.0,0,Slighty cool,Neutral
+3698,0.0,0,Neutral,Neutral
+3699,-1.0,0,Slighty cool,Neutral
+3700,3.0,0,Hot,Neutral
+3701,0.0,0,Neutral,Neutral
+3702,0.0,0,Neutral,Neutral
+3703,-2.0,0,Cool,Neutral
+3704,3.0,0,Hot,Neutral
+3705,0.0,0,Neutral,Neutral
+3706,2.0,0,Warm,Neutral
+3707,1.0,0,Slighty warm,Neutral
+3708,0.0,0,Neutral,Neutral
+3709,1.0,0,Slighty warm,Neutral
+3710,0.0,0,Neutral,Neutral
+3711,0.0,0,Neutral,Neutral
+3712,-1.0,0,Slighty cool,Neutral
+3713,-1.0,0,Slighty cool,Neutral
+3714,0.0,0,Neutral,Neutral
+3715,-3.0,0,Cold,Neutral
+3716,1.0,0,Slighty warm,Neutral
+3717,0.0,0,Neutral,Neutral
+3718,3.0,0,Hot,Neutral
+3719,-1.0,0,Slighty cool,Neutral
+3720,3.0,0,Hot,Neutral
+3721,-1.0,0,Slighty cool,Neutral
+3722,-1.0,0,Slighty cool,Neutral
+3723,-2.0,0,Cool,Neutral
+3724,2.0,0,Warm,Neutral
+3725,1.0,0,Slighty warm,Neutral
+3726,0.0,0,Neutral,Neutral
+3727,0.0,0,Neutral,Neutral
+3728,0.0,0,Neutral,Neutral
+3729,0.0,0,Neutral,Neutral
+3730,1.0,0,Slighty warm,Neutral
+3731,1.0,0,Slighty warm,Neutral
+3732,0.0,0,Neutral,Neutral
+3733,2.0,0,Warm,Neutral
+3734,2.0,0,Warm,Neutral
+3735,0.0,0,Neutral,Neutral
+3736,-1.0,0,Slighty cool,Neutral
+3737,2.0,0,Warm,Neutral
+3738,-1.0,0,Slighty cool,Neutral
+3739,1.0,0,Slighty warm,Neutral
+3740,-1.0,0,Slighty cool,Neutral
+3741,2.0,0,Warm,Neutral
+3742,0.0,0,Neutral,Neutral
+3743,0.0,0,Neutral,Neutral
+3744,-1.0,0,Slighty cool,Neutral
+3745,-1.0,0,Slighty cool,Neutral
+3746,1.0,0,Slighty warm,Neutral
+3747,1.0,0,Slighty warm,Neutral
+3748,1.0,0,Slighty warm,Neutral
+3749,3.0,0,Hot,Neutral
+3750,-2.0,0,Cool,Neutral
+3751,0.0,0,Neutral,Neutral
+3752,-1.0,0,Slighty cool,Neutral
+3753,0.0,0,Neutral,Neutral
+3754,0.0,0,Neutral,Neutral
+3755,0.0,0,Neutral,Neutral
+3756,1.0,0,Slighty warm,Neutral
+3757,3.0,0,Hot,Neutral
+3758,-1.0,0,Slighty cool,Neutral
+3759,0.0,0,Neutral,Neutral
+3760,-2.0,0,Cool,Neutral
+3761,0.0,0,Neutral,Neutral
+3762,0.0,0,Neutral,Neutral
+3763,-1.0,0,Slighty cool,Neutral
+3764,0.0,0,Neutral,Neutral
+3765,0.0,0,Neutral,Neutral
+3766,-1.0,0,Slighty cool,Neutral
+3767,0.0,0,Neutral,Neutral
+3768,0.0,0,Neutral,Neutral
+3769,2.0,0,Warm,Neutral
+3770,0.0,0,Neutral,Neutral
+3771,2.0,0,Warm,Neutral
+3772,0.0,0,Neutral,Neutral
+3773,-1.0,0,Slighty cool,Neutral
+3774,3.0,0,Hot,Neutral
+3775,1.0,0,Slighty warm,Neutral
+3776,-2.0,0,Cool,Neutral
+3777,0.0,0,Neutral,Neutral
+3778,-1.0,0,Slighty cool,Neutral
+3779,3.0,0,Hot,Neutral
+3780,0.0,0,Neutral,Neutral
+3781,-1.0,0,Slighty cool,Neutral
+3782,1.0,0,Slighty warm,Neutral
+3783,0.0,0,Neutral,Neutral
+3784,1.0,0,Slighty warm,Neutral
+3785,2.0,0,Warm,Neutral
+3786,0.0,0,Neutral,Neutral
+3787,-2.0,0,Cool,Neutral
+3788,0.0,0,Neutral,Neutral
+3789,0.0,0,Neutral,Neutral
+3790,0.0,0,Neutral,Neutral
+3791,0.0,0,Neutral,Neutral
+3792,-1.0,0,Slighty cool,Neutral
+3793,0.0,0,Neutral,Neutral
+3794,1.0,0,Slighty warm,Neutral
+3795,1.0,0,Slighty warm,Neutral
+3796,0.0,0,Neutral,Neutral
+3797,-1.0,0,Slighty cool,Neutral
+3798,-1.0,0,Slighty cool,Neutral
+3799,-1.0,0,Slighty cool,Neutral
+3800,-1.0,0,Slighty cool,Neutral
+3801,-1.0,0,Slighty cool,Neutral
+3802,0.0,0,Neutral,Neutral
+3803,1.0,0,Slighty warm,Neutral
+3804,0.0,0,Neutral,Neutral
+3805,0.0,0,Neutral,Neutral
+3806,1.0,0,Slighty warm,Neutral
+3807,0.0,0,Neutral,Neutral
+3808,0.0,0,Neutral,Neutral
+3809,0.0,0,Neutral,Neutral
+3810,0.0,0,Neutral,Neutral
+3811,0.0,0,Neutral,Neutral
+3812,0.0,0,Neutral,Neutral
+3813,0.0,0,Neutral,Neutral
+3814,0.0,0,Neutral,Neutral
+3815,0.0,0,Neutral,Neutral
+3816,0.0,0,Neutral,Neutral
+3817,3.0,0,Hot,Neutral
+3818,0.0,0,Neutral,Neutral
+3819,1.0,0,Slighty warm,Neutral
+3820,0.0,0,Neutral,Neutral
+3821,0.0,0,Neutral,Neutral
+3822,0.0,0,Neutral,Neutral
+3823,2.0,0,Warm,Neutral
+3824,0.0,0,Neutral,Neutral
+3825,0.0,0,Neutral,Neutral
+3826,1.0,0,Slighty warm,Neutral
+3827,0.0,0,Neutral,Neutral
+3828,1.0,0,Slighty warm,Neutral
+3829,0.0,0,Neutral,Neutral
+3830,-1.0,0,Slighty cool,Neutral
+3831,1.0,0,Slighty warm,Neutral
+3832,2.0,0,Warm,Neutral
+3833,0.0,0,Neutral,Neutral
+3834,0.0,0,Neutral,Neutral
+3835,0.0,0,Neutral,Neutral
+3836,0.0,0,Neutral,Neutral
+3837,-1.0,0,Slighty cool,Neutral
+3838,0.0,0,Neutral,Neutral
+3839,0.0,0,Neutral,Neutral
+3840,-1.0,0,Slighty cool,Neutral
+3841,1.0,0,Slighty warm,Neutral
+3842,0.0,0,Neutral,Neutral
+3843,2.0,0,Warm,Neutral
+3844,1.0,0,Slighty warm,Neutral
+3845,0.0,0,Neutral,Neutral
+3846,0.0,0,Neutral,Neutral
+3847,-1.0,0,Slighty cool,Neutral
+3848,-1.0,0,Slighty cool,Neutral
+3849,1.0,0,Slighty warm,Neutral
+3850,1.0,0,Slighty warm,Neutral
+3851,1.0,0,Slighty warm,Neutral
+3852,2.0,0,Warm,Neutral
+3853,0.0,0,Neutral,Neutral
+3854,0.0,0,Neutral,Neutral
+3855,0.0,0,Neutral,Neutral
+3856,0.0,0,Neutral,Neutral
+3857,-1.0,0,Slighty cool,Neutral
+3858,-1.0,0,Slighty cool,Neutral
+3859,1.0,0,Slighty warm,Neutral
+3860,-0.0,0,Neutral,Neutral
+3861,-1.0,0,Slighty cool,Neutral
+3862,0.0,0,Neutral,Neutral
+3863,1.0,0,Slighty warm,Neutral
+3864,2.0,0,Warm,Neutral
+3865,0.0,0,Neutral,Neutral
+3866,0.0,0,Neutral,Neutral
+3867,3.0,0,Hot,Neutral
+3868,0.0,0,Neutral,Neutral
+3869,-1.0,0,Slighty cool,Neutral
+3870,0.0,0,Neutral,Neutral
+3871,-1.0,0,Slighty cool,Neutral
+3872,-1.0,0,Slighty cool,Neutral
+3873,0.0,0,Neutral,Neutral
+3874,-1.0,0,Slighty cool,Neutral
+3875,0.0,0,Neutral,Neutral
+3876,0.0,0,Neutral,Neutral
+3877,0.0,0,Neutral,Neutral
+3878,0.0,0,Neutral,Neutral
+3879,0.0,0,Neutral,Neutral
+3880,0.0,0,Neutral,Neutral
+3881,0.0,0,Neutral,Neutral
+3882,2.0,0,Warm,Neutral
+3883,0.0,0,Neutral,Neutral
+3884,3.0,0,Hot,Neutral
+3885,0.0,0,Neutral,Neutral
+3886,-0.0,0,Neutral,Neutral
+3887,1.0,0,Slighty warm,Neutral
+3888,0.0,0,Neutral,Neutral
+3889,-1.0,0,Slighty cool,Neutral
+3890,1.0,0,Slighty warm,Neutral
+3891,-1.0,0,Slighty cool,Neutral
+3892,2.0,0,Warm,Neutral
+3893,0.0,0,Neutral,Neutral
+3894,3.0,0,Hot,Neutral
+3895,0.0,0,Neutral,Neutral
+3896,3.0,0,Hot,Neutral
+3897,1.0,0,Slighty warm,Neutral
+3898,1.0,0,Slighty warm,Neutral
+3899,0.0,0,Neutral,Neutral
+3900,0.0,0,Neutral,Neutral
+3901,0.0,0,Neutral,Neutral
+3902,0.0,0,Neutral,Neutral
+3903,0.0,0,Neutral,Neutral
+3904,0.0,0,Neutral,Neutral
+3905,-1.0,0,Slighty cool,Neutral
+3906,0.0,0,Neutral,Neutral
+3907,-1.0,0,Slighty cool,Neutral
+3908,0.0,0,Neutral,Neutral
+3909,-1.0,0,Slighty cool,Neutral
+3910,2.0,0,Warm,Neutral
+3911,-1.0,0,Slighty cool,Neutral
+3912,1.0,0,Slighty warm,Neutral
+3913,-0.0,0,Neutral,Neutral
+3914,0.0,0,Neutral,Neutral
+3915,1.0,0,Slighty warm,Neutral
+3916,-1.0,0,Slighty cool,Neutral
+3917,1.0,0,Slighty warm,Neutral
+3918,-1.0,0,Slighty cool,Neutral
+3919,0.0,0,Neutral,Neutral
+3920,2.0,0,Warm,Neutral
+3921,0.0,0,Neutral,Neutral
+3922,-1.0,0,Slighty cool,Neutral
+3923,-0.0,0,Neutral,Neutral
+3924,1.0,0,Slighty warm,Neutral
+3925,1.0,0,Slighty warm,Neutral
+3926,-1.0,0,Slighty cool,Neutral
+3927,1.0,0,Slighty warm,Neutral
+3928,1.0,0,Slighty warm,Neutral
+3929,0.0,0,Neutral,Neutral
+3930,1.0,0,Slighty warm,Neutral
+3931,0.0,1,Neutral,Slighty warm
+3932,0.0,0,Neutral,Neutral
+3933,0.0,0,Neutral,Neutral
+3934,-1.0,0,Slighty cool,Neutral
+3935,2.0,0,Warm,Neutral
+3936,3.0,0,Hot,Neutral
+3937,1.0,0,Slighty warm,Neutral
+3938,-3.0,0,Cold,Neutral
+3939,0.0,0,Neutral,Neutral
+3940,0.0,0,Neutral,Neutral
+3941,2.0,0,Warm,Neutral
+3942,-2.0,0,Cool,Neutral
+3943,3.0,0,Hot,Neutral
+3944,1.0,0,Slighty warm,Neutral
+3945,-1.0,0,Slighty cool,Neutral
+3946,-1.0,0,Slighty cool,Neutral
+3947,-0.0,0,Neutral,Neutral
+3948,0.0,0,Neutral,Neutral
+3949,2.0,0,Warm,Neutral
+3950,0.0,0,Neutral,Neutral
+3951,1.0,0,Slighty warm,Neutral
+3952,-1.0,0,Slighty cool,Neutral
+3953,0.0,0,Neutral,Neutral
+3954,0.0,0,Neutral,Neutral
+3955,1.0,0,Slighty warm,Neutral
+3956,-2.0,0,Cool,Neutral
+3957,0.0,0,Neutral,Neutral
+3958,3.0,0,Hot,Neutral
+3959,0.0,0,Neutral,Neutral
+3960,-2.0,0,Cool,Neutral
+3961,1.0,0,Slighty warm,Neutral
+3962,0.0,0,Neutral,Neutral
+3963,2.0,0,Warm,Neutral
+3964,1.0,0,Slighty warm,Neutral
+3965,-2.0,0,Cool,Neutral
+3966,-1.0,0,Slighty cool,Neutral
+3967,3.0,0,Hot,Neutral
+3968,0.0,0,Neutral,Neutral
+3969,0.0,0,Neutral,Neutral
+3970,-0.0,0,Neutral,Neutral
+3971,-1.0,0,Slighty cool,Neutral
+3972,0.0,0,Neutral,Neutral
+3973,0.0,0,Neutral,Neutral
+3974,-1.0,0,Slighty cool,Neutral
+3975,-1.0,0,Slighty cool,Neutral
+3976,1.0,0,Slighty warm,Neutral
+3977,0.0,0,Neutral,Neutral
+3978,-1.0,0,Slighty cool,Neutral
+3979,0.0,0,Neutral,Neutral
+3980,2.0,0,Warm,Neutral
+3981,0.0,0,Neutral,Neutral
+3982,1.0,0,Slighty warm,Neutral
+3983,0.0,0,Neutral,Neutral
+3984,0.0,0,Neutral,Neutral
+3985,3.0,0,Hot,Neutral
+3986,1.0,0,Slighty warm,Neutral
+3987,0.0,0,Neutral,Neutral
+3988,2.0,0,Warm,Neutral
+3989,3.0,0,Hot,Neutral
+3990,0.0,0,Neutral,Neutral
+3991,0.0,0,Neutral,Neutral
+3992,0.0,0,Neutral,Neutral
+3993,0.0,0,Neutral,Neutral
+3994,1.0,0,Slighty warm,Neutral
+3995,-1.0,0,Slighty cool,Neutral
+3996,-1.0,0,Slighty cool,Neutral
+3997,1.0,0,Slighty warm,Neutral
+3998,2.0,0,Warm,Neutral
+3999,-0.0,0,Neutral,Neutral
+4000,-1.0,0,Slighty cool,Neutral
+4001,0.0,0,Neutral,Neutral
+4002,0.0,0,Neutral,Neutral
+4003,0.0,0,Neutral,Neutral
+4004,0.0,0,Neutral,Neutral
+4005,1.0,0,Slighty warm,Neutral
+4006,0.0,0,Neutral,Neutral
+4007,0.0,0,Neutral,Neutral
+4008,2.0,0,Warm,Neutral
+4009,2.0,0,Warm,Neutral
+4010,3.0,0,Hot,Neutral
+4011,1.0,0,Slighty warm,Neutral
+4012,0.0,0,Neutral,Neutral
+4013,0.0,0,Neutral,Neutral
+4014,-1.0,0,Slighty cool,Neutral
+4015,0.0,0,Neutral,Neutral
+4016,0.0,0,Neutral,Neutral
+4017,0.0,0,Neutral,Neutral
+4018,0.0,0,Neutral,Neutral
+4019,0.0,0,Neutral,Neutral
+4020,0.0,0,Neutral,Neutral
+4021,3.0,0,Hot,Neutral
+4022,0.0,0,Neutral,Neutral
+4023,0.0,0,Neutral,Neutral
+4024,0.0,0,Neutral,Neutral
+4025,-1.0,0,Slighty cool,Neutral
+4026,0.0,0,Neutral,Neutral
+4027,-2.0,0,Cool,Neutral
+4028,0.0,0,Neutral,Neutral
+4029,1.0,0,Slighty warm,Neutral
+4030,0.0,0,Neutral,Neutral
+4031,0.0,0,Neutral,Neutral
+4032,3.0,0,Hot,Neutral
+4033,-1.0,0,Slighty cool,Neutral
+4034,-1.0,0,Slighty cool,Neutral
+4035,2.0,0,Warm,Neutral
+4036,3.0,0,Hot,Neutral
+4037,-1.0,0,Slighty cool,Neutral
+4038,0.0,0,Neutral,Neutral
+4039,2.0,0,Warm,Neutral
+4040,3.0,0,Hot,Neutral
+4041,2.0,1,Warm,Slighty warm
+4042,0.0,0,Neutral,Neutral
+4043,2.0,0,Warm,Neutral
+4044,-1.0,0,Slighty cool,Neutral
+4045,-1.0,0,Slighty cool,Neutral
+4046,0.0,0,Neutral,Neutral
+4047,0.0,0,Neutral,Neutral
+4048,0.0,0,Neutral,Neutral
+4049,0.0,0,Neutral,Neutral
+4050,-1.0,0,Slighty cool,Neutral
+4051,-2.0,0,Cool,Neutral
+4052,1.0,0,Slighty warm,Neutral
+4053,1.0,0,Slighty warm,Neutral
+4054,-2.0,0,Cool,Neutral
+4055,1.0,0,Slighty warm,Neutral
+4056,-0.0,0,Neutral,Neutral
+4057,0.0,0,Neutral,Neutral
+4058,1.0,0,Slighty warm,Neutral
+4059,1.0,0,Slighty warm,Neutral
+4060,1.0,0,Slighty warm,Neutral
+4061,-2.0,0,Cool,Neutral
+4062,0.0,0,Neutral,Neutral
+4063,0.0,0,Neutral,Neutral
+4064,0.0,0,Neutral,Neutral
+4065,3.0,0,Hot,Neutral
+4066,-0.0,0,Neutral,Neutral
+4067,-1.0,0,Slighty cool,Neutral
+4068,-1.0,0,Slighty cool,Neutral
+4069,1.0,0,Slighty warm,Neutral
+4070,1.0,0,Slighty warm,Neutral
+4071,2.0,0,Warm,Neutral
+4072,-1.0,0,Slighty cool,Neutral
+4073,-1.0,0,Slighty cool,Neutral
+4074,0.0,0,Neutral,Neutral
+4075,0.0,0,Neutral,Neutral
+4076,3.0,0,Hot,Neutral
+4077,0.0,0,Neutral,Neutral
+4078,0.0,0,Neutral,Neutral
+4079,2.0,0,Warm,Neutral
+4080,-1.0,0,Slighty cool,Neutral
+4081,3.0,0,Hot,Neutral
+4082,0.0,0,Neutral,Neutral
+4083,0.0,0,Neutral,Neutral
+4084,0.0,0,Neutral,Neutral
+4085,-1.0,0,Slighty cool,Neutral
+4086,0.0,0,Neutral,Neutral
+4087,1.0,0,Slighty warm,Neutral
+4088,1.0,0,Slighty warm,Neutral
+4089,-2.0,0,Cool,Neutral
+4090,-1.0,0,Slighty cool,Neutral
+4091,0.0,0,Neutral,Neutral
+4092,0.0,0,Neutral,Neutral
+4093,-1.0,0,Slighty cool,Neutral
+4094,0.0,0,Neutral,Neutral
+4095,-1.0,0,Slighty cool,Neutral
+4096,0.0,0,Neutral,Neutral
+4097,1.0,0,Slighty warm,Neutral
+4098,0.0,0,Neutral,Neutral
+4099,-1.0,0,Slighty cool,Neutral
+4100,-2.0,0,Cool,Neutral
+4101,0.0,0,Neutral,Neutral
+4102,1.0,0,Slighty warm,Neutral
+4103,0.0,0,Neutral,Neutral
+4104,1.0,0,Slighty warm,Neutral
+4105,0.0,0,Neutral,Neutral
+4106,1.0,0,Slighty warm,Neutral
+4107,1.0,0,Slighty warm,Neutral
+4108,1.0,0,Slighty warm,Neutral
+4109,-0.0,0,Neutral,Neutral
+4110,-1.0,0,Slighty cool,Neutral
+4111,-1.0,0,Slighty cool,Neutral
+4112,0.0,0,Neutral,Neutral
+4113,2.0,0,Warm,Neutral
+4114,0.0,0,Neutral,Neutral
+4115,-1.0,0,Slighty cool,Neutral
+4116,0.0,0,Neutral,Neutral
+4117,0.0,0,Neutral,Neutral
+4118,1.0,0,Slighty warm,Neutral
+4119,1.0,0,Slighty warm,Neutral
+4120,0.0,0,Neutral,Neutral
+4121,-2.0,0,Cool,Neutral
+4122,-1.0,0,Slighty cool,Neutral
+4123,-1.0,0,Slighty cool,Neutral
+4124,-1.0,0,Slighty cool,Neutral
+4125,3.0,0,Hot,Neutral
+4126,-1.0,0,Slighty cool,Neutral
+4127,-2.0,0,Cool,Neutral
+4128,0.0,0,Neutral,Neutral
+4129,0.0,0,Neutral,Neutral
+4130,0.0,0,Neutral,Neutral
+4131,1.0,0,Slighty warm,Neutral
+4132,1.0,0,Slighty warm,Neutral
+4133,0.0,0,Neutral,Neutral
+4134,0.0,0,Neutral,Neutral
+4135,-1.0,0,Slighty cool,Neutral
+4136,1.0,0,Slighty warm,Neutral
+4137,0.0,0,Neutral,Neutral
+4138,-1.0,0,Slighty cool,Neutral
+4139,0.0,0,Neutral,Neutral
+4140,-2.0,0,Cool,Neutral
+4141,0.0,0,Neutral,Neutral
+4142,-1.0,0,Slighty cool,Neutral
+4143,0.0,0,Neutral,Neutral
+4144,0.0,0,Neutral,Neutral
+4145,-1.0,0,Slighty cool,Neutral
+4146,0.0,0,Neutral,Neutral
+4147,1.0,0,Slighty warm,Neutral
+4148,3.0,0,Hot,Neutral
+4149,0.0,0,Neutral,Neutral
+4150,0.0,0,Neutral,Neutral
+4151,0.0,0,Neutral,Neutral
+4152,0.0,0,Neutral,Neutral
+4153,1.0,0,Slighty warm,Neutral
+4154,0.0,0,Neutral,Neutral
+4155,0.0,0,Neutral,Neutral
+4156,0.0,0,Neutral,Neutral
+4157,2.0,0,Warm,Neutral
+4158,1.0,0,Slighty warm,Neutral
+4159,-1.0,0,Slighty cool,Neutral
+4160,1.0,0,Slighty warm,Neutral
+4161,-1.0,0,Slighty cool,Neutral
+4162,0.0,0,Neutral,Neutral
+4163,0.0,0,Neutral,Neutral
+4164,-1.0,0,Slighty cool,Neutral
+4165,0.0,0,Neutral,Neutral
+4166,0.0,0,Neutral,Neutral
+4167,0.0,0,Neutral,Neutral
+4168,0.0,0,Neutral,Neutral
+4169,-1.0,0,Slighty cool,Neutral
+4170,0.0,0,Neutral,Neutral
+4171,1.0,0,Slighty warm,Neutral
+4172,2.0,0,Warm,Neutral
+4173,-1.0,0,Slighty cool,Neutral
+4174,0.0,0,Neutral,Neutral
+4175,-2.0,0,Cool,Neutral
+4176,-2.0,0,Cool,Neutral
+4177,0.0,0,Neutral,Neutral
+4178,0.0,0,Neutral,Neutral
+4179,-0.0,0,Neutral,Neutral
+4180,0.0,0,Neutral,Neutral
+4181,0.0,0,Neutral,Neutral
+4182,1.0,0,Slighty warm,Neutral
+4183,1.0,0,Slighty warm,Neutral
+4184,1.0,0,Slighty warm,Neutral
+4185,0.0,0,Neutral,Neutral
+4186,1.0,0,Slighty warm,Neutral
+4187,0.0,0,Neutral,Neutral
+4188,0.0,0,Neutral,Neutral
+4189,-0.0,0,Neutral,Neutral
+4190,-1.0,0,Slighty cool,Neutral
+4191,0.0,0,Neutral,Neutral
+4192,-2.0,0,Cool,Neutral
+4193,-1.0,0,Slighty cool,Neutral
+4194,0.0,0,Neutral,Neutral
+4195,-2.0,0,Cool,Neutral
+4196,0.0,0,Neutral,Neutral
+4197,0.0,0,Neutral,Neutral
+4198,0.0,0,Neutral,Neutral
+4199,-1.0,0,Slighty cool,Neutral
+4200,0.0,0,Neutral,Neutral
+4201,0.0,0,Neutral,Neutral
+4202,1.0,0,Slighty warm,Neutral
+4203,0.0,0,Neutral,Neutral
+4204,2.0,0,Warm,Neutral
+4205,-2.0,0,Cool,Neutral
+4206,0.0,0,Neutral,Neutral
+4207,0.0,0,Neutral,Neutral
+4208,0.0,0,Neutral,Neutral
+4209,0.0,0,Neutral,Neutral
+4210,2.0,0,Warm,Neutral
+4211,-2.0,0,Cool,Neutral
+4212,0.0,0,Neutral,Neutral
+4213,0.0,0,Neutral,Neutral
+4214,0.0,0,Neutral,Neutral
+4215,0.0,0,Neutral,Neutral
+4216,3.0,0,Hot,Neutral
+4217,0.0,0,Neutral,Neutral
+4218,1.0,0,Slighty warm,Neutral
+4219,0.0,0,Neutral,Neutral
+4220,2.0,0,Warm,Neutral
+4221,0.0,0,Neutral,Neutral
+4222,2.0,0,Warm,Neutral
+4223,0.0,0,Neutral,Neutral
+4224,-2.0,0,Cool,Neutral
+4225,0.0,0,Neutral,Neutral
+4226,-1.0,0,Slighty cool,Neutral
+4227,-2.0,0,Cool,Neutral
+4228,2.0,0,Warm,Neutral
+4229,0.0,0,Neutral,Neutral
+4230,0.0,0,Neutral,Neutral
+4231,1.0,0,Slighty warm,Neutral
+4232,1.0,0,Slighty warm,Neutral
+4233,-1.0,0,Slighty cool,Neutral
+4234,2.0,0,Warm,Neutral
+4235,0.0,0,Neutral,Neutral
+4236,-2.0,0,Cool,Neutral
+4237,0.0,0,Neutral,Neutral
+4238,0.0,0,Neutral,Neutral
+4239,3.0,0,Hot,Neutral
+4240,-1.0,0,Slighty cool,Neutral
+4241,1.0,0,Slighty warm,Neutral
+4242,2.0,0,Warm,Neutral
+4243,0.0,0,Neutral,Neutral
+4244,0.0,0,Neutral,Neutral
+4245,0.0,0,Neutral,Neutral
+4246,0.0,0,Neutral,Neutral
+4247,2.0,0,Warm,Neutral
+4248,0.0,0,Neutral,Neutral
+4249,-0.0,0,Neutral,Neutral
+4250,0.0,0,Neutral,Neutral
+4251,-1.0,0,Slighty cool,Neutral
+4252,-1.0,0,Slighty cool,Neutral
+4253,0.0,0,Neutral,Neutral
+4254,0.0,0,Neutral,Neutral
+4255,0.0,0,Neutral,Neutral
+4256,1.0,0,Slighty warm,Neutral
+4257,0.0,0,Neutral,Neutral
+4258,1.0,0,Slighty warm,Neutral
+4259,0.0,0,Neutral,Neutral
+4260,-2.0,0,Cool,Neutral
+4261,0.0,0,Neutral,Neutral
+4262,-1.0,0,Slighty cool,Neutral
+4263,1.0,0,Slighty warm,Neutral
+4264,3.0,0,Hot,Neutral
+4265,0.0,0,Neutral,Neutral
+4266,2.0,0,Warm,Neutral
+4267,-1.0,0,Slighty cool,Neutral
+4268,0.0,0,Neutral,Neutral
+4269,0.0,0,Neutral,Neutral
+4270,0.0,0,Neutral,Neutral
+4271,-1.0,0,Slighty cool,Neutral
+4272,0.0,0,Neutral,Neutral
+4273,0.0,0,Neutral,Neutral
+4274,0.0,0,Neutral,Neutral
+4275,-1.0,0,Slighty cool,Neutral
+4276,1.0,0,Slighty warm,Neutral
+4277,-1.0,0,Slighty cool,Neutral
+4278,-3.0,0,Cold,Neutral
+4279,0.0,0,Neutral,Neutral
+4280,-1.0,0,Slighty cool,Neutral
+4281,0.0,0,Neutral,Neutral
+4282,3.0,0,Hot,Neutral
+4283,2.0,0,Warm,Neutral
+4284,-1.0,0,Slighty cool,Neutral
+4285,1.0,0,Slighty warm,Neutral
+4286,1.0,0,Slighty warm,Neutral
+4287,0.0,0,Neutral,Neutral
+4288,3.0,0,Hot,Neutral
+4289,0.0,0,Neutral,Neutral
+4290,1.0,0,Slighty warm,Neutral
+4291,0.0,0,Neutral,Neutral
+4292,0.0,0,Neutral,Neutral
+4293,0.0,0,Neutral,Neutral
+4294,0.0,0,Neutral,Neutral
+4295,-1.0,0,Slighty cool,Neutral
+4296,3.0,0,Hot,Neutral
+4297,2.0,0,Warm,Neutral
+4298,1.0,0,Slighty warm,Neutral
+4299,-1.0,0,Slighty cool,Neutral
+4300,2.0,0,Warm,Neutral
+4301,0.0,0,Neutral,Neutral
+4302,0.0,0,Neutral,Neutral
+4303,-2.0,0,Cool,Neutral
+4304,-1.0,0,Slighty cool,Neutral
+4305,-1.0,0,Slighty cool,Neutral
+4306,0.0,0,Neutral,Neutral
+4307,0.0,0,Neutral,Neutral
+4308,0.0,0,Neutral,Neutral
+4309,-0.0,0,Neutral,Neutral
+4310,0.0,0,Neutral,Neutral
+4311,1.0,0,Slighty warm,Neutral
+4312,0.0,0,Neutral,Neutral
+4313,0.0,0,Neutral,Neutral
+4314,0.0,0,Neutral,Neutral
+4315,-1.0,0,Slighty cool,Neutral
+4316,0.0,0,Neutral,Neutral
+4317,-3.0,0,Cold,Neutral
+4318,1.0,0,Slighty warm,Neutral
+4319,0.0,0,Neutral,Neutral
+4320,0.0,0,Neutral,Neutral
+4321,0.0,0,Neutral,Neutral
+4322,-1.0,0,Slighty cool,Neutral
+4323,0.0,0,Neutral,Neutral
+4324,0.0,0,Neutral,Neutral
+4325,0.0,0,Neutral,Neutral
+4326,0.0,0,Neutral,Neutral
+4327,0.0,0,Neutral,Neutral
+4328,3.0,0,Hot,Neutral
+4329,-1.0,0,Slighty cool,Neutral
+4330,-1.0,0,Slighty cool,Neutral
+4331,0.0,0,Neutral,Neutral
+4332,0.0,0,Neutral,Neutral
+4333,0.0,0,Neutral,Neutral
+4334,2.0,0,Warm,Neutral
+4335,0.0,0,Neutral,Neutral
+4336,0.0,0,Neutral,Neutral
+4337,2.0,0,Warm,Neutral
+4338,0.0,0,Neutral,Neutral
+4339,0.0,0,Neutral,Neutral
+4340,-1.0,0,Slighty cool,Neutral
+4341,1.0,0,Slighty warm,Neutral
+4342,2.0,0,Warm,Neutral
+4343,1.0,0,Slighty warm,Neutral
+4344,3.0,0,Hot,Neutral
+4345,-1.0,0,Slighty cool,Neutral
+4346,0.0,0,Neutral,Neutral
+4347,3.0,0,Hot,Neutral
+4348,-1.0,0,Slighty cool,Neutral
+4349,0.0,0,Neutral,Neutral
+4350,0.0,0,Neutral,Neutral
+4351,1.0,0,Slighty warm,Neutral
+4352,-0.0,0,Neutral,Neutral
+4353,1.0,0,Slighty warm,Neutral
+4354,0.0,0,Neutral,Neutral
+4355,0.0,0,Neutral,Neutral
+4356,-0.0,0,Neutral,Neutral
+4357,1.0,0,Slighty warm,Neutral
+4358,0.0,0,Neutral,Neutral
+4359,0.0,0,Neutral,Neutral
+4360,-1.0,0,Slighty cool,Neutral
+4361,0.0,0,Neutral,Neutral
+4362,0.0,0,Neutral,Neutral
+4363,1.0,0,Slighty warm,Neutral
+4364,0.0,0,Neutral,Neutral
+4365,0.0,0,Neutral,Neutral
+4366,1.0,0,Slighty warm,Neutral
+4367,0.0,0,Neutral,Neutral
+4368,-2.0,0,Cool,Neutral
+4369,0.0,0,Neutral,Neutral
+4370,0.0,0,Neutral,Neutral
+4371,0.0,0,Neutral,Neutral
+4372,0.0,0,Neutral,Neutral
+4373,-1.0,0,Slighty cool,Neutral
+4374,-1.0,0,Slighty cool,Neutral
+4375,0.0,0,Neutral,Neutral
+4376,-1.0,0,Slighty cool,Neutral
+4377,0.0,0,Neutral,Neutral
+4378,1.0,0,Slighty warm,Neutral
+4379,0.0,0,Neutral,Neutral
+4380,1.0,0,Slighty warm,Neutral
+4381,0.0,0,Neutral,Neutral
+4382,0.0,0,Neutral,Neutral
+4383,1.0,0,Slighty warm,Neutral
+4384,0.0,0,Neutral,Neutral
+4385,-1.0,0,Slighty cool,Neutral
+4386,0.0,0,Neutral,Neutral
+4387,1.0,0,Slighty warm,Neutral
+4388,-1.0,0,Slighty cool,Neutral
+4389,3.0,0,Hot,Neutral
+4390,0.0,0,Neutral,Neutral
+4391,2.0,0,Warm,Neutral
+4392,-3.0,0,Cold,Neutral
+4393,3.0,0,Hot,Neutral
+4394,0.0,0,Neutral,Neutral
+4395,0.0,0,Neutral,Neutral
+4396,-2.0,0,Cool,Neutral
+4397,-0.0,0,Neutral,Neutral
+4398,2.0,0,Warm,Neutral
+4399,1.0,0,Slighty warm,Neutral
+4400,0.0,0,Neutral,Neutral
+4401,0.0,0,Neutral,Neutral
+4402,2.0,0,Warm,Neutral
+4403,1.0,0,Slighty warm,Neutral
+4404,2.0,0,Warm,Neutral
+4405,2.0,0,Warm,Neutral
+4406,0.0,0,Neutral,Neutral
+4407,0.0,0,Neutral,Neutral
+4408,1.0,0,Slighty warm,Neutral
+4409,-1.0,0,Slighty cool,Neutral
+4410,0.0,0,Neutral,Neutral
+4411,0.0,0,Neutral,Neutral
+4412,-2.0,0,Cool,Neutral
+4413,1.0,0,Slighty warm,Neutral
+4414,0.0,0,Neutral,Neutral
+4415,0.0,0,Neutral,Neutral
+4416,-1.0,0,Slighty cool,Neutral
+4417,-1.0,0,Slighty cool,Neutral
+4418,-2.0,0,Cool,Neutral
+4419,-1.0,0,Slighty cool,Neutral
+4420,1.0,0,Slighty warm,Neutral
+4421,3.0,0,Hot,Neutral
+4422,0.0,0,Neutral,Neutral
+4423,0.0,0,Neutral,Neutral
+4424,0.0,0,Neutral,Neutral
+4425,1.0,0,Slighty warm,Neutral
+4426,0.0,0,Neutral,Neutral
+4427,0.0,0,Neutral,Neutral
+4428,0.0,0,Neutral,Neutral
+4429,0.0,0,Neutral,Neutral
+4430,0.0,0,Neutral,Neutral
+4431,0.0,0,Neutral,Neutral
+4432,0.0,0,Neutral,Neutral
+4433,0.0,0,Neutral,Neutral
+4434,-1.0,0,Slighty cool,Neutral
+4435,0.0,0,Neutral,Neutral
+4436,-1.0,0,Slighty cool,Neutral
+4437,-2.0,0,Cool,Neutral
+4438,1.0,0,Slighty warm,Neutral
+4439,3.0,0,Hot,Neutral
+4440,1.0,0,Slighty warm,Neutral
+4441,0.0,0,Neutral,Neutral
+4442,0.0,0,Neutral,Neutral
+4443,0.0,0,Neutral,Neutral
+4444,0.0,0,Neutral,Neutral
+4445,0.0,0,Neutral,Neutral
+4446,0.0,0,Neutral,Neutral
+4447,1.0,0,Slighty warm,Neutral
+4448,-2.0,0,Cool,Neutral
+4449,1.0,0,Slighty warm,Neutral
+4450,1.0,0,Slighty warm,Neutral
+4451,3.0,0,Hot,Neutral
+4452,1.0,0,Slighty warm,Neutral
+4453,1.0,0,Slighty warm,Neutral
+4454,0.0,0,Neutral,Neutral
+4455,1.0,0,Slighty warm,Neutral
+4456,0.0,0,Neutral,Neutral
+4457,0.0,0,Neutral,Neutral
+4458,1.0,0,Slighty warm,Neutral
+4459,0.0,0,Neutral,Neutral
+4460,-2.0,0,Cool,Neutral
+4461,0.0,0,Neutral,Neutral
+4462,0.0,0,Neutral,Neutral
+4463,0.0,0,Neutral,Neutral
+4464,2.0,0,Warm,Neutral
+4465,0.0,0,Neutral,Neutral
+4466,0.0,0,Neutral,Neutral
+4467,0.0,0,Neutral,Neutral
+4468,-1.0,0,Slighty cool,Neutral
+4469,-0.0,0,Neutral,Neutral
+4470,-1.0,0,Slighty cool,Neutral
+4471,1.0,0,Slighty warm,Neutral
+4472,0.0,0,Neutral,Neutral
+4473,2.0,0,Warm,Neutral
+4474,-1.0,0,Slighty cool,Neutral
+4475,0.0,0,Neutral,Neutral
+4476,-1.0,0,Slighty cool,Neutral
+4477,0.0,0,Neutral,Neutral
+4478,0.0,0,Neutral,Neutral
+4479,-0.0,0,Neutral,Neutral
+4480,0.0,0,Neutral,Neutral
+4481,3.0,0,Hot,Neutral
+4482,0.0,0,Neutral,Neutral
+4483,0.0,0,Neutral,Neutral
+4484,0.0,0,Neutral,Neutral
+4485,-1.0,0,Slighty cool,Neutral
+4486,0.0,0,Neutral,Neutral
+4487,0.0,0,Neutral,Neutral
+4488,2.0,0,Warm,Neutral
+4489,0.0,0,Neutral,Neutral
+4490,0.0,0,Neutral,Neutral
+4491,-0.0,0,Neutral,Neutral
+4492,0.0,0,Neutral,Neutral
+4493,3.0,0,Hot,Neutral
+4494,-1.0,0,Slighty cool,Neutral
+4495,0.0,0,Neutral,Neutral
+4496,-0.0,0,Neutral,Neutral
+4497,-1.0,0,Slighty cool,Neutral
+4498,2.0,0,Warm,Neutral
+4499,-1.0,0,Slighty cool,Neutral
+4500,1.0,0,Slighty warm,Neutral
+4501,0.0,0,Neutral,Neutral
+4502,2.0,0,Warm,Neutral
+4503,0.0,0,Neutral,Neutral
+4504,0.0,0,Neutral,Neutral
+4505,0.0,0,Neutral,Neutral
+4506,2.0,0,Warm,Neutral
+4507,0.0,0,Neutral,Neutral
+4508,1.0,0,Slighty warm,Neutral
+4509,3.0,0,Hot,Neutral
+4510,0.0,0,Neutral,Neutral
+4511,1.0,0,Slighty warm,Neutral
+4512,0.0,0,Neutral,Neutral
+4513,-1.0,0,Slighty cool,Neutral
+4514,-0.0,0,Neutral,Neutral
+4515,0.0,0,Neutral,Neutral
+4516,1.0,0,Slighty warm,Neutral
+4517,2.0,0,Warm,Neutral
+4518,0.0,0,Neutral,Neutral
+4519,0.0,0,Neutral,Neutral
+4520,-0.0,0,Neutral,Neutral
+4521,0.0,0,Neutral,Neutral
+4522,1.0,0,Slighty warm,Neutral
+4523,0.0,0,Neutral,Neutral
+4524,-1.0,0,Slighty cool,Neutral
+4525,1.0,0,Slighty warm,Neutral
+4526,0.0,0,Neutral,Neutral
+4527,0.0,0,Neutral,Neutral
+4528,1.0,0,Slighty warm,Neutral
+4529,-1.0,0,Slighty cool,Neutral
+4530,-0.0,0,Neutral,Neutral
+4531,1.0,0,Slighty warm,Neutral
+4532,-1.0,0,Slighty cool,Neutral
+4533,0.0,0,Neutral,Neutral
+4534,-2.0,0,Cool,Neutral
+4535,-1.0,0,Slighty cool,Neutral
+4536,-1.0,0,Slighty cool,Neutral
+4537,0.0,0,Neutral,Neutral
+4538,0.0,0,Neutral,Neutral
+4539,1.0,0,Slighty warm,Neutral
+4540,-1.0,0,Slighty cool,Neutral
+4541,0.0,0,Neutral,Neutral
+4542,-0.0,0,Neutral,Neutral
+4543,0.0,0,Neutral,Neutral
+4544,0.0,0,Neutral,Neutral
+4545,1.0,0,Slighty warm,Neutral
+4546,-2.0,0,Cool,Neutral
+4547,2.0,0,Warm,Neutral
+4548,0.0,0,Neutral,Neutral
+4549,0.0,0,Neutral,Neutral
+4550,-1.0,0,Slighty cool,Neutral
+4551,-1.0,0,Slighty cool,Neutral
+4552,3.0,0,Hot,Neutral
+4553,-1.0,0,Slighty cool,Neutral
+4554,-0.0,0,Neutral,Neutral
+4555,0.0,0,Neutral,Neutral
+4556,-0.0,0,Neutral,Neutral
+4557,0.0,0,Neutral,Neutral
+4558,2.0,0,Warm,Neutral
+4559,-1.0,0,Slighty cool,Neutral
+4560,-1.0,0,Slighty cool,Neutral
+4561,0.0,0,Neutral,Neutral
+4562,0.0,0,Neutral,Neutral
+4563,0.0,0,Neutral,Neutral
+4564,2.0,0,Warm,Neutral
+4565,0.0,0,Neutral,Neutral
+4566,0.0,0,Neutral,Neutral
+4567,-1.0,0,Slighty cool,Neutral
+4568,0.0,0,Neutral,Neutral
+4569,-1.0,0,Slighty cool,Neutral
+4570,0.0,0,Neutral,Neutral
+4571,-1.0,0,Slighty cool,Neutral
+4572,1.0,0,Slighty warm,Neutral
+4573,0.0,0,Neutral,Neutral
+4574,3.0,0,Hot,Neutral
+4575,2.0,0,Warm,Neutral
+4576,0.0,0,Neutral,Neutral
+4577,3.0,0,Hot,Neutral
+4578,-1.0,0,Slighty cool,Neutral
+4579,-3.0,0,Cold,Neutral
+4580,0.0,0,Neutral,Neutral
+4581,1.0,0,Slighty warm,Neutral
+4582,1.0,0,Slighty warm,Neutral
+4583,0.0,0,Neutral,Neutral
+4584,0.0,0,Neutral,Neutral
+4585,1.0,0,Slighty warm,Neutral
+4586,1.0,1,Slighty warm,Slighty warm
+4587,1.0,0,Slighty warm,Neutral
+4588,-1.0,0,Slighty cool,Neutral
+4589,0.0,0,Neutral,Neutral
+4590,0.0,0,Neutral,Neutral
+4591,0.0,0,Neutral,Neutral
+4592,0.0,0,Neutral,Neutral
+4593,1.0,0,Slighty warm,Neutral
+4594,1.0,0,Slighty warm,Neutral
+4595,0.0,0,Neutral,Neutral
+4596,1.0,0,Slighty warm,Neutral
+4597,3.0,0,Hot,Neutral
+4598,2.0,0,Warm,Neutral
+4599,2.0,0,Warm,Neutral
+4600,-1.0,0,Slighty cool,Neutral
+4601,-1.0,0,Slighty cool,Neutral
+4602,-0.0,0,Neutral,Neutral
+4603,3.0,0,Hot,Neutral
+4604,3.0,0,Hot,Neutral
+4605,-1.0,0,Slighty cool,Neutral
+4606,0.0,0,Neutral,Neutral
+4607,0.0,0,Neutral,Neutral
+4608,3.0,0,Hot,Neutral
+4609,1.0,0,Slighty warm,Neutral
+4610,-1.0,0,Slighty cool,Neutral
+4611,2.0,0,Warm,Neutral
+4612,-1.0,0,Slighty cool,Neutral
+4613,1.0,0,Slighty warm,Neutral
+4614,2.0,0,Warm,Neutral
+4615,2.0,0,Warm,Neutral
+4616,1.0,0,Slighty warm,Neutral
+4617,0.0,0,Neutral,Neutral
+4618,0.0,0,Neutral,Neutral
+4619,0.0,0,Neutral,Neutral
+4620,0.0,0,Neutral,Neutral
+4621,1.0,0,Slighty warm,Neutral
+4622,1.0,0,Slighty warm,Neutral
+4623,-3.0,0,Cold,Neutral
+4624,0.0,0,Neutral,Neutral
+4625,2.0,0,Warm,Neutral
+4626,-1.0,0,Slighty cool,Neutral
+4627,1.0,0,Slighty warm,Neutral
+4628,1.0,0,Slighty warm,Neutral
+4629,1.0,0,Slighty warm,Neutral
+4630,3.0,0,Hot,Neutral
+4631,-1.0,0,Slighty cool,Neutral
+4632,-1.0,0,Slighty cool,Neutral
+4633,-0.0,0,Neutral,Neutral
+4634,-1.0,0,Slighty cool,Neutral
+4635,0.0,0,Neutral,Neutral
+4636,1.0,0,Slighty warm,Neutral
+4637,1.0,0,Slighty warm,Neutral
+4638,-1.0,0,Slighty cool,Neutral
+4639,-1.0,0,Slighty cool,Neutral
+4640,1.0,0,Slighty warm,Neutral
+4641,-3.0,0,Cold,Neutral
+4642,0.0,0,Neutral,Neutral
+4643,0.0,0,Neutral,Neutral
+4644,1.0,0,Slighty warm,Neutral
+4645,0.0,0,Neutral,Neutral
+4646,-1.0,0,Slighty cool,Neutral
+4647,0.0,0,Neutral,Neutral
+4648,0.0,0,Neutral,Neutral
+4649,0.0,0,Neutral,Neutral
+4650,-2.0,0,Cool,Neutral
+4651,-1.0,0,Slighty cool,Neutral
+4652,2.0,0,Warm,Neutral
+4653,1.0,0,Slighty warm,Neutral
+4654,2.0,0,Warm,Neutral
+4655,0.0,0,Neutral,Neutral
+4656,-1.0,0,Slighty cool,Neutral
+4657,0.0,0,Neutral,Neutral
+4658,-1.0,0,Slighty cool,Neutral
+4659,1.0,0,Slighty warm,Neutral
+4660,-1.0,0,Slighty cool,Neutral
+4661,0.0,0,Neutral,Neutral
+4662,0.0,0,Neutral,Neutral
+4663,3.0,0,Hot,Neutral
+4664,-1.0,0,Slighty cool,Neutral
+4665,0.0,0,Neutral,Neutral
+4666,-0.0,0,Neutral,Neutral
+4667,0.0,0,Neutral,Neutral
+4668,0.0,0,Neutral,Neutral
+4669,0.0,0,Neutral,Neutral
+4670,0.0,0,Neutral,Neutral
+4671,0.0,0,Neutral,Neutral
+4672,0.0,0,Neutral,Neutral
+4673,-1.0,0,Slighty cool,Neutral
+4674,-1.0,0,Slighty cool,Neutral
+4675,3.0,0,Hot,Neutral
+4676,1.0,0,Slighty warm,Neutral
+4677,0.0,0,Neutral,Neutral
+4678,1.0,0,Slighty warm,Neutral
+4679,-2.0,0,Cool,Neutral
+4680,-1.0,0,Slighty cool,Neutral
+4681,0.0,0,Neutral,Neutral
+4682,0.0,0,Neutral,Neutral
+4683,1.0,0,Slighty warm,Neutral
+4684,-2.0,0,Cool,Neutral
+4685,0.0,0,Neutral,Neutral
+4686,0.0,0,Neutral,Neutral
+4687,1.0,0,Slighty warm,Neutral
+4688,0.0,0,Neutral,Neutral
+4689,0.0,0,Neutral,Neutral
+4690,1.0,0,Slighty warm,Neutral
+4691,-0.0,0,Neutral,Neutral
+4692,1.0,0,Slighty warm,Neutral
+4693,0.0,0,Neutral,Neutral
+4694,0.0,0,Neutral,Neutral
+4695,2.0,0,Warm,Neutral
+4696,-1.0,0,Slighty cool,Neutral
+4697,0.0,0,Neutral,Neutral
+4698,0.0,0,Neutral,Neutral
+4699,0.0,0,Neutral,Neutral
+4700,0.0,0,Neutral,Neutral
+4701,0.0,0,Neutral,Neutral
+4702,-2.0,0,Cool,Neutral
+4703,-3.0,0,Cold,Neutral
+4704,0.0,0,Neutral,Neutral
+4705,0.0,0,Neutral,Neutral
+4706,-0.0,0,Neutral,Neutral
+4707,-1.0,0,Slighty cool,Neutral
+4708,2.0,0,Warm,Neutral
+4709,0.0,0,Neutral,Neutral
+4710,0.0,0,Neutral,Neutral
+4711,-1.0,0,Slighty cool,Neutral
+4712,1.0,0,Slighty warm,Neutral
+4713,0.0,0,Neutral,Neutral
+4714,0.0,0,Neutral,Neutral
+4715,-1.0,0,Slighty cool,Neutral
+4716,0.0,0,Neutral,Neutral
+4717,1.0,0,Slighty warm,Neutral
+4718,0.0,0,Neutral,Neutral
+4719,0.0,0,Neutral,Neutral
+4720,2.0,0,Warm,Neutral
+4721,1.0,0,Slighty warm,Neutral
+4722,0.0,0,Neutral,Neutral
+4723,-2.0,0,Cool,Neutral
+4724,0.0,0,Neutral,Neutral
+4725,0.0,0,Neutral,Neutral
+4726,0.0,0,Neutral,Neutral
+4727,2.0,0,Warm,Neutral
+4728,0.0,0,Neutral,Neutral
+4729,0.0,0,Neutral,Neutral
+4730,2.0,0,Warm,Neutral
+4731,2.0,0,Warm,Neutral
+4732,0.0,0,Neutral,Neutral
+4733,-1.0,0,Slighty cool,Neutral
+4734,-1.0,0,Slighty cool,Neutral
+4735,0.0,0,Neutral,Neutral
+4736,-0.0,0,Neutral,Neutral
+4737,-1.0,0,Slighty cool,Neutral
+4738,3.0,0,Hot,Neutral
+4739,3.0,0,Hot,Neutral
+4740,1.0,0,Slighty warm,Neutral
+4741,0.0,0,Neutral,Neutral
+4742,1.0,0,Slighty warm,Neutral
+4743,2.0,0,Warm,Neutral
+4744,0.0,0,Neutral,Neutral
+4745,1.0,0,Slighty warm,Neutral
+4746,-1.0,0,Slighty cool,Neutral
+4747,3.0,0,Hot,Neutral
+4748,3.0,0,Hot,Neutral
+4749,0.0,0,Neutral,Neutral
+4750,-2.0,0,Cool,Neutral
+4751,0.0,0,Neutral,Neutral
+4752,1.0,0,Slighty warm,Neutral
+4753,-1.0,0,Slighty cool,Neutral
+4754,-1.0,0,Slighty cool,Neutral
+4755,-1.0,0,Slighty cool,Neutral
+4756,-2.0,0,Cool,Neutral
+4757,-1.0,0,Slighty cool,Neutral
+4758,0.0,0,Neutral,Neutral
+4759,0.0,0,Neutral,Neutral
+4760,0.0,0,Neutral,Neutral
+4761,-1.0,0,Slighty cool,Neutral
+4762,2.0,0,Warm,Neutral
+4763,1.0,0,Slighty warm,Neutral
+4764,-2.0,0,Cool,Neutral
+4765,0.0,0,Neutral,Neutral
+4766,2.0,0,Warm,Neutral
+4767,1.0,0,Slighty warm,Neutral
+4768,1.0,0,Slighty warm,Neutral
+4769,-1.0,0,Slighty cool,Neutral
+4770,0.0,0,Neutral,Neutral
+4771,0.0,0,Neutral,Neutral
+4772,0.0,0,Neutral,Neutral
+4773,1.0,0,Slighty warm,Neutral
+4774,0.0,0,Neutral,Neutral
+4775,1.0,0,Slighty warm,Neutral
+4776,1.0,0,Slighty warm,Neutral
+4777,0.0,0,Neutral,Neutral
+4778,0.0,0,Neutral,Neutral
+4779,-0.0,0,Neutral,Neutral
+4780,0.0,0,Neutral,Neutral
+4781,-1.0,0,Slighty cool,Neutral
+4782,0.0,0,Neutral,Neutral
+4783,0.0,0,Neutral,Neutral
+4784,0.0,0,Neutral,Neutral
+4785,-1.0,0,Slighty cool,Neutral
+4786,0.0,0,Neutral,Neutral
+4787,0.0,0,Neutral,Neutral
+4788,0.0,0,Neutral,Neutral
+4789,0.0,0,Neutral,Neutral
+4790,1.0,0,Slighty warm,Neutral
+4791,0.0,0,Neutral,Neutral
+4792,1.0,0,Slighty warm,Neutral
+4793,0.0,0,Neutral,Neutral
+4794,1.0,0,Slighty warm,Neutral
+4795,3.0,0,Hot,Neutral
+4796,1.0,0,Slighty warm,Neutral
+4797,-0.0,0,Neutral,Neutral
+4798,1.0,0,Slighty warm,Neutral
+4799,1.0,0,Slighty warm,Neutral
+4800,0.0,0,Neutral,Neutral
+4801,1.0,0,Slighty warm,Neutral
+4802,3.0,0,Hot,Neutral
+4803,0.0,0,Neutral,Neutral
+4804,-1.0,0,Slighty cool,Neutral
+4805,-1.0,0,Slighty cool,Neutral
+4806,0.0,0,Neutral,Neutral
+4807,0.0,0,Neutral,Neutral
+4808,3.0,0,Hot,Neutral
+4809,3.0,0,Hot,Neutral
+4810,2.0,0,Warm,Neutral
+4811,3.0,0,Hot,Neutral
+4812,-1.0,0,Slighty cool,Neutral
+4813,0.0,0,Neutral,Neutral
+4814,0.0,0,Neutral,Neutral
+4815,-1.0,0,Slighty cool,Neutral
+4816,0.0,0,Neutral,Neutral
+4817,-1.0,0,Slighty cool,Neutral
+4818,-0.0,0,Neutral,Neutral
+4819,1.0,0,Slighty warm,Neutral
+4820,0.0,0,Neutral,Neutral
+4821,3.0,0,Hot,Neutral
+4822,-1.0,0,Slighty cool,Neutral
+4823,0.0,0,Neutral,Neutral
+4824,0.0,0,Neutral,Neutral
+4825,-1.0,0,Slighty cool,Neutral
+4826,3.0,0,Hot,Neutral
+4827,0.0,0,Neutral,Neutral
+4828,0.0,0,Neutral,Neutral
+4829,3.0,0,Hot,Neutral
+4830,1.0,0,Slighty warm,Neutral
+4831,0.0,0,Neutral,Neutral
+4832,0.0,0,Neutral,Neutral
+4833,-1.0,0,Slighty cool,Neutral
+4834,-1.0,0,Slighty cool,Neutral
+4835,0.0,0,Neutral,Neutral
+4836,0.0,0,Neutral,Neutral
+4837,1.0,0,Slighty warm,Neutral
+4838,0.0,0,Neutral,Neutral
+4839,-1.0,0,Slighty cool,Neutral
+4840,0.0,0,Neutral,Neutral
+4841,0.0,0,Neutral,Neutral
+4842,2.0,0,Warm,Neutral
+4843,1.0,0,Slighty warm,Neutral
+4844,-1.0,0,Slighty cool,Neutral
+4845,0.0,0,Neutral,Neutral
+4846,0.0,0,Neutral,Neutral
+4847,0.0,0,Neutral,Neutral
+4848,0.0,0,Neutral,Neutral
+4849,-3.0,0,Cold,Neutral
+4850,1.0,0,Slighty warm,Neutral
+4851,3.0,0,Hot,Neutral
+4852,-1.0,0,Slighty cool,Neutral
+4853,0.0,0,Neutral,Neutral
+4854,0.0,0,Neutral,Neutral
+4855,0.0,0,Neutral,Neutral
+4856,1.0,0,Slighty warm,Neutral
+4857,0.0,0,Neutral,Neutral
+4858,-2.0,0,Cool,Neutral
+4859,0.0,0,Neutral,Neutral
+4860,-1.0,0,Slighty cool,Neutral
+4861,0.0,0,Neutral,Neutral
+4862,-1.0,0,Slighty cool,Neutral
+4863,0.0,0,Neutral,Neutral
+4864,0.0,0,Neutral,Neutral
+4865,-1.0,0,Slighty cool,Neutral
+4866,-1.0,0,Slighty cool,Neutral
+4867,1.0,0,Slighty warm,Neutral
+4868,0.0,0,Neutral,Neutral
+4869,-1.0,0,Slighty cool,Neutral
+4870,0.0,0,Neutral,Neutral
+4871,0.0,0,Neutral,Neutral
+4872,0.0,0,Neutral,Neutral
+4873,0.0,0,Neutral,Neutral
+4874,0.0,0,Neutral,Neutral
+4875,0.0,0,Neutral,Neutral
+4876,0.0,0,Neutral,Neutral
+4877,2.0,0,Warm,Neutral
+4878,0.0,0,Neutral,Neutral
+4879,0.0,0,Neutral,Neutral
+4880,1.0,0,Slighty warm,Neutral
+4881,-2.0,0,Cool,Neutral
+4882,0.0,0,Neutral,Neutral
+4883,0.0,0,Neutral,Neutral
+4884,-1.0,0,Slighty cool,Neutral
+4885,0.0,0,Neutral,Neutral
+4886,2.0,0,Warm,Neutral
+4887,0.0,0,Neutral,Neutral
+4888,0.0,0,Neutral,Neutral
+4889,0.0,0,Neutral,Neutral
+4890,2.0,0,Warm,Neutral
+4891,0.0,0,Neutral,Neutral
+4892,0.0,0,Neutral,Neutral
+4893,-1.0,0,Slighty cool,Neutral
+4894,-1.0,0,Slighty cool,Neutral
+4895,0.0,0,Neutral,Neutral
+4896,-1.0,0,Slighty cool,Neutral
+4897,0.0,0,Neutral,Neutral
+4898,1.0,0,Slighty warm,Neutral
+4899,0.0,0,Neutral,Neutral
+4900,0.0,0,Neutral,Neutral
+4901,1.0,0,Slighty warm,Neutral
+4902,-2.0,0,Cool,Neutral
+4903,1.0,0,Slighty warm,Neutral
+4904,0.0,0,Neutral,Neutral
+4905,2.0,0,Warm,Neutral
+4906,0.0,0,Neutral,Neutral
+4907,1.0,0,Slighty warm,Neutral
+4908,-1.0,0,Slighty cool,Neutral
+4909,-1.0,0,Slighty cool,Neutral
+4910,0.0,0,Neutral,Neutral
+4911,2.0,0,Warm,Neutral
+4912,2.0,0,Warm,Neutral
+4913,0.0,0,Neutral,Neutral
+4914,-2.0,0,Cool,Neutral
+4915,-2.0,0,Cool,Neutral
+4916,1.0,0,Slighty warm,Neutral
+4917,-1.0,0,Slighty cool,Neutral
+4918,-1.0,0,Slighty cool,Neutral
+4919,0.0,0,Neutral,Neutral
+4920,-2.0,0,Cool,Neutral
+4921,-1.0,0,Slighty cool,Neutral
+4922,0.0,0,Neutral,Neutral
+4923,3.0,0,Hot,Neutral
+4924,-1.0,0,Slighty cool,Neutral
+4925,2.0,0,Warm,Neutral
+4926,0.0,0,Neutral,Neutral
+4927,0.0,0,Neutral,Neutral
+4928,0.0,0,Neutral,Neutral
+4929,-3.0,0,Cold,Neutral
+4930,0.0,0,Neutral,Neutral
+4931,2.0,0,Warm,Neutral
+4932,3.0,0,Hot,Neutral
+4933,0.0,0,Neutral,Neutral
+4934,-1.0,0,Slighty cool,Neutral
+4935,0.0,0,Neutral,Neutral
+4936,-3.0,0,Cold,Neutral
+4937,1.0,0,Slighty warm,Neutral
+4938,-1.0,0,Slighty cool,Neutral
+4939,-1.0,0,Slighty cool,Neutral
+4940,0.0,0,Neutral,Neutral
+4941,-2.0,0,Cool,Neutral
+4942,2.0,0,Warm,Neutral
+4943,3.0,0,Hot,Neutral
+4944,2.0,0,Warm,Neutral
+4945,-1.0,0,Slighty cool,Neutral
+4946,1.0,0,Slighty warm,Neutral
+4947,1.0,0,Slighty warm,Neutral
+4948,-1.0,0,Slighty cool,Neutral
+4949,1.0,0,Slighty warm,Neutral
+4950,1.0,0,Slighty warm,Neutral
+4951,0.0,0,Neutral,Neutral
+4952,-1.0,0,Slighty cool,Neutral
+4953,3.0,0,Hot,Neutral
+4954,-2.0,0,Cool,Neutral
+4955,-1.0,0,Slighty cool,Neutral
+4956,0.0,0,Neutral,Neutral
+4957,0.0,0,Neutral,Neutral
+4958,0.0,0,Neutral,Neutral
+4959,0.0,0,Neutral,Neutral
+4960,-3.0,0,Cold,Neutral
+4961,0.0,0,Neutral,Neutral
+4962,1.0,0,Slighty warm,Neutral
+4963,1.0,0,Slighty warm,Neutral
+4964,1.0,0,Slighty warm,Neutral
+4965,0.0,0,Neutral,Neutral
+4966,-1.0,0,Slighty cool,Neutral
+4967,0.0,1,Neutral,Slighty warm
+4968,-1.0,0,Slighty cool,Neutral
+4969,0.0,0,Neutral,Neutral
+4970,0.0,0,Neutral,Neutral
+4971,1.0,0,Slighty warm,Neutral
+4972,-0.0,0,Neutral,Neutral
+4973,0.0,0,Neutral,Neutral
+4974,1.0,0,Slighty warm,Neutral
+4975,0.0,0,Neutral,Neutral
+4976,-1.0,0,Slighty cool,Neutral
+4977,1.0,0,Slighty warm,Neutral
+4978,-1.0,0,Slighty cool,Neutral
+4979,3.0,0,Hot,Neutral
+4980,0.0,0,Neutral,Neutral
+4981,0.0,0,Neutral,Neutral
+4982,-1.0,0,Slighty cool,Neutral
+4983,1.0,0,Slighty warm,Neutral
+4984,0.0,0,Neutral,Neutral
+4985,-1.0,0,Slighty cool,Neutral
+4986,2.0,0,Warm,Neutral
+4987,0.0,0,Neutral,Neutral
+4988,0.0,0,Neutral,Neutral
+4989,1.0,0,Slighty warm,Neutral
+4990,0.0,0,Neutral,Neutral
+4991,0.0,0,Neutral,Neutral
+4992,0.0,0,Neutral,Neutral
+4993,0.0,0,Neutral,Neutral
+4994,-1.0,0,Slighty cool,Neutral
+4995,0.0,0,Neutral,Neutral
+4996,1.0,0,Slighty warm,Neutral
+4997,1.0,0,Slighty warm,Neutral
+4998,1.0,0,Slighty warm,Neutral
+4999,-1.0,0,Slighty cool,Neutral
+5000,-1.0,0,Slighty cool,Neutral
+5001,2.0,0,Warm,Neutral
+5002,-1.0,0,Slighty cool,Neutral
+5003,-1.0,0,Slighty cool,Neutral
+5004,1.0,0,Slighty warm,Neutral
+5005,-1.0,0,Slighty cool,Neutral
+5006,1.0,0,Slighty warm,Neutral
+5007,0.0,0,Neutral,Neutral
+5008,3.0,0,Hot,Neutral
+5009,1.0,0,Slighty warm,Neutral
+5010,-0.0,0,Neutral,Neutral
+5011,1.0,0,Slighty warm,Neutral
+5012,0.0,0,Neutral,Neutral
+5013,0.0,0,Neutral,Neutral
+5014,2.0,0,Warm,Neutral
+5015,0.0,0,Neutral,Neutral
+5016,0.0,0,Neutral,Neutral
+5017,-1.0,0,Slighty cool,Neutral
+5018,2.0,0,Warm,Neutral
+5019,2.0,0,Warm,Neutral
+5020,0.0,0,Neutral,Neutral
+5021,0.0,0,Neutral,Neutral
+5022,0.0,0,Neutral,Neutral
+5023,-2.0,0,Cool,Neutral
+5024,0.0,0,Neutral,Neutral
+5025,2.0,0,Warm,Neutral
+5026,3.0,0,Hot,Neutral
+5027,0.0,0,Neutral,Neutral
+5028,0.0,0,Neutral,Neutral
+5029,-1.0,0,Slighty cool,Neutral
+5030,0.0,0,Neutral,Neutral
+5031,0.0,0,Neutral,Neutral
+5032,0.0,0,Neutral,Neutral
+5033,0.0,0,Neutral,Neutral
+5034,-1.0,0,Slighty cool,Neutral
+5035,1.0,0,Slighty warm,Neutral
+5036,-1.0,0,Slighty cool,Neutral
+5037,-1.0,0,Slighty cool,Neutral
+5038,1.0,0,Slighty warm,Neutral
+5039,1.0,0,Slighty warm,Neutral
+5040,-2.0,0,Cool,Neutral
+5041,-1.0,0,Slighty cool,Neutral
+5042,-2.0,0,Cool,Neutral
+5043,-1.0,0,Slighty cool,Neutral
+5044,3.0,0,Hot,Neutral
+5045,3.0,0,Hot,Neutral
+5046,1.0,0,Slighty warm,Neutral
+5047,0.0,0,Neutral,Neutral
+5048,0.0,0,Neutral,Neutral
+5049,1.0,0,Slighty warm,Neutral
+5050,1.0,0,Slighty warm,Neutral
+5051,1.0,0,Slighty warm,Neutral
+5052,2.0,0,Warm,Neutral
+5053,-1.0,0,Slighty cool,Neutral
+5054,-1.0,0,Slighty cool,Neutral
+5055,0.0,0,Neutral,Neutral
+5056,0.0,0,Neutral,Neutral
+5057,-1.0,0,Slighty cool,Neutral
+5058,1.0,0,Slighty warm,Neutral
+5059,1.0,0,Slighty warm,Neutral
+5060,-1.0,0,Slighty cool,Neutral
+5061,0.0,0,Neutral,Neutral
+5062,2.0,0,Warm,Neutral
+5063,0.0,0,Neutral,Neutral
+5064,1.0,0,Slighty warm,Neutral
+5065,-1.0,0,Slighty cool,Neutral
+5066,1.0,0,Slighty warm,Neutral
+5067,0.0,0,Neutral,Neutral
+5068,0.0,0,Neutral,Neutral
+5069,-1.0,0,Slighty cool,Neutral
+5070,-2.0,0,Cool,Neutral
+5071,-1.0,0,Slighty cool,Neutral
+5072,1.0,0,Slighty warm,Neutral
+5073,3.0,0,Hot,Neutral
+5074,1.0,0,Slighty warm,Neutral
+5075,0.0,0,Neutral,Neutral
+5076,3.0,0,Hot,Neutral
+5077,0.0,0,Neutral,Neutral
+5078,2.0,0,Warm,Neutral
+5079,1.0,0,Slighty warm,Neutral
+5080,0.0,0,Neutral,Neutral
+5081,0.0,0,Neutral,Neutral
+5082,-1.0,0,Slighty cool,Neutral
+5083,0.0,0,Neutral,Neutral
+5084,-1.0,0,Slighty cool,Neutral
+5085,-0.0,0,Neutral,Neutral
+5086,0.0,0,Neutral,Neutral
+5087,0.0,0,Neutral,Neutral
+5088,0.0,0,Neutral,Neutral

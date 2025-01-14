@@ -1,0 +1,25 @@
+#The program need to run
+program: train.py
+
+# Searching method (Grid, Random, Bayes)
+method: random
+
+# Project this sweep is part of
+project: HowDoYouFeel
+entity: lhkaay
+
+# Metric to optimize
+metric:
+  name: Total_Valid_Loss
+  goal: minimize #maximize
+
+# Parameters space to search
+parameters:
+  learning_rate:
+    distribution: log_uniform_values
+    min: 1e-5
+    max: 1e-2
+  batch_size:
+    values: [8,16,32,64]
+  epochs:
+    values: [10,50,100,150,200,300,400,500,1000,2000,5000,10000] 

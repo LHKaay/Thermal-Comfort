@@ -1,0 +1,21 @@
+Date
+Season
+Climate Zone
+
+Sex
+Age
+Height
+Weight
+
+TSV
+
+Clothing
+Metabolic
+
+avg(temperate, humidity, air) at 3
+PMV
+PPD
+
+
+
+

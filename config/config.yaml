@@ -1,0 +1,18 @@
+project: HowDoYouFeel
+entity: lhkaay
+version: 1.3
+
+seed: 24
+
+data_path: 'Dataset\clean_data\chinese_data.csv'
+batch_size: 16
+learning_rate: 1.0e-5
+epochs: 20
+
+backbone: 'LNN'
+input_dim: 19
+hidden_dim: 128
+expert_output_dim: 16
+output_dim: 1
+num_experts: 15
+k: 15

@@ -1,8 +1,0 @@
-project: HowDoYouFeel
-entity: LHK
-
-data_path: 'Dataset\clean_data\chinese_ver0.1.csv'
-batch_size: 16
-learning_rate: 1.0e-3
-epochs: 100
-
